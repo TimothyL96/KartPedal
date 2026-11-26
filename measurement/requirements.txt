@@ -1,7 +1,7 @@
 numpy==1.26.4
 scipy==1.12.0
 numba==0.60.0
-Pillow==10.4.0
+Pillow==13.0.0
 opencv-python==4.9.0.80
 imageio-ffmpeg==0.5.1
 psutil>=5.9,<8
