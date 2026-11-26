@@ -9,6 +9,8 @@
 
 ![Actual Inputs tab with the supplied recording loaded](images/desktop-inputs.jpg)
 
+For a first bench recording, select **Single logger only**, choose one SD folder and enter calibration intervals in **Logger seconds**. The LVZ uses that foot’s own clock. **Camera-aligned** adds the clip and marker controls for synchronized playback. Switching timelines keeps your camera entries in the open form.
+
 ## Files you will see
 
 | File in the new export | What to open it for |
@@ -23,6 +25,8 @@
 Only recorded sides get side files. The app saves each export under `measurement/user-data/exports/<run>/`. The separately rendered demonstration and its cut map are in the [prepared media folder](../measurement/artifacts/final/).
 
 ## Install on another Windows PC
+
+For a GitHub checkout, use Git for Windows with Git LFS and run `git lfs pull` from the project root. The full-length transparent demonstration is stored in LFS. The LVZ and short review MP4 are regular repository files.
 
 Keep the project folders together. Use 64-bit Python 3.12 with Tcl/Tk and Node.js on PATH. The release was exercised with Python 3.12.7 and Node 24.22.3. Python supplies the desktop and estimator. Node verifies the binary journal. The Python requirements include the FFmpeg used for video. [Python for Windows](https://www.python.org/downloads/windows/) · [Node.js](https://nodejs.org/en/download)
 

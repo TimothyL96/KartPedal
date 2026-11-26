@@ -8,7 +8,12 @@ def logged_edges(folder):
         result=[]
         for line in f:
             e=json.loads(line)
-            if e.get('type')=='marker' and e.get('edge')=='rise':result.append((str(e['marker_id']),e['t_us']/1e6))
+            if not isinstance(e,dict):
+                raise ValueError('Expected an event object in events.jsonl')
+            if e.get('type')=='marker' and e.get('edge')=='rise':
+                if not isinstance(e.get('t_us'),int) or not isinstance(e.get('marker_id'),(str,int)):
+                    raise ValueError('LED marker is missing its timestamp or ID')
+                result.append((str(e['marker_id']),e['t_us']/1e6))
         return result
 def detect(clip,frame_index,roi,ids):
     x,y,w,h=map(int,roi)

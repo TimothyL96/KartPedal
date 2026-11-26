@@ -100,6 +100,10 @@ export async function verifySession(source, output) {
     for (const [n,s] of states) if(s.fd!==undefined&&s.end!==fs.fstatSync(s.fd).size) issues.push(n+': discarded tail');
   } catch(e){issues.push(e.message);}
   finally {journal?.destroy();for(const h of handles)fs.closeSync(h);}
+  for(const sensor of ['shoe','shin']) {
+    if(![...states.values()].some(s=>s.stream===sensor && s.count>0))
+      issues.push('No committed '+sensor+' IMU samples');
+  }
   const report={issues,closeReason:close?.reason??null,physicalUnmount:'unknown',
     streams:[...states].map(([file,s])=>({file,stream:s.stream,epoch:s.epoch,count:s.count,error:s.error,
       first_us:s.firstUs??null,last_us:s.prev?Number(s.prev.tUs):null,known_lost:s.lost??0,clipped:s.clipped??0,

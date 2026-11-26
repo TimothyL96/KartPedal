@@ -31,4 +31,4 @@ See when each foot moves through a corner. KartPedal takes the raw six-axis reco
 
 The angle is heel-supported ankle excursion in degrees. A driver can change effort while holding the same pose. Brake force, pedal travel and throttle position remain outside this measurement.
 
-The [original V18 build manual](KartPedal_Master_Engineering_Report_V18_2026-11-26.html) preserves the parts ledger, diagrams and physical acceptance criteria. Use the guides above for the compiled firmware and current software.
+The [hardware arrival guide](docs/HARDWARE_FIRST_TEST.md) contains the wiring and physical acceptance gates. The original illustrated V18 manual and purchase records are kept in the owner's local project folder.

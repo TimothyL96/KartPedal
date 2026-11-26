@@ -2,6 +2,8 @@
 
 **27 November 2026 · Windows.** The release passed its software checks using synthetic SD recordings. The components are still in delivery. The next qualification run starts with one bare controller on USB.
 
+The public-release pass covers 17 regression tests. New cases exercise a torn event tail and closed logs with missing or empty sensor streams. The desktop test switches between logger and camera timelines, processes both, and compares every camera-aligned LVZ member with the reference.
+
 | Release check | Observed result |
 |---|---|
 | Fresh desktop environment and normal launch | Installed the project Python requirements into a fresh local environment. Launched **Start KartPedal.cmd**, clicked **Load synthetic demo** and **Process and export LVZ**, and saw **LVZ ready**. [Inputs](images/desktop-inputs.jpg) · [Quality](images/desktop-quality.jpg) |

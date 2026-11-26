@@ -1,4 +1,11 @@
 /.venv/
+# Local credentials, private source material and recordings copied from devices.
+.env
+.env.*
+!.env.example
+/recordings/
+/imports/
+/KartPedal_Master_Engineering_Report_V18_2026-11-26.html
 /firmware/.tools/
 /firmware/KartPedal/build/
 __pycache__/

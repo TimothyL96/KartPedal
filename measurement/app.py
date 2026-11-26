@@ -98,26 +98,34 @@ class Leg:
         entry(p,'Saved profile (optional)',self.profile,4)
         ttk.Button(p,text='Choose profile…',command=lambda:choose(self.profile.set,[('Calibration profile','*.json')])).grid(row=4,column=2)
         explain(p,'Enter a neutral hold, then rock shoe and shin together. Mark the press direction within that rocking interval. With a matching saved profile, only fresh neutral times are required.',5)
-        self.markers=tk.Text(p,height=4,width=36)
-        ttk.Label(p,text='Marker ID, video seconds, fit/check').grid(row=6,column=0,sticky='w')
-        self.markers.grid(row=6,column=1,columnspan=2,sticky='ew',padx=8)
-        explain(p,'For manual timing enter one pulse per line, e.g. 1, 2.12, fit. Fit the first and last, and mark a middle pulse as check. For automatic timing select the LED on a frame.',7)
-        ttk.Checkbutton(p,text='Detect filmed pulses',variable=self.auto).grid(row=8,column=0,sticky='w')
-        ttk.Entry(p,textvariable=self.roi).grid(row=8,column=1,sticky='ew',padx=8)
-        ttk.Button(p,text='Select LED on frame…',command=safe(self.pick_roi)).grid(row=8,column=2)
-        entry(p,'Pulse IDs in clip (optional)',self.ids,9)
+        sync=self.sync_panel=ttk.Frame(p);sync.grid(row=6,column=0,columnspan=3,sticky='ew')
+        sync.columnconfigure(1,weight=1)
+        self.markers=tk.Text(sync,height=4,width=36)
+        ttk.Label(sync,text='Marker ID, video seconds, fit/check').grid(row=0,column=0,sticky='w')
+        self.markers.grid(row=0,column=1,columnspan=2,sticky='ew',padx=8)
+        explain(sync,'For manual timing enter one pulse per line, e.g. 1, 2.12, fit. Fit the first and last, and mark a middle pulse as check. For automatic timing select the LED on a frame.',1)
+        ttk.Checkbutton(sync,text='Detect filmed pulses',variable=self.auto).grid(row=2,column=0,sticky='w')
+        ttk.Entry(sync,textvariable=self.roi).grid(row=2,column=1,sticky='ew',padx=8)
+        ttk.Button(sync,text='Select LED on frame…',command=safe(self.pick_roi)).grid(row=2,column=2)
+        entry(sync,'Pulse IDs in clip (optional)',self.ids,3)
         entry(p,'Onset °, return °, dwell s',self.thresholds,10)
     def import_folder(self,folder):
         p=Path(folder)
         if not (p/'meta.json').exists():raise ValueError('Open the boot/session folder containing meta.json under the device folder on the SD card.')
         m=json.loads((p/'meta.json').read_text())
         if m['side']!=self.side:raise ValueError(f"This is the {m['side']} logger. Select its matching tab.")
-        edges=logged_edges(p)
+        # Preview is optional. The integrity check must remain available for a torn card.
+        try:
+            edges=logged_edges(p)
+            marker_note='LED rises in logger seconds: '+', '.join(f'{i} = {t:.2f}' for i,t in edges[:12]) if edges else 'No LED rises found.'
+        except (OSError,ValueError):
+            edges=[]
+            marker_note='Cannot read the LED events. Use Check SD integrity before calibration.'
         if self.app.synthetic and not m['device_id'].startswith('synthetic-'):
             self.app.assign({})
         elif self.folder.get() and Path(self.folder.get()).resolve()!=p.resolve():
             self.load({})
-        self.folder.set(str(p));self.note.set(m['device_id']+'  •  LED rise times on logger  '+', '.join(f'{i} = {t:.2f} s' for i,t in edges[:12]))
+        self.folder.set(str(p));self.note.set(m['device_id']+'  •  '+marker_note)
         self.app.clear_results()
         if not m['device_id'].startswith('synthetic-'):
             self.app.synthetic=False;self.app.context.set('Recording session')
@@ -158,7 +166,10 @@ class Leg:
         v=dict(directory=self.folder.get(),windows=windows,window_clock=self.frame.get(),
                markers={},event_thresholds=numbers(self.thresholds.get()))
         if self.profile.get():v['profile']=self.profile.get()
-        if device_only:return v
+        if device_only:
+            if self.frame.get()!='Logger seconds':
+                raise ValueError(f'{self.side} foot: choose Logger seconds and enter intervals measured on that logger.')
+            return v
         if self.auto.get():
             v.update(auto_led=True,led_roi=numbers(self.roi.get()))
             if len(v['led_roi'])!=4:raise ValueError(f'Select the {self.side} LED rectangle')
@@ -228,27 +239,38 @@ class App:
         actions=ttk.Frame(p);actions.grid(row=0,column=0,columnspan=3,sticky='ew',pady=(0,12))
         for name,fn in [('Load synthetic demo',lambda:self.load(HERE/'artifacts/outing/job.json')),('Open settings…',lambda:choose(lambda f:self.load(Path(f)),[('Session settings','*.json')])),('Save settings',self.persist),('New session',lambda:self.assign({}))]:
             ttk.Button(actions,text=name,command=safe(fn)).pack(side='left',padx=(0,5))
-        self.sources={}
+        modes=ttk.Frame(p)
+        modes.grid(row=1,column=0,columnspan=3,sticky='w',pady=(0,5))
+        ttk.Label(modes,text='LVZ timeline',style='Heading.TLabel').pack(side='left',padx=(0,14))
+        for label,mode in [('Camera-aligned',False),('Single logger only',True)]:
+            ttk.Radiobutton(modes,text=label,variable=self.device_only,value=mode).pack(side='left',padx=(0,12))
+        self.sources={};self.remove_source={}
         for index,side in enumerate(('L','R')):
             name='Left' if side=='L' else 'Right'
             row=ttk.Frame(p)
-            row.grid(row=index+1,column=0,columnspan=3,sticky='ew',pady=2)
+            row.grid(row=index+2,column=0,columnspan=3,sticky='ew',pady=2)
             ttk.Button(row,text=f'Choose {name.lower()} SD…',command=safe(lambda s=side:choose(self.legs[s].import_folder,'folder'))).pack(side='left')
             label=ttk.Label(row,text=f'{name} foot · no folder selected',style='Hint.TLabel')
             label.pack(side='left',padx=10);self.sources[side]=label
-        explain(p,'Choose one or both boot folders, then set calibration and filmed markers on each foot tab.',3)
-        inputs=ttk.Frame(p);inputs.grid(row=4,column=0,columnspan=3,sticky='ew')
+            button=ttk.Button(row,text='Clear',state='disabled',command=lambda s=side:self.clear_source(s))
+            button.pack(side='right');self.remove_source[side]=button
+        self.mode_hint=tk.StringVar()
+        ttk.Label(p,textvariable=self.mode_hint,style='Hint.TLabel',wraplength=525).grid(row=4,column=0,columnspan=3,sticky='w',pady=(3,8))
+        inputs=ttk.Frame(p);inputs.grid(row=5,column=0,columnspan=3,sticky='ew')
         inputs.columnconfigure(1,weight=1);p=inputs
-        entry(p,'DJI source clip',self.video,1);ttk.Button(p,text='Browse…',command=lambda:choose(self.video.set,[('Video','*.mp4 *.mov *.mkv')])).grid(row=1,column=2)
-        entry(p,'Duration if no video (s)',self.duration,2)
+        camera=self.camera_inputs=ttk.Frame(p);camera.grid(row=1,column=0,columnspan=3,sticky='ew')
+        camera.columnconfigure(1,weight=1)
+        entry(camera,'DJI source clip',self.video,0);ttk.Button(camera,text='Browse…',command=lambda:choose(self.video.set,[('Video','*.mp4 *.mov *.mkv')])).grid(row=0,column=2)
+        entry(camera,'Duration if no video (s)',self.duration,1)
         entry(p,'RaceBox UTC CSV',self.gps,3);ttk.Button(p,text='Browse…',command=lambda:choose(self.gps.set,[('RaceBox CSV','*.csv')])).grid(row=3,column=2)
         ttk.Label(p,text='RaceBox speed unit').grid(row=4,column=0,sticky='w')
         ttk.Combobox(p,textvariable=self.unit,values=['km/h','mph','m/s'],state='readonly',width=9).grid(row=4,column=1,sticky='w',padx=8)
-        explain(p,'Optional GPS alignment uses two fit crossings and a separate middle check. Leave the pairs empty for foot-only telemetry.',5)
-        ttk.Label(p,text='GPS elapsed s, video s, fit/check').grid(row=6,column=0,sticky='w')
-        self.gpsanchors=tk.Text(p,height=3,width=35);self.gpsanchors.grid(row=6,column=1,columnspan=2,sticky='ew',padx=8)
-        ttk.Button(p,text='Inspect GPS lap crossings',command=safe(self.crossings)).grid(row=7,column=1,sticky='w')
-        ttk.Checkbutton(p,text='Single logger only (no video or shared clock required)',variable=self.device_only).grid(row=9,column=0,columnspan=3,sticky='w')
+        gps=self.crossing_inputs=ttk.Frame(p);gps.grid(row=5,column=0,columnspan=3,sticky='ew')
+        gps.columnconfigure(1,weight=1)
+        explain(gps,'Optional GPS alignment uses two fit crossings and a separate middle check. Leave the pairs empty for foot-only telemetry.',0)
+        ttk.Label(gps,text='GPS elapsed s, video s, fit/check').grid(row=1,column=0,sticky='w')
+        self.gpsanchors=tk.Text(gps,height=3,width=35);self.gpsanchors.grid(row=1,column=1,columnspan=2,sticky='ew',padx=8)
+        ttk.Button(gps,text='Inspect GPS lap crossings',command=safe(self.crossings)).grid(row=2,column=1,sticky='w')
         ttk.Button(p,text='Check SD integrity before calibration',command=safe(self.inspect)).grid(row=10,column=0,columnspan=3,sticky='w',pady=8)
         self.legs={s:Leg(self,s) for s in 'LR'}
         for s,leg in self.legs.items():
@@ -274,11 +296,34 @@ class App:
         self.status=tk.StringVar(value='Load the demo or choose an SD recording.')
         self.status_label=ttk.Label(bottom,textvariable=self.status,wraplength=350)
         self.status_label.pack(side='left',padx=6)
-        self.root.after(80,self.poll)
+        self.device_only.trace_add('write',self.update_mode);self.update_mode()
+        self.poll_timer=self.root.after(80,self.poll)
+        root.bind('<Destroy>',self.cancel_poll,add=True)
+
+    def cancel_poll(self,event):
+        if event.widget==self.root:self.root.after_cancel(self.poll_timer)
+
+    def update_mode(self,*_):
+        logger_only=self.device_only.get()
+        for panel in (self.camera_inputs,self.crossing_inputs,*(leg.sync_panel for leg in self.legs.values())):
+            if logger_only:panel.grid_remove()
+            else:panel.grid()
+        self.mode_hint.set('Choose one SD folder. The LVZ starts at the first logger sample. An optional RaceBox CSV is checked separately.'
+                           if logger_only else 'Choose one or both SD folders. Filmed LED pulses align each foot to the DJI clip for LapViz playback. The video stays separate.')
+        self.clear_results()
+        selected=sum(bool(leg.folder.get()) for leg in self.legs.values())
+        if logger_only and selected>1:self.status.set('Clear one SD selection to export a single foot.')
+        elif selected:self.status.set('Review calibration on the selected foot tabs, then export.')
+        else:self.status.set('Load the demo or choose an SD recording.')
+
+    def clear_source(self,side):
+        self.legs[side].load({})
+        self.clear_results();self.status.set(f'{side} foot removed from this session.')
 
     def source_changed(self,side):
         path=self.legs[side].folder.get()
         self.sources[side].configure(text=Path(path).name if path else 'No folder selected')
+        self.remove_source[side].state(['!disabled' if path else 'disabled'])
 
     def clear_results(self):
         self.last_out=None;self.open_folder.state(['disabled'])
@@ -299,21 +344,26 @@ class App:
             if lap!=last:data.append(f'{dt.isoformat()}    {t:.3f} s    lap {lap}');last=lap
         messagebox.showinfo('RaceBox crossing candidates','Match visible track crossings independently.\n\n'+'\n'.join(data[:30]))
     def value(self):
-        j=dict(legs={},synthetic=self.synthetic,device_only=self.device_only.get())
+        device_only=self.device_only.get()
+        if device_only and all(leg.folder.get() for leg in self.legs.values()):
+            self.tabs.select(self.hosts[self.inputs])
+            raise ValueError('Single logger only uses one foot. Clear the other SD selection on Inputs.')
+        j=dict(legs={},synthetic=self.synthetic,device_only=device_only)
         for s,obj in self.legs.items():
             try:v=obj.value(self.device_only.get())
             except ValueError:
                 self.tabs.select(self.hosts[obj.panel])
                 raise
             if v:j['legs'][s]=v
-        if self.video.get():j['video']=self.video.get()
-        if self.duration.get():
+        if not device_only and self.video.get():j['video']=self.video.get()
+        if not device_only and self.duration.get():
             try:j['duration']=numeric_field(self.duration.get(),'Duration')
             except ValueError:
                 self.tabs.select(self.hosts[self.inputs]);raise
         if self.gps.get():
             a=[]
-            for i,line in enumerate(self.gpsanchors.get('1.0','end').strip().splitlines(),1):
+            lines=[] if device_only else self.gpsanchors.get('1.0','end').strip().splitlines()
+            for i,line in enumerate(lines,1):
                 fields=[v.strip() for v in line.split(',')]
                 try:
                     if len(fields)!=3 or fields[2] not in ('fit','check'):
@@ -350,8 +400,13 @@ class App:
                     for s,folder in sources.items():
                         self.bus.put(('progress',f'{s} • Checking journal, CRCs and sequence continuity'))
                         qc=verify_raw(folder,Path(td)/s)
+                        side=json.loads((Path(td)/s/'meta.json').read_text(encoding='utf8'))['side']
+                        if side!=s:raise ValueError(f'The {s} foot selection contains the {side} logger. Choose the matching foot tab.')
                         for st in qc['streams']:
-                            self.bus.put(('progress',f"{st['file']}: {st['count']} verified records, {st['known_lost']} known losses, {st['clipped']} clipped"))
+                            rate=st['observed_hz'];fraction=st['known_fresh_fraction']
+                            rate_text=f'{rate:.2f} Hz' if rate is not None else 'rate unavailable'
+                            fresh_text=f'{100*fraction:.3f}% of known frames' if fraction is not None else 'no committed frames'
+                            self.bus.put(('progress',f"{st['file']}: {st['count']} verified records, {rate_text}, {fresh_text}, {st['known_lost']} known losses, {st['clipped']} clipped"))
                         if qc['issues']:raise ValueError('; '.join(qc['issues'])+'. Keep the original card and inspect the recovered prefix.')
                 self.bus.put(('audit','SD integrity checked'))
             except Exception as e:self.bus.put(('error',str(e)))
@@ -403,7 +458,7 @@ class App:
                 self.last_out=val;self.open_folder.state(['!disabled'])
                 self.status.set('LVZ ready');self.line('Open this file in LapViz Studio:\n'+str(val/'KartPedal.lvz'))
             else:self.status.set('Processing stopped');self.line(str(val))
-        self.root.after(80,self.poll)
+        self.poll_timer=self.root.after(80,self.poll)
 if __name__=='__main__':
     root=tk.Tk();App(root);root.mainloop()
 

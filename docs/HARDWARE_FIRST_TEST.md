@@ -11,7 +11,7 @@
 - [ ] For powered voltage measurements, select **DC V**, 20 V if manual. Black goes to GND, red to the labelled rail. Keep the red lead out of the current sockets. Never measure current across a rail or battery. Disconnect before moving wiring.
 - [ ] Back up the intended cards. Verify full capacity by write/read on the PC, then FAT32 and readback. Check which drive is selected before formatting. The adapter seller’s ≤2 GB claim remains an open question until the selected cards pass.
 
-The [illustrated V18 manual](../KartPedal_Master_Engineering_Report_V18_2026-11-26.html) includes the connector envelopes, soldering examples and power circuit.
+The owner's local copy of `KartPedal_Master_Engineering_Report_V18_2026-11-26.html` includes the original connector drawings, soldering examples and purchase evidence.
 
 ## 2 · Flash one bare controller over USB
 
@@ -25,6 +25,8 @@ Choose the side that fits best. If both fit equally, V18 suggests starting on th
 Use the full side directory in the upload command so the uploader gets the application, bootloader and partitions. The small application binary alone is insufficient for a blank board. [Build instructions and hashes](TEST_RESULTS.md)
 
 From PowerShell in KartPedal, with no battery or peripherals attached, list ports once unplugged and again after connecting the board. Choose the port that actually appeared. After delivery only, enter that port and the labelled side when prompted below.
+
+On a fresh checkout, run `python -B firmware/build.py --provision` first to download the local Arduino CLI and its board tools.
 
 ~~~powershell
 $cli = ".\firmware\.tools\arduino-cli.exe"
@@ -76,6 +78,8 @@ With the battery still isolated, enter USB maintenance and send `BENCH_RECORD`. 
 | Still stopping or ambiguous | Keep the unit stationary and off-body. The required deadline is 10 seconds. Treat failure to reach an identifiable terminal state as a failed gate. |
 
 Copy the boot folder and run **Check SD integrity before calibration**. Require ≥99.9% fresh expected frames per sensor at 100 Hz, all gaps accounted for, no unexplained resets or corrupted blocks, and evidence across two sensor-clock wraps. Inspect queue high-water, counts and stalls. Repeat safe cycles and qualify timeout/reset behavior off-body. A smoke readback alone cannot qualify combined logging.
+
+The desktop audit shows observed Hz and the fraction of known frames received per sensor. Unknown losses are outside that fraction. Compare committed counts with the expected recording duration at 100 Hz. In the logger's `summary.json`, `queue_high_water` is the maximum queued item count and `max_io_us` is the longest measured writer operation in microseconds.
 
 ## 5 · Battery, fit and the first real outing
 

@@ -7,7 +7,7 @@ import jsonschema
 import cv2
 import imageio_ffmpeg
 from PIL import Image
-from pipeline import HERE,PROJECT,run,save,digest
+from pipeline import HERE,PROJECT,run,save,digest,verify_raw
 from engine import clock_fit,Detector,AXES
 from racebox import records,gps_export
 from acceptance import score
@@ -121,6 +121,29 @@ class Regression(unittest.TestCase):
         j=short_job();j['legs']['R']['directory']=str(p)
         with self.assertRaisesRegex(ValueError,'CRC'):run(j,SOURCE,self.work/'damaged-out',lambda _:None)
         self.assertFalse((self.work/'damaged-out').exists())
+    def test_closed_empty_or_partial_logger(self):
+        folder=self.work/'empty-logger';folder.mkdir()
+        shutil.copyfile(SOURCE/'R/meta.json',folder/'meta.json')
+        (folder/'events.jsonl').write_bytes(b'')
+        close=dict(type='close',t_us=1000000,reason='user',events_end=0,streams=[])
+        def write_journal(lines):
+            (folder/'blocks.jsonl').write_bytes(b''.join((json.dumps(x)+'\n').encode() for x in lines))
+        write_journal([close])
+        qc=verify_raw(folder,self.work/'empty-audit')
+        self.assertEqual(set(qc['issues']),{'No committed shoe IMU samples','No committed shin IMU samples'})
+        name='imu_shoe_e000000.bin'
+        with (SOURCE/'R'/name).open('rb') as f:payload=f.read(78)
+        (folder/name).write_bytes(payload[:48])
+        close['streams']=[dict(file=name,end_offset=48,record_count=0)]
+        write_journal([close])
+        qc=verify_raw(folder,self.work/'header-only-audit')
+        self.assertIn('No committed shoe IMU samples',qc['issues'])
+        (folder/name).write_bytes(payload)
+        close['streams'][0].update(end_offset=78,record_count=1)
+        write_journal([dict(type='block',file=name,offset=48,length=30,count=1,events_end=0,crc32=zlib.crc32(payload[48:])),close])
+        qc=verify_raw(folder,self.work/'partial-audit')
+        self.assertEqual(qc['issues'],['No committed shin IMU samples'])
+        self.assertEqual(qc['streams'][0]['count'],1)
     def test_perturbed_raw_and_missing_side(self):
         root=self.work/'gyro';root.mkdir();p,_=changed_session(root)
         j=short_job();j['legs']['R']['directory']=str(p)
@@ -144,6 +167,24 @@ class Regression(unittest.TestCase):
         self.assertIsNone(q['gps']);self.assertIn('separately',q['warnings'][0])
         j['legs']['R']['profile']=str(FINAL/'L-profile.json')
         with self.assertRaisesRegex(ValueError,'different device'):run(j,SOURCE,self.work/'wrong-prof',lambda _:None)
+    def test_gui_inspects_interrupted_card(self):
+        folder=self.work/'interrupted-card';shutil.copytree(SOURCE/'R',folder)
+        events=folder/'events.jsonl'
+        with events.open('ab') as f:f.write(b'{"type":"marker"')
+        original=digest(events)
+        root=desktop.tk.Tk();root.withdraw()
+        try:
+            app=desktop.App(root);app.legs['R'].import_folder(folder)
+            self.assertEqual(app.legs['R'].folder.get(),str(folder))
+            self.assertIn('Check SD integrity',app.legs['R'].note.get())
+            self.assertEqual(app.legs['R'].markers.get('1.0','end').strip(),'')
+            app.inspect();deadline=time.monotonic()+30
+            while app.busy and time.monotonic()<deadline:root.update();time.sleep(.015)
+            self.assertEqual(app.status.get(),'Processing stopped')
+            self.assertIn('uncommitted events tail',app.log.get('1.0','end'))
+            self.assertIsNone(app.last_out);self.assertEqual(digest(events),original)
+        finally:root.destroy()
+
     def test_real_gui(self):
         desktop.STATE=self.work/'ui-state';r=desktop.tk.Tk();r.withdraw()
         try:
@@ -153,6 +194,22 @@ class Regression(unittest.TestCase):
             app.load(SOURCE/'job.json')
             self.assertEqual(app.context.get(),'Synthetic demo')
             self.assertEqual(app.value()['legs']['L']['windows'],load(SOURCE/'job.json')['legs']['L']['windows'])
+            camera_job=app.value()
+            app.device_only.set(True);app.btn.invoke()
+            self.assertIn('Clear the other SD',app.status.get())
+            self.assertEqual(app.camera_inputs.winfo_manager(),'')
+            app.device_only.set(False)
+            self.assertEqual(app.value(),camera_job)
+            app.device_only.set(True);app.remove_source['L'].invoke()
+            app.btn.invoke();end=time.monotonic()+45
+            while app.busy and time.monotonic()<end:r.update();time.sleep(.015)
+            self.assertIsNotNone(app.last_out,app.log.get('1.0','end'))
+            logger_settings=load(app.last_out/'settings.json')
+            self.assertNotIn('video',logger_settings);self.assertNotIn('duration',logger_settings)
+            self.assertEqual(logger_settings['gps']['anchors'],[])
+            self.assertEqual(lvz.read(app.last_out/'KartPedal.lvz').manifest['session']['clock'],'device')
+            self.assertEqual(app.summary.item(app.summary.get_children()[0],'values')[-1],'Logger only')
+            app.load(SOURCE/'job.json')
             app.legs['L'].times[0].set('invalid');app.btn.invoke()
             self.assertIn('Still start',app.status.get())
             self.assertEqual(app.tabs.select(),str(app.hosts[app.legs['L'].panel]))
@@ -168,6 +225,10 @@ class Regression(unittest.TestCase):
             self.assertEqual(len(app.summary.get_children()),2)
             self.assertIn('ms uncertainty',app.summary.item(app.summary.get_children()[0],'values')[-1])
             self.assertEqual((app.last_out/'R-motion.f32').read_bytes(),(FINAL/'R-motion.f32').read_bytes())
+            with ZipFile(app.last_out/'KartPedal.lvz') as actual, ZipFile(FINAL/'KartPedal.lvz') as expected:
+                self.assertEqual(set(actual.namelist()),set(expected.namelist()))
+                for member in expected.namelist():
+                    self.assertEqual(actual.read(member),expected.read(member),member)
             self.assertEqual(len(list((desktop.STATE/'devices').glob('*.json'))),2)
             self.assertIn('residual',app.log.get('1.0','end'))
             app.legs['L'].auto.set(False);app.legs['L'].markers.delete('1.0','end');app.legs['L'].markers.insert('end','missing, 1, fit')

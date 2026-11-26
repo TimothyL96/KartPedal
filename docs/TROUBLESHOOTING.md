@@ -18,9 +18,9 @@ Start at the first unexpected result. Preserve the original files and the exact 
 |---|---|
 | Launcher exits or a module is missing | Run the Python/Tk and Node checks in [Quick start](QUICK_START.md). Install the listed requirements into the project environment and reopen the launcher. |
 | Folder rejected or side mismatch | On the correct foot tab choose the boot directory containing `meta.json`, `blocks.jsonl` and the streams. Check device ID and side. Preserve the recorded metadata. |
-| Interrupted SD file or missing close | Use **Check SD integrity before calibration** or the QC command below on a copy. The decoder reports verified contiguous prefixes and discarded tails. A torn journal ends the scan. The measurement pipeline stops on integrity errors. Keep a healthy other leg as a separate single-side run. |
+| Interrupted SD file or missing close | Select the copied boot folder even if the LED preview cannot read the events. Run **Check SD integrity before calibration**. The decoder reports verified records and flags damaged or uncommitted tails. The measurement pipeline stops on integrity errors. A healthy opposite leg can be processed separately. |
 | Only one foot recorded | Start **New session**, select just the healthy foot and calibrate it. With its three filmed markers it can still align to the clip. The missing side has no LVZ channels. Both-foot overlap is unavailable. |
-| Forgot a marker or the LED detector found too few pulses | Check the LED rectangle and recorded IDs. Inspect the original frames. If the requisite pulses are visible, turn off automatic detection and enter their true times. Camera alignment requires two fit anchors and an interior check. Without them, select **Single logger only**, one SD folder, no video or GPS anchor pairs, and use logger-second calibration. Repeat separately for a second foot. |
+| Forgot a marker or the LED detector found too few pulses | Check the LED rectangle and recorded IDs. Inspect the original frames. If the requisite pulses are visible, turn off automatic detection and enter their true times. Camera alignment requires two fit anchors and an interior check. Without them, select **Single logger only**, keep one SD folder with **Clear**, and use logger-second calibration. The app omits the camera and GPS anchors from that export. Repeat separately for a second foot. |
 | DJI split the outing | Process one original clip at a time. Use only observed markers and GPS crossings for that clip. Choose the filmed subset of IDs. A clip without sufficient independent evidence has no accepted camera-aligned export. Filenames and nominal frame counts cannot recover the missing references. |
 | Missing RaceBox / UTC or units error | Omit RaceBox and export camera-aligned foot data alone. For a readable CSV with no crossing pairs, clear GPS anchors to keep GPS separate. For a malformed CSV, re-export supported UTC custom CSV or remove it. No GPS-derived speed, distance or lap comparison is available without aligned data. |
 | Neutral, hinge or profile rejected | Review the filmed neutral and positive-direction windows, time units and side. Secure the mount and recalibrate after a refit. Select fresh still data when reusing a profile. |
@@ -30,7 +30,7 @@ Start at the first unexpected result. Preserve the original files and the exact 
 
 ### Inspect a card before calibration
 
-This tested command reads the supplied right session. Replace the last argument with the **copied** physical boot directory when available. Exit 0 means the integrity scan succeeded. Exit 2 requests review, and exit 1 indicates an input or execution error.
+This recovery command reads the supplied right session. Replace the last argument with the **copied** physical boot directory when available. Exit 0 means its journal scan succeeded. Exit 2 requests review, and exit 1 indicates an input or execution error. Use the desktop integrity check for the first-leg bench gate. It also requires committed samples from both the shoe and shin.
 
 ~~~powershell
 node software-v18/kartpedal-v18-cli.mjs qc measurement/artifacts/outing/R
