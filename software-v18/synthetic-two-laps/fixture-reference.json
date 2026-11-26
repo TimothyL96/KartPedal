@@ -1,0 +1,67 @@
+{
+  "source": "SYNTHETIC analytic ankle angles and GPS; no IMU calibration or real clock acceptance",
+  "laps": [
+    {
+      "number": 1,
+      "start": 0,
+      "duration": 40
+    },
+    {
+      "number": 2,
+      "start": 40,
+      "duration": 42
+    }
+  ],
+  "anchors": {
+    "L": [
+      {
+        "use": "fit",
+        "logger_us": 1067091,
+        "truth_s": 0.417,
+        "first_lit_frame": 11
+      },
+      {
+        "use": "withheld",
+        "logger_us": 40674457,
+        "truth_s": 40.021,
+        "first_lit_frame": 1001
+      },
+      {
+        "use": "fit",
+        "logger_us": 81430921,
+        "truth_s": 80.774,
+        "first_lit_frame": 2020
+      }
+    ],
+    "R": [
+      {
+        "use": "fit",
+        "logger_us": 1085935,
+        "truth_s": 0.866,
+        "first_lit_frame": 22
+      },
+      {
+        "use": "withheld",
+        "logger_us": 40684559,
+        "truth_s": 40.467,
+        "first_lit_frame": 1012
+      },
+      {
+        "use": "fit",
+        "logger_us": 81442113,
+        "truth_s": 81.227,
+        "first_lit_frame": 2031
+      }
+    ]
+  },
+  "frameRate": 25,
+  "motionHz": 100,
+  "gpsHz": 25,
+  "leftGapSeconds": [
+    19.6,
+    20.2
+  ],
+  "binary": "Independent V18 two-record golden. Its example journal has no close entry.",
+  "merged": "Generated directly on a known source timeline. No real calibration, GPS alignment or video measurement.",
+  "video": "4:3 YUV4MPEG2 timing target, left and right LED patches in upper corners. Source PTS = frame/25."
+}

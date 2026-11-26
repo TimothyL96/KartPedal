@@ -1,0 +1,6 @@
+#Format=LapViz Delimited Data
+#Version=1
+#CircuitCode=genk
+#Fields=Latitude,Longitude,Speed,Accuracy
+#Event=1726135233528,Lap,1,0,738630000
+1726135200000,50.9821,5.3302,72.5,3

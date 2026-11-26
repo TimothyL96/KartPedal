@@ -1,0 +1,8199 @@
+1
+00:00:00,000 --> 00:00:00,040
+SYNTHETIC   |   Left ankle 7.4°   |   Right ankle 0.9°
+
+2
+00:00:00,040 --> 00:00:00,080
+SYNTHETIC   |   Left ankle 7.1°   |   Right ankle 0.8°
+
+3
+00:00:00,080 --> 00:00:00,120
+SYNTHETIC   |   Left ankle 6.8°   |   Right ankle 0.7°
+
+4
+00:00:00,120 --> 00:00:00,160
+SYNTHETIC   |   Left ankle 6.5°   |   Right ankle 0.7°
+
+5
+00:00:00,160 --> 00:00:00,200
+SYNTHETIC   |   Left ankle 6.2°   |   Right ankle 0.6°
+
+6
+00:00:00,200 --> 00:00:00,240
+SYNTHETIC   |   Left ankle 5.9°   |   Right ankle 0.6°
+
+7
+00:00:00,240 --> 00:00:00,280
+SYNTHETIC   |   Left ankle 5.6°   |   Right ankle 0.6°
+
+8
+00:00:00,280 --> 00:00:00,320
+SYNTHETIC   |   Left ankle 5.4°   |   Right ankle 0.5°
+
+9
+00:00:00,320 --> 00:00:00,360
+SYNTHETIC   |   Left ankle 5.1°   |   Right ankle 0.5°
+
+10
+00:00:00,360 --> 00:00:00,400
+SYNTHETIC   |   Left ankle 4.8°   |   Right ankle 0.4°
+
+11
+00:00:00,400 --> 00:00:00,440
+SYNTHETIC   |   Left ankle 4.6°   |   Right ankle 0.4°
+
+12
+00:00:00,440 --> 00:00:00,480
+SYNTHETIC   |   Left ankle 4.4°   |   Right ankle 0.3°
+
+13
+00:00:00,480 --> 00:00:00,520
+SYNTHETIC   |   Left ankle 4.1°   |   Right ankle 0.3°
+
+14
+00:00:00,520 --> 00:00:00,560
+SYNTHETIC   |   Left ankle 3.9°   |   Right ankle 0.3°
+
+15
+00:00:00,560 --> 00:00:00,600
+SYNTHETIC   |   Left ankle 3.7°   |   Right ankle 0.2°
+
+16
+00:00:00,600 --> 00:00:00,640
+SYNTHETIC   |   Left ankle 3.5°   |   Right ankle 0.2°
+
+17
+00:00:00,640 --> 00:00:00,680
+SYNTHETIC   |   Left ankle 3.3°   |   Right ankle 0.2°
+
+18
+00:00:00,680 --> 00:00:00,720
+SYNTHETIC   |   Left ankle 3.1°   |   Right ankle 0.2°
+
+19
+00:00:00,720 --> 00:00:00,760
+SYNTHETIC   |   Left ankle 2.9°   |   Right ankle 0.1°
+
+20
+00:00:00,760 --> 00:00:00,800
+SYNTHETIC   |   Left ankle 2.7°   |   Right ankle 0.1°
+
+21
+00:00:00,800 --> 00:00:00,840
+SYNTHETIC   |   Left ankle 2.5°   |   Right ankle 0.1°
+
+22
+00:00:00,840 --> 00:00:00,880
+SYNTHETIC   |   Left ankle 2.3°   |   Right ankle 0.1°
+
+23
+00:00:00,880 --> 00:00:00,920
+SYNTHETIC   |   Left ankle 2.2°   |   Right ankle 0.1°
+
+24
+00:00:00,920 --> 00:00:00,960
+SYNTHETIC   |   Left ankle 2.0°   |   Right ankle 0.0°
+
+25
+00:00:00,960 --> 00:00:01,000
+SYNTHETIC   |   Left ankle 1.9°   |   Right ankle 0.0°
+
+26
+00:00:01,000 --> 00:00:01,040
+SYNTHETIC   |   Left ankle 1.7°   |   Right ankle 0.0°
+
+27
+00:00:01,040 --> 00:00:01,080
+SYNTHETIC   |   Left ankle 1.6°   |   Right ankle 0.0°
+
+28
+00:00:01,080 --> 00:00:01,120
+SYNTHETIC   |   Left ankle 1.5°   |   Right ankle 0.0°
+
+29
+00:00:01,120 --> 00:00:01,160
+SYNTHETIC   |   Left ankle 1.4°   |   Right ankle 0.0°
+
+30
+00:00:01,160 --> 00:00:01,200
+SYNTHETIC   |   Left ankle 1.2°   |   Right ankle 0.0°
+
+31
+00:00:01,200 --> 00:00:01,240
+SYNTHETIC   |   Left ankle 1.1°   |   Right ankle 0.0°
+
+32
+00:00:01,240 --> 00:00:01,280
+SYNTHETIC   |   Left ankle 1.0°   |   Right ankle 0.0°
+
+33
+00:00:01,280 --> 00:00:01,320
+SYNTHETIC   |   Left ankle 1.0°   |   Right ankle 0.0°
+
+34
+00:00:01,320 --> 00:00:01,360
+SYNTHETIC   |   Left ankle 0.9°   |   Right ankle 0.0°
+
+35
+00:00:01,360 --> 00:00:01,400
+SYNTHETIC   |   Left ankle 0.8°   |   Right ankle 0.0°
+
+36
+00:00:01,400 --> 00:00:01,440
+SYNTHETIC   |   Left ankle 0.7°   |   Right ankle 0.0°
+
+37
+00:00:01,440 --> 00:00:01,480
+SYNTHETIC   |   Left ankle 0.6°   |   Right ankle 0.0°
+
+38
+00:00:01,480 --> 00:00:01,520
+SYNTHETIC   |   Left ankle 0.6°   |   Right ankle 0.0°
+
+39
+00:00:01,520 --> 00:00:01,560
+SYNTHETIC   |   Left ankle 0.5°   |   Right ankle 0.1°
+
+40
+00:00:01,560 --> 00:00:01,600
+SYNTHETIC   |   Left ankle 0.5°   |   Right ankle 0.1°
+
+41
+00:00:01,600 --> 00:00:01,640
+SYNTHETIC   |   Left ankle 0.4°   |   Right ankle 0.1°
+
+42
+00:00:01,640 --> 00:00:01,680
+SYNTHETIC   |   Left ankle 0.4°   |   Right ankle 0.1°
+
+43
+00:00:01,680 --> 00:00:01,720
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 0.1°
+
+44
+00:00:01,720 --> 00:00:01,760
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 0.2°
+
+45
+00:00:01,760 --> 00:00:01,800
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 0.2°
+
+46
+00:00:01,800 --> 00:00:01,840
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 0.2°
+
+47
+00:00:01,840 --> 00:00:01,880
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 0.2°
+
+48
+00:00:01,880 --> 00:00:01,920
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 0.3°
+
+49
+00:00:01,920 --> 00:00:01,960
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.3°
+
+50
+00:00:01,960 --> 00:00:02,000
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.3°
+
+51
+00:00:02,000 --> 00:00:02,040
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.4°
+
+52
+00:00:02,040 --> 00:00:02,080
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.4°
+
+53
+00:00:02,080 --> 00:00:02,120
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.4°
+
+54
+00:00:02,120 --> 00:00:02,160
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.5°
+
+55
+00:00:02,160 --> 00:00:02,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.5°
+
+56
+00:00:02,200 --> 00:00:02,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.6°
+
+57
+00:00:02,240 --> 00:00:02,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.6°
+
+58
+00:00:02,280 --> 00:00:02,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.7°
+
+59
+00:00:02,320 --> 00:00:02,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.7°
+
+60
+00:00:02,360 --> 00:00:02,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.8°
+
+61
+00:00:02,400 --> 00:00:02,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.8°
+
+62
+00:00:02,440 --> 00:00:02,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.9°
+
+63
+00:00:02,480 --> 00:00:02,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.9°
+
+64
+00:00:02,520 --> 00:00:02,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.0°
+
+65
+00:00:02,560 --> 00:00:02,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.1°
+
+66
+00:00:02,600 --> 00:00:02,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.1°
+
+67
+00:00:02,640 --> 00:00:02,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.2°
+
+68
+00:00:02,680 --> 00:00:02,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.3°
+
+69
+00:00:02,720 --> 00:00:02,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.3°
+
+70
+00:00:02,760 --> 00:00:02,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.4°
+
+71
+00:00:02,800 --> 00:00:02,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.5°
+
+72
+00:00:02,840 --> 00:00:02,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.5°
+
+73
+00:00:02,880 --> 00:00:02,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.6°
+
+74
+00:00:02,920 --> 00:00:02,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.7°
+
+75
+00:00:02,960 --> 00:00:03,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.8°
+
+76
+00:00:03,000 --> 00:00:03,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.8°
+
+77
+00:00:03,040 --> 00:00:03,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.9°
+
+78
+00:00:03,080 --> 00:00:03,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.0°
+
+79
+00:00:03,120 --> 00:00:03,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.1°
+
+80
+00:00:03,160 --> 00:00:03,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.2°
+
+81
+00:00:03,200 --> 00:00:03,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.3°
+
+82
+00:00:03,240 --> 00:00:03,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.4°
+
+83
+00:00:03,280 --> 00:00:03,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.5°
+
+84
+00:00:03,320 --> 00:00:03,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.5°
+
+85
+00:00:03,360 --> 00:00:03,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.6°
+
+86
+00:00:03,400 --> 00:00:03,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.7°
+
+87
+00:00:03,440 --> 00:00:03,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.8°
+
+88
+00:00:03,480 --> 00:00:03,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.9°
+
+89
+00:00:03,520 --> 00:00:03,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.0°
+
+90
+00:00:03,560 --> 00:00:03,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.1°
+
+91
+00:00:03,600 --> 00:00:03,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.2°
+
+92
+00:00:03,640 --> 00:00:03,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.3°
+
+93
+00:00:03,680 --> 00:00:03,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.4°
+
+94
+00:00:03,720 --> 00:00:03,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.5°
+
+95
+00:00:03,760 --> 00:00:03,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.7°
+
+96
+00:00:03,800 --> 00:00:03,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.8°
+
+97
+00:00:03,840 --> 00:00:03,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.9°
+
+98
+00:00:03,880 --> 00:00:03,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.0°
+
+99
+00:00:03,920 --> 00:00:03,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.1°
+
+100
+00:00:03,960 --> 00:00:04,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.2°
+
+101
+00:00:04,000 --> 00:00:04,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.3°
+
+102
+00:00:04,040 --> 00:00:04,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.4°
+
+103
+00:00:04,080 --> 00:00:04,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.6°
+
+104
+00:00:04,120 --> 00:00:04,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.7°
+
+105
+00:00:04,160 --> 00:00:04,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.8°
+
+106
+00:00:04,200 --> 00:00:04,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.9°
+
+107
+00:00:04,240 --> 00:00:04,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.0°
+
+108
+00:00:04,280 --> 00:00:04,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.2°
+
+109
+00:00:04,320 --> 00:00:04,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.3°
+
+110
+00:00:04,360 --> 00:00:04,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.4°
+
+111
+00:00:04,400 --> 00:00:04,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.5°
+
+112
+00:00:04,440 --> 00:00:04,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.7°
+
+113
+00:00:04,480 --> 00:00:04,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.8°
+
+114
+00:00:04,520 --> 00:00:04,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.9°
+
+115
+00:00:04,560 --> 00:00:04,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.1°
+
+116
+00:00:04,600 --> 00:00:04,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.2°
+
+117
+00:00:04,640 --> 00:00:04,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.3°
+
+118
+00:00:04,680 --> 00:00:04,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.5°
+
+119
+00:00:04,720 --> 00:00:04,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.6°
+
+120
+00:00:04,760 --> 00:00:04,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.7°
+
+121
+00:00:04,800 --> 00:00:04,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.9°
+
+122
+00:00:04,840 --> 00:00:04,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.0°
+
+123
+00:00:04,880 --> 00:00:04,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.1°
+
+124
+00:00:04,920 --> 00:00:04,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.3°
+
+125
+00:00:04,960 --> 00:00:05,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.4°
+
+126
+00:00:05,000 --> 00:00:05,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.5°
+
+127
+00:00:05,040 --> 00:00:05,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.7°
+
+128
+00:00:05,080 --> 00:00:05,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.8°
+
+129
+00:00:05,120 --> 00:00:05,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.0°
+
+130
+00:00:05,160 --> 00:00:05,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.1°
+
+131
+00:00:05,200 --> 00:00:05,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.3°
+
+132
+00:00:05,240 --> 00:00:05,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.4°
+
+133
+00:00:05,280 --> 00:00:05,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.5°
+
+134
+00:00:05,320 --> 00:00:05,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.7°
+
+135
+00:00:05,360 --> 00:00:05,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.8°
+
+136
+00:00:05,400 --> 00:00:05,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.0°
+
+137
+00:00:05,440 --> 00:00:05,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.1°
+
+138
+00:00:05,480 --> 00:00:05,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.3°
+
+139
+00:00:05,520 --> 00:00:05,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.4°
+
+140
+00:00:05,560 --> 00:00:05,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.6°
+
+141
+00:00:05,600 --> 00:00:05,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.7°
+
+142
+00:00:05,640 --> 00:00:05,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.9°
+
+143
+00:00:05,680 --> 00:00:05,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.0°
+
+144
+00:00:05,720 --> 00:00:05,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.2°
+
+145
+00:00:05,760 --> 00:00:05,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.3°
+
+146
+00:00:05,800 --> 00:00:05,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.5°
+
+147
+00:00:05,840 --> 00:00:05,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.6°
+
+148
+00:00:05,880 --> 00:00:05,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.8°
+
+149
+00:00:05,920 --> 00:00:05,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.9°
+
+150
+00:00:05,960 --> 00:00:06,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.1°
+
+151
+00:00:06,000 --> 00:00:06,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.2°
+
+152
+00:00:06,040 --> 00:00:06,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.4°
+
+153
+00:00:06,080 --> 00:00:06,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.5°
+
+154
+00:00:06,120 --> 00:00:06,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.7°
+
+155
+00:00:06,160 --> 00:00:06,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.8°
+
+156
+00:00:06,200 --> 00:00:06,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.0°
+
+157
+00:00:06,240 --> 00:00:06,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.1°
+
+158
+00:00:06,280 --> 00:00:06,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.3°
+
+159
+00:00:06,320 --> 00:00:06,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.4°
+
+160
+00:00:06,360 --> 00:00:06,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.6°
+
+161
+00:00:06,400 --> 00:00:06,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.7°
+
+162
+00:00:06,440 --> 00:00:06,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.9°
+
+163
+00:00:06,480 --> 00:00:06,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.0°
+
+164
+00:00:06,520 --> 00:00:06,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.2°
+
+165
+00:00:06,560 --> 00:00:06,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.3°
+
+166
+00:00:06,600 --> 00:00:06,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.5°
+
+167
+00:00:06,640 --> 00:00:06,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.6°
+
+168
+00:00:06,680 --> 00:00:06,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.8°
+
+169
+00:00:06,720 --> 00:00:06,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.9°
+
+170
+00:00:06,760 --> 00:00:06,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.1°
+
+171
+00:00:06,800 --> 00:00:06,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.2°
+
+172
+00:00:06,840 --> 00:00:06,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.4°
+
+173
+00:00:06,880 --> 00:00:06,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.5°
+
+174
+00:00:06,920 --> 00:00:06,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.7°
+
+175
+00:00:06,960 --> 00:00:07,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.8°
+
+176
+00:00:07,000 --> 00:00:07,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.9°
+
+177
+00:00:07,040 --> 00:00:07,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.1°
+
+178
+00:00:07,080 --> 00:00:07,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.2°
+
+179
+00:00:07,120 --> 00:00:07,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.4°
+
+180
+00:00:07,160 --> 00:00:07,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.5°
+
+181
+00:00:07,200 --> 00:00:07,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.7°
+
+182
+00:00:07,240 --> 00:00:07,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.8°
+
+183
+00:00:07,280 --> 00:00:07,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.0°
+
+184
+00:00:07,320 --> 00:00:07,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.1°
+
+185
+00:00:07,360 --> 00:00:07,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.2°
+
+186
+00:00:07,400 --> 00:00:07,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.4°
+
+187
+00:00:07,440 --> 00:00:07,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.5°
+
+188
+00:00:07,480 --> 00:00:07,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.7°
+
+189
+00:00:07,520 --> 00:00:07,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.8°
+
+190
+00:00:07,560 --> 00:00:07,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.9°
+
+191
+00:00:07,600 --> 00:00:07,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.1°
+
+192
+00:00:07,640 --> 00:00:07,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.2°
+
+193
+00:00:07,680 --> 00:00:07,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.3°
+
+194
+00:00:07,720 --> 00:00:07,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.5°
+
+195
+00:00:07,760 --> 00:00:07,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.6°
+
+196
+00:00:07,800 --> 00:00:07,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.7°
+
+197
+00:00:07,840 --> 00:00:07,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.9°
+
+198
+00:00:07,880 --> 00:00:07,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.0°
+
+199
+00:00:07,920 --> 00:00:07,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.1°
+
+200
+00:00:07,960 --> 00:00:08,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.3°
+
+201
+00:00:08,000 --> 00:00:08,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.4°
+
+202
+00:00:08,040 --> 00:00:08,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.5°
+
+203
+00:00:08,080 --> 00:00:08,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.7°
+
+204
+00:00:08,120 --> 00:00:08,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.8°
+
+205
+00:00:08,160 --> 00:00:08,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.9°
+
+206
+00:00:08,200 --> 00:00:08,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.0°
+
+207
+00:00:08,240 --> 00:00:08,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.1°
+
+208
+00:00:08,280 --> 00:00:08,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.3°
+
+209
+00:00:08,320 --> 00:00:08,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.4°
+
+210
+00:00:08,360 --> 00:00:08,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.5°
+
+211
+00:00:08,400 --> 00:00:08,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.6°
+
+212
+00:00:08,440 --> 00:00:08,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.7°
+
+213
+00:00:08,480 --> 00:00:08,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.9°
+
+214
+00:00:08,520 --> 00:00:08,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.0°
+
+215
+00:00:08,560 --> 00:00:08,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.1°
+
+216
+00:00:08,600 --> 00:00:08,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.2°
+
+217
+00:00:08,640 --> 00:00:08,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.3°
+
+218
+00:00:08,680 --> 00:00:08,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.4°
+
+219
+00:00:08,720 --> 00:00:08,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.5°
+
+220
+00:00:08,760 --> 00:00:08,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.6°
+
+221
+00:00:08,800 --> 00:00:08,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.7°
+
+222
+00:00:08,840 --> 00:00:08,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.8°
+
+223
+00:00:08,880 --> 00:00:08,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.9°
+
+224
+00:00:08,920 --> 00:00:08,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.0°
+
+225
+00:00:08,960 --> 00:00:09,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.1°
+
+226
+00:00:09,000 --> 00:00:09,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.2°
+
+227
+00:00:09,040 --> 00:00:09,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.3°
+
+228
+00:00:09,080 --> 00:00:09,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.4°
+
+229
+00:00:09,120 --> 00:00:09,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.5°
+
+230
+00:00:09,160 --> 00:00:09,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.6°
+
+231
+00:00:09,200 --> 00:00:09,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.7°
+
+232
+00:00:09,240 --> 00:00:09,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.8°
+
+233
+00:00:09,280 --> 00:00:09,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.9°
+
+234
+00:00:09,320 --> 00:00:09,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.9°
+
+235
+00:00:09,360 --> 00:00:09,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.0°
+
+236
+00:00:09,400 --> 00:00:09,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.1°
+
+237
+00:00:09,440 --> 00:00:09,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.2°
+
+238
+00:00:09,480 --> 00:00:09,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.3°
+
+239
+00:00:09,520 --> 00:00:09,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.3°
+
+240
+00:00:09,560 --> 00:00:09,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.4°
+
+241
+00:00:09,600 --> 00:00:09,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.5°
+
+242
+00:00:09,640 --> 00:00:09,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.6°
+
+243
+00:00:09,680 --> 00:00:09,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.6°
+
+244
+00:00:09,720 --> 00:00:09,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.7°
+
+245
+00:00:09,760 --> 00:00:09,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.8°
+
+246
+00:00:09,800 --> 00:00:09,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.8°
+
+247
+00:00:09,840 --> 00:00:09,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.9°
+
+248
+00:00:09,880 --> 00:00:09,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.0°
+
+249
+00:00:09,920 --> 00:00:09,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.0°
+
+250
+00:00:09,960 --> 00:00:10,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.1°
+
+251
+00:00:10,000 --> 00:00:10,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.1°
+
+252
+00:00:10,040 --> 00:00:10,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.2°
+
+253
+00:00:10,080 --> 00:00:10,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.3°
+
+254
+00:00:10,120 --> 00:00:10,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.3°
+
+255
+00:00:10,160 --> 00:00:10,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.4°
+
+256
+00:00:10,200 --> 00:00:10,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.4°
+
+257
+00:00:10,240 --> 00:00:10,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.4°
+
+258
+00:00:10,280 --> 00:00:10,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.5°
+
+259
+00:00:10,320 --> 00:00:10,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.5°
+
+260
+00:00:10,360 --> 00:00:10,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+261
+00:00:10,400 --> 00:00:10,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+262
+00:00:10,440 --> 00:00:10,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+263
+00:00:10,480 --> 00:00:10,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+264
+00:00:10,520 --> 00:00:10,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+265
+00:00:10,560 --> 00:00:10,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+266
+00:00:10,600 --> 00:00:10,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+267
+00:00:10,640 --> 00:00:10,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+268
+00:00:10,680 --> 00:00:10,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+269
+00:00:10,720 --> 00:00:10,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+270
+00:00:10,760 --> 00:00:10,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+271
+00:00:10,800 --> 00:00:10,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+272
+00:00:10,840 --> 00:00:10,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+273
+00:00:10,880 --> 00:00:10,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+274
+00:00:10,920 --> 00:00:10,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+275
+00:00:10,960 --> 00:00:11,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+276
+00:00:11,000 --> 00:00:11,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+277
+00:00:11,040 --> 00:00:11,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+278
+00:00:11,080 --> 00:00:11,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+279
+00:00:11,120 --> 00:00:11,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+280
+00:00:11,160 --> 00:00:11,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+281
+00:00:11,200 --> 00:00:11,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+282
+00:00:11,240 --> 00:00:11,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+283
+00:00:11,280 --> 00:00:11,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+284
+00:00:11,320 --> 00:00:11,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+285
+00:00:11,360 --> 00:00:11,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+286
+00:00:11,400 --> 00:00:11,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+287
+00:00:11,440 --> 00:00:11,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+288
+00:00:11,480 --> 00:00:11,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+289
+00:00:11,520 --> 00:00:11,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+290
+00:00:11,560 --> 00:00:11,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+291
+00:00:11,600 --> 00:00:11,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+292
+00:00:11,640 --> 00:00:11,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+293
+00:00:11,680 --> 00:00:11,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+294
+00:00:11,720 --> 00:00:11,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+295
+00:00:11,760 --> 00:00:11,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+296
+00:00:11,800 --> 00:00:11,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+297
+00:00:11,840 --> 00:00:11,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+298
+00:00:11,880 --> 00:00:11,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+299
+00:00:11,920 --> 00:00:11,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+300
+00:00:11,960 --> 00:00:12,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+301
+00:00:12,000 --> 00:00:12,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+302
+00:00:12,040 --> 00:00:12,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+303
+00:00:12,080 --> 00:00:12,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+304
+00:00:12,120 --> 00:00:12,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.5°
+
+305
+00:00:12,160 --> 00:00:12,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.5°
+
+306
+00:00:12,200 --> 00:00:12,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.4°
+
+307
+00:00:12,240 --> 00:00:12,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.4°
+
+308
+00:00:12,280 --> 00:00:12,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.3°
+
+309
+00:00:12,320 --> 00:00:12,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.3°
+
+310
+00:00:12,360 --> 00:00:12,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.2°
+
+311
+00:00:12,400 --> 00:00:12,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.2°
+
+312
+00:00:12,440 --> 00:00:12,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.1°
+
+313
+00:00:12,480 --> 00:00:12,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.1°
+
+314
+00:00:12,520 --> 00:00:12,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.0°
+
+315
+00:00:12,560 --> 00:00:12,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.9°
+
+316
+00:00:12,600 --> 00:00:12,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.9°
+
+317
+00:00:12,640 --> 00:00:12,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.8°
+
+318
+00:00:12,680 --> 00:00:12,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.7°
+
+319
+00:00:12,720 --> 00:00:12,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.7°
+
+320
+00:00:12,760 --> 00:00:12,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.6°
+
+321
+00:00:12,800 --> 00:00:12,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.5°
+
+322
+00:00:12,840 --> 00:00:12,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.5°
+
+323
+00:00:12,880 --> 00:00:12,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.4°
+
+324
+00:00:12,920 --> 00:00:12,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.3°
+
+325
+00:00:12,960 --> 00:00:13,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.2°
+
+326
+00:00:13,000 --> 00:00:13,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.2°
+
+327
+00:00:13,040 --> 00:00:13,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.1°
+
+328
+00:00:13,080 --> 00:00:13,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.0°
+
+329
+00:00:13,120 --> 00:00:13,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.9°
+
+330
+00:00:13,160 --> 00:00:13,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.8°
+
+331
+00:00:13,200 --> 00:00:13,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.7°
+
+332
+00:00:13,240 --> 00:00:13,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.6°
+
+333
+00:00:13,280 --> 00:00:13,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.5°
+
+334
+00:00:13,320 --> 00:00:13,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.5°
+
+335
+00:00:13,360 --> 00:00:13,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.4°
+
+336
+00:00:13,400 --> 00:00:13,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.3°
+
+337
+00:00:13,440 --> 00:00:13,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.2°
+
+338
+00:00:13,480 --> 00:00:13,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.1°
+
+339
+00:00:13,520 --> 00:00:13,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.0°
+
+340
+00:00:13,560 --> 00:00:13,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.9°
+
+341
+00:00:13,600 --> 00:00:13,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.8°
+
+342
+00:00:13,640 --> 00:00:13,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.7°
+
+343
+00:00:13,680 --> 00:00:13,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.6°
+
+344
+00:00:13,720 --> 00:00:13,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.5°
+
+345
+00:00:13,760 --> 00:00:13,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.3°
+
+346
+00:00:13,800 --> 00:00:13,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.2°
+
+347
+00:00:13,840 --> 00:00:13,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.1°
+
+348
+00:00:13,880 --> 00:00:13,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.0°
+
+349
+00:00:13,920 --> 00:00:13,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.9°
+
+350
+00:00:13,960 --> 00:00:14,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.8°
+
+351
+00:00:14,000 --> 00:00:14,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.7°
+
+352
+00:00:14,040 --> 00:00:14,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.6°
+
+353
+00:00:14,080 --> 00:00:14,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.4°
+
+354
+00:00:14,120 --> 00:00:14,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.3°
+
+355
+00:00:14,160 --> 00:00:14,200
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 19.2°
+
+356
+00:00:14,200 --> 00:00:14,240
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 19.1°
+
+357
+00:00:14,240 --> 00:00:14,280
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 19.0°
+
+358
+00:00:14,280 --> 00:00:14,320
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 18.8°
+
+359
+00:00:14,320 --> 00:00:14,360
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 18.7°
+
+360
+00:00:14,360 --> 00:00:14,400
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 18.6°
+
+361
+00:00:14,400 --> 00:00:14,440
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 18.5°
+
+362
+00:00:14,440 --> 00:00:14,480
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 18.3°
+
+363
+00:00:14,480 --> 00:00:14,520
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 18.2°
+
+364
+00:00:14,520 --> 00:00:14,560
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 18.1°
+
+365
+00:00:14,560 --> 00:00:14,600
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 17.9°
+
+366
+00:00:14,600 --> 00:00:14,640
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 17.8°
+
+367
+00:00:14,640 --> 00:00:14,680
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 17.7°
+
+368
+00:00:14,680 --> 00:00:14,720
+SYNTHETIC   |   Left ankle 0.4°   |   Right ankle 17.5°
+
+369
+00:00:14,720 --> 00:00:14,760
+SYNTHETIC   |   Left ankle 0.4°   |   Right ankle 17.4°
+
+370
+00:00:14,760 --> 00:00:14,800
+SYNTHETIC   |   Left ankle 0.5°   |   Right ankle 17.3°
+
+371
+00:00:14,800 --> 00:00:14,840
+SYNTHETIC   |   Left ankle 0.5°   |   Right ankle 17.1°
+
+372
+00:00:14,840 --> 00:00:14,880
+SYNTHETIC   |   Left ankle 0.6°   |   Right ankle 17.0°
+
+373
+00:00:14,880 --> 00:00:14,920
+SYNTHETIC   |   Left ankle 0.7°   |   Right ankle 16.9°
+
+374
+00:00:14,920 --> 00:00:14,960
+SYNTHETIC   |   Left ankle 0.7°   |   Right ankle 16.7°
+
+375
+00:00:14,960 --> 00:00:15,000
+SYNTHETIC   |   Left ankle 0.8°   |   Right ankle 16.6°
+
+376
+00:00:15,000 --> 00:00:15,040
+SYNTHETIC   |   Left ankle 0.9°   |   Right ankle 16.5°
+
+377
+00:00:15,040 --> 00:00:15,080
+SYNTHETIC   |   Left ankle 1.0°   |   Right ankle 16.3°
+
+378
+00:00:15,080 --> 00:00:15,120
+SYNTHETIC   |   Left ankle 1.1°   |   Right ankle 16.2°
+
+379
+00:00:15,120 --> 00:00:15,160
+SYNTHETIC   |   Left ankle 1.2°   |   Right ankle 16.0°
+
+380
+00:00:15,160 --> 00:00:15,200
+SYNTHETIC   |   Left ankle 1.3°   |   Right ankle 15.9°
+
+381
+00:00:15,200 --> 00:00:15,240
+SYNTHETIC   |   Left ankle 1.4°   |   Right ankle 15.7°
+
+382
+00:00:15,240 --> 00:00:15,280
+SYNTHETIC   |   Left ankle 1.5°   |   Right ankle 15.6°
+
+383
+00:00:15,280 --> 00:00:15,320
+SYNTHETIC   |   Left ankle 1.6°   |   Right ankle 15.5°
+
+384
+00:00:15,320 --> 00:00:15,360
+SYNTHETIC   |   Left ankle 1.8°   |   Right ankle 15.3°
+
+385
+00:00:15,360 --> 00:00:15,400
+SYNTHETIC   |   Left ankle 1.9°   |   Right ankle 15.2°
+
+386
+00:00:15,400 --> 00:00:15,440
+SYNTHETIC   |   Left ankle 2.1°   |   Right ankle 15.0°
+
+387
+00:00:15,440 --> 00:00:15,480
+SYNTHETIC   |   Left ankle 2.2°   |   Right ankle 14.9°
+
+388
+00:00:15,480 --> 00:00:15,520
+SYNTHETIC   |   Left ankle 2.4°   |   Right ankle 14.7°
+
+389
+00:00:15,520 --> 00:00:15,560
+SYNTHETIC   |   Left ankle 2.6°   |   Right ankle 14.6°
+
+390
+00:00:15,560 --> 00:00:15,600
+SYNTHETIC   |   Left ankle 2.7°   |   Right ankle 14.4°
+
+391
+00:00:15,600 --> 00:00:15,640
+SYNTHETIC   |   Left ankle 2.9°   |   Right ankle 14.3°
+
+392
+00:00:15,640 --> 00:00:15,680
+SYNTHETIC   |   Left ankle 3.1°   |   Right ankle 14.1°
+
+393
+00:00:15,680 --> 00:00:15,720
+SYNTHETIC   |   Left ankle 3.3°   |   Right ankle 14.0°
+
+394
+00:00:15,720 --> 00:00:15,760
+SYNTHETIC   |   Left ankle 3.5°   |   Right ankle 13.8°
+
+395
+00:00:15,760 --> 00:00:15,800
+SYNTHETIC   |   Left ankle 3.7°   |   Right ankle 13.7°
+
+396
+00:00:15,800 --> 00:00:15,840
+SYNTHETIC   |   Left ankle 4.0°   |   Right ankle 13.5°
+
+397
+00:00:15,840 --> 00:00:15,880
+SYNTHETIC   |   Left ankle 4.2°   |   Right ankle 13.4°
+
+398
+00:00:15,880 --> 00:00:15,920
+SYNTHETIC   |   Left ankle 4.4°   |   Right ankle 13.2°
+
+399
+00:00:15,920 --> 00:00:15,960
+SYNTHETIC   |   Left ankle 4.7°   |   Right ankle 13.1°
+
+400
+00:00:15,960 --> 00:00:16,000
+SYNTHETIC   |   Left ankle 4.9°   |   Right ankle 12.9°
+
+401
+00:00:16,000 --> 00:00:16,040
+SYNTHETIC   |   Left ankle 5.2°   |   Right ankle 12.8°
+
+402
+00:00:16,040 --> 00:00:16,080
+SYNTHETIC   |   Left ankle 5.5°   |   Right ankle 12.6°
+
+403
+00:00:16,080 --> 00:00:16,120
+SYNTHETIC   |   Left ankle 5.7°   |   Right ankle 12.5°
+
+404
+00:00:16,120 --> 00:00:16,160
+SYNTHETIC   |   Left ankle 6.0°   |   Right ankle 12.3°
+
+405
+00:00:16,160 --> 00:00:16,200
+SYNTHETIC   |   Left ankle 6.3°   |   Right ankle 12.2°
+
+406
+00:00:16,200 --> 00:00:16,240
+SYNTHETIC   |   Left ankle 6.6°   |   Right ankle 12.0°
+
+407
+00:00:16,240 --> 00:00:16,280
+SYNTHETIC   |   Left ankle 6.9°   |   Right ankle 11.9°
+
+408
+00:00:16,280 --> 00:00:16,320
+SYNTHETIC   |   Left ankle 7.2°   |   Right ankle 11.7°
+
+409
+00:00:16,320 --> 00:00:16,360
+SYNTHETIC   |   Left ankle 7.5°   |   Right ankle 11.6°
+
+410
+00:00:16,360 --> 00:00:16,400
+SYNTHETIC   |   Left ankle 7.8°   |   Right ankle 11.4°
+
+411
+00:00:16,400 --> 00:00:16,440
+SYNTHETIC   |   Left ankle 8.1°   |   Right ankle 11.3°
+
+412
+00:00:16,440 --> 00:00:16,480
+SYNTHETIC   |   Left ankle 8.4°   |   Right ankle 11.1°
+
+413
+00:00:16,480 --> 00:00:16,520
+SYNTHETIC   |   Left ankle 8.7°   |   Right ankle 11.0°
+
+414
+00:00:16,520 --> 00:00:16,560
+SYNTHETIC   |   Left ankle 9.0°   |   Right ankle 10.8°
+
+415
+00:00:16,560 --> 00:00:16,600
+SYNTHETIC   |   Left ankle 9.4°   |   Right ankle 10.7°
+
+416
+00:00:16,600 --> 00:00:16,640
+SYNTHETIC   |   Left ankle 9.7°   |   Right ankle 10.5°
+
+417
+00:00:16,640 --> 00:00:16,680
+SYNTHETIC   |   Left ankle 10.0°   |   Right ankle 10.4°
+
+418
+00:00:16,680 --> 00:00:16,720
+SYNTHETIC   |   Left ankle 10.3°   |   Right ankle 10.2°
+
+419
+00:00:16,720 --> 00:00:16,760
+SYNTHETIC   |   Left ankle 10.6°   |   Right ankle 10.1°
+
+420
+00:00:16,760 --> 00:00:16,800
+SYNTHETIC   |   Left ankle 11.0°   |   Right ankle 9.9°
+
+421
+00:00:16,800 --> 00:00:16,840
+SYNTHETIC   |   Left ankle 11.3°   |   Right ankle 9.8°
+
+422
+00:00:16,840 --> 00:00:16,880
+SYNTHETIC   |   Left ankle 11.6°   |   Right ankle 9.6°
+
+423
+00:00:16,880 --> 00:00:16,920
+SYNTHETIC   |   Left ankle 11.9°   |   Right ankle 9.5°
+
+424
+00:00:16,920 --> 00:00:16,960
+SYNTHETIC   |   Left ankle 12.2°   |   Right ankle 9.3°
+
+425
+00:00:16,960 --> 00:00:17,000
+SYNTHETIC   |   Left ankle 12.6°   |   Right ankle 9.2°
+
+426
+00:00:17,000 --> 00:00:17,040
+SYNTHETIC   |   Left ankle 12.9°   |   Right ankle 9.1°
+
+427
+00:00:17,040 --> 00:00:17,080
+SYNTHETIC   |   Left ankle 13.2°   |   Right ankle 8.9°
+
+428
+00:00:17,080 --> 00:00:17,120
+SYNTHETIC   |   Left ankle 13.5°   |   Right ankle 8.8°
+
+429
+00:00:17,120 --> 00:00:17,160
+SYNTHETIC   |   Left ankle 13.8°   |   Right ankle 8.6°
+
+430
+00:00:17,160 --> 00:00:17,200
+SYNTHETIC   |   Left ankle 14.0°   |   Right ankle 8.5°
+
+431
+00:00:17,200 --> 00:00:17,240
+SYNTHETIC   |   Left ankle 14.3°   |   Right ankle 8.3°
+
+432
+00:00:17,240 --> 00:00:17,280
+SYNTHETIC   |   Left ankle 14.6°   |   Right ankle 8.2°
+
+433
+00:00:17,280 --> 00:00:17,320
+SYNTHETIC   |   Left ankle 14.9°   |   Right ankle 8.0°
+
+434
+00:00:17,320 --> 00:00:17,360
+SYNTHETIC   |   Left ankle 15.1°   |   Right ankle 7.9°
+
+435
+00:00:17,360 --> 00:00:17,400
+SYNTHETIC   |   Left ankle 15.4°   |   Right ankle 7.8°
+
+436
+00:00:17,400 --> 00:00:17,440
+SYNTHETIC   |   Left ankle 15.6°   |   Right ankle 7.6°
+
+437
+00:00:17,440 --> 00:00:17,480
+SYNTHETIC   |   Left ankle 15.9°   |   Right ankle 7.5°
+
+438
+00:00:17,480 --> 00:00:17,520
+SYNTHETIC   |   Left ankle 16.1°   |   Right ankle 7.3°
+
+439
+00:00:17,520 --> 00:00:17,560
+SYNTHETIC   |   Left ankle 16.3°   |   Right ankle 7.2°
+
+440
+00:00:17,560 --> 00:00:17,600
+SYNTHETIC   |   Left ankle 16.5°   |   Right ankle 7.1°
+
+441
+00:00:17,600 --> 00:00:17,640
+SYNTHETIC   |   Left ankle 16.7°   |   Right ankle 6.9°
+
+442
+00:00:17,640 --> 00:00:17,680
+SYNTHETIC   |   Left ankle 16.9°   |   Right ankle 6.8°
+
+443
+00:00:17,680 --> 00:00:17,720
+SYNTHETIC   |   Left ankle 17.0°   |   Right ankle 6.7°
+
+444
+00:00:17,720 --> 00:00:17,760
+SYNTHETIC   |   Left ankle 17.2°   |   Right ankle 6.5°
+
+445
+00:00:17,760 --> 00:00:17,800
+SYNTHETIC   |   Left ankle 17.3°   |   Right ankle 6.4°
+
+446
+00:00:17,800 --> 00:00:17,840
+SYNTHETIC   |   Left ankle 17.5°   |   Right ankle 6.3°
+
+447
+00:00:17,840 --> 00:00:17,880
+SYNTHETIC   |   Left ankle 17.6°   |   Right ankle 6.1°
+
+448
+00:00:17,880 --> 00:00:17,920
+SYNTHETIC   |   Left ankle 17.7°   |   Right ankle 6.0°
+
+449
+00:00:17,920 --> 00:00:17,960
+SYNTHETIC   |   Left ankle 17.8°   |   Right ankle 5.9°
+
+450
+00:00:17,960 --> 00:00:18,000
+SYNTHETIC   |   Left ankle 17.8°   |   Right ankle 5.7°
+
+451
+00:00:18,000 --> 00:00:18,040
+SYNTHETIC   |   Left ankle 17.9°   |   Right ankle 5.6°
+
+452
+00:00:18,040 --> 00:00:18,080
+SYNTHETIC   |   Left ankle 17.9°   |   Right ankle 5.5°
+
+453
+00:00:18,080 --> 00:00:18,120
+SYNTHETIC   |   Left ankle 18.0°   |   Right ankle 5.3°
+
+454
+00:00:18,120 --> 00:00:18,160
+SYNTHETIC   |   Left ankle 18.0°   |   Right ankle 5.2°
+
+455
+00:00:18,160 --> 00:00:18,200
+SYNTHETIC   |   Left ankle 18.0°   |   Right ankle 5.1°
+
+456
+00:00:18,200 --> 00:00:18,240
+SYNTHETIC   |   Left ankle 18.0°   |   Right ankle 5.0°
+
+457
+00:00:18,240 --> 00:00:18,280
+SYNTHETIC   |   Left ankle 18.0°   |   Right ankle 4.9°
+
+458
+00:00:18,280 --> 00:00:18,320
+SYNTHETIC   |   Left ankle 17.9°   |   Right ankle 4.7°
+
+459
+00:00:18,320 --> 00:00:18,360
+SYNTHETIC   |   Left ankle 17.9°   |   Right ankle 4.6°
+
+460
+00:00:18,360 --> 00:00:18,400
+SYNTHETIC   |   Left ankle 17.8°   |   Right ankle 4.5°
+
+461
+00:00:18,400 --> 00:00:18,440
+SYNTHETIC   |   Left ankle 17.7°   |   Right ankle 4.4°
+
+462
+00:00:18,440 --> 00:00:18,480
+SYNTHETIC   |   Left ankle 17.6°   |   Right ankle 4.3°
+
+463
+00:00:18,480 --> 00:00:18,520
+SYNTHETIC   |   Left ankle 17.5°   |   Right ankle 4.1°
+
+464
+00:00:18,520 --> 00:00:18,560
+SYNTHETIC   |   Left ankle 17.4°   |   Right ankle 4.0°
+
+465
+00:00:18,560 --> 00:00:18,600
+SYNTHETIC   |   Left ankle 17.3°   |   Right ankle 3.9°
+
+466
+00:00:18,600 --> 00:00:18,640
+SYNTHETIC   |   Left ankle 17.1°   |   Right ankle 3.8°
+
+467
+00:00:18,640 --> 00:00:18,680
+SYNTHETIC   |   Left ankle 17.0°   |   Right ankle 3.7°
+
+468
+00:00:18,680 --> 00:00:18,720
+SYNTHETIC   |   Left ankle 16.8°   |   Right ankle 3.6°
+
+469
+00:00:18,720 --> 00:00:18,760
+SYNTHETIC   |   Left ankle 16.6°   |   Right ankle 3.5°
+
+470
+00:00:18,760 --> 00:00:18,800
+SYNTHETIC   |   Left ankle 16.4°   |   Right ankle 3.4°
+
+471
+00:00:18,800 --> 00:00:18,840
+SYNTHETIC   |   Left ankle 16.2°   |   Right ankle 3.3°
+
+472
+00:00:18,840 --> 00:00:18,880
+SYNTHETIC   |   Left ankle 16.0°   |   Right ankle 3.2°
+
+473
+00:00:18,880 --> 00:00:18,920
+SYNTHETIC   |   Left ankle 15.8°   |   Right ankle 3.1°
+
+474
+00:00:18,920 --> 00:00:18,960
+SYNTHETIC   |   Left ankle 15.6°   |   Right ankle 3.0°
+
+475
+00:00:18,960 --> 00:00:19,000
+SYNTHETIC   |   Left ankle 15.3°   |   Right ankle 2.9°
+
+476
+00:00:19,000 --> 00:00:19,040
+SYNTHETIC   |   Left ankle 15.1°   |   Right ankle 2.8°
+
+477
+00:00:19,040 --> 00:00:19,080
+SYNTHETIC   |   Left ankle 14.8°   |   Right ankle 2.7°
+
+478
+00:00:19,080 --> 00:00:19,120
+SYNTHETIC   |   Left ankle 14.5°   |   Right ankle 2.6°
+
+479
+00:00:19,120 --> 00:00:19,160
+SYNTHETIC   |   Left ankle 14.2°   |   Right ankle 2.5°
+
+480
+00:00:19,160 --> 00:00:19,200
+SYNTHETIC   |   Left ankle 14.0°   |   Right ankle 2.4°
+
+481
+00:00:19,200 --> 00:00:19,240
+SYNTHETIC   |   Left ankle 13.7°   |   Right ankle 2.3°
+
+482
+00:00:19,240 --> 00:00:19,280
+SYNTHETIC   |   Left ankle 13.4°   |   Right ankle 2.2°
+
+483
+00:00:19,280 --> 00:00:19,320
+SYNTHETIC   |   Left ankle 13.1°   |   Right ankle 2.1°
+
+484
+00:00:19,320 --> 00:00:19,360
+SYNTHETIC   |   Left ankle 12.8°   |   Right ankle 2.1°
+
+485
+00:00:19,360 --> 00:00:19,400
+SYNTHETIC   |   Left ankle 12.5°   |   Right ankle 2.0°
+
+486
+00:00:19,400 --> 00:00:19,440
+SYNTHETIC   |   Left ankle 12.1°   |   Right ankle 1.9°
+
+487
+00:00:19,440 --> 00:00:19,480
+SYNTHETIC   |   Left ankle 11.8°   |   Right ankle 1.8°
+
+488
+00:00:19,480 --> 00:00:19,520
+SYNTHETIC   |   Left ankle 11.5°   |   Right ankle 1.7°
+
+489
+00:00:19,520 --> 00:00:19,560
+SYNTHETIC   |   Left ankle 11.2°   |   Right ankle 1.7°
+
+490
+00:00:19,560 --> 00:00:19,600
+SYNTHETIC   |   Left ankle 10.9°   |   Right ankle 1.6°
+
+491
+00:00:19,600 --> 00:00:19,640
+SYNTHETIC   |   Left ankle unavailable   |   Right ankle 1.5°
+
+492
+00:00:19,640 --> 00:00:19,680
+SYNTHETIC   |   Left ankle unavailable   |   Right ankle 1.4°
+
+493
+00:00:19,680 --> 00:00:19,720
+SYNTHETIC   |   Left ankle unavailable   |   Right ankle 1.4°
+
+494
+00:00:19,720 --> 00:00:19,760
+SYNTHETIC   |   Left ankle unavailable   |   Right ankle 1.3°
+
+495
+00:00:19,760 --> 00:00:19,800
+SYNTHETIC   |   Left ankle unavailable   |   Right ankle 1.2°
+
+496
+00:00:19,800 --> 00:00:19,840
+SYNTHETIC   |   Left ankle unavailable   |   Right ankle 1.2°
+
+497
+00:00:19,840 --> 00:00:19,880
+SYNTHETIC   |   Left ankle unavailable   |   Right ankle 1.1°
+
+498
+00:00:19,880 --> 00:00:19,920
+SYNTHETIC   |   Left ankle unavailable   |   Right ankle 1.0°
+
+499
+00:00:19,920 --> 00:00:19,960
+SYNTHETIC   |   Left ankle unavailable   |   Right ankle 1.0°
+
+500
+00:00:19,960 --> 00:00:20,000
+SYNTHETIC   |   Left ankle unavailable   |   Right ankle 0.9°
+
+501
+00:00:20,000 --> 00:00:20,040
+SYNTHETIC   |   Left ankle unavailable   |   Right ankle 0.9°
+
+502
+00:00:20,040 --> 00:00:20,080
+SYNTHETIC   |   Left ankle unavailable   |   Right ankle 0.8°
+
+503
+00:00:20,080 --> 00:00:20,120
+SYNTHETIC   |   Left ankle unavailable   |   Right ankle 0.7°
+
+504
+00:00:20,120 --> 00:00:20,160
+SYNTHETIC   |   Left ankle unavailable   |   Right ankle 0.7°
+
+505
+00:00:20,160 --> 00:00:20,200
+SYNTHETIC   |   Left ankle unavailable   |   Right ankle 0.6°
+
+506
+00:00:20,200 --> 00:00:20,240
+SYNTHETIC   |   Left ankle 5.9°   |   Right ankle 0.6°
+
+507
+00:00:20,240 --> 00:00:20,280
+SYNTHETIC   |   Left ankle 5.6°   |   Right ankle 0.6°
+
+508
+00:00:20,280 --> 00:00:20,320
+SYNTHETIC   |   Left ankle 5.4°   |   Right ankle 0.5°
+
+509
+00:00:20,320 --> 00:00:20,360
+SYNTHETIC   |   Left ankle 5.1°   |   Right ankle 0.5°
+
+510
+00:00:20,360 --> 00:00:20,400
+SYNTHETIC   |   Left ankle 4.8°   |   Right ankle 0.4°
+
+511
+00:00:20,400 --> 00:00:20,440
+SYNTHETIC   |   Left ankle 4.6°   |   Right ankle 0.4°
+
+512
+00:00:20,440 --> 00:00:20,480
+SYNTHETIC   |   Left ankle 4.4°   |   Right ankle 0.3°
+
+513
+00:00:20,480 --> 00:00:20,520
+SYNTHETIC   |   Left ankle 4.1°   |   Right ankle 0.3°
+
+514
+00:00:20,520 --> 00:00:20,560
+SYNTHETIC   |   Left ankle 3.9°   |   Right ankle 0.3°
+
+515
+00:00:20,560 --> 00:00:20,600
+SYNTHETIC   |   Left ankle 3.7°   |   Right ankle 0.2°
+
+516
+00:00:20,600 --> 00:00:20,640
+SYNTHETIC   |   Left ankle 3.5°   |   Right ankle 0.2°
+
+517
+00:00:20,640 --> 00:00:20,680
+SYNTHETIC   |   Left ankle 3.3°   |   Right ankle 0.2°
+
+518
+00:00:20,680 --> 00:00:20,720
+SYNTHETIC   |   Left ankle 3.1°   |   Right ankle 0.2°
+
+519
+00:00:20,720 --> 00:00:20,760
+SYNTHETIC   |   Left ankle 2.9°   |   Right ankle 0.1°
+
+520
+00:00:20,760 --> 00:00:20,800
+SYNTHETIC   |   Left ankle 2.7°   |   Right ankle 0.1°
+
+521
+00:00:20,800 --> 00:00:20,840
+SYNTHETIC   |   Left ankle 2.5°   |   Right ankle 0.1°
+
+522
+00:00:20,840 --> 00:00:20,880
+SYNTHETIC   |   Left ankle 2.3°   |   Right ankle 0.1°
+
+523
+00:00:20,880 --> 00:00:20,920
+SYNTHETIC   |   Left ankle 2.2°   |   Right ankle 0.1°
+
+524
+00:00:20,920 --> 00:00:20,960
+SYNTHETIC   |   Left ankle 2.0°   |   Right ankle 0.0°
+
+525
+00:00:20,960 --> 00:00:21,000
+SYNTHETIC   |   Left ankle 1.9°   |   Right ankle 0.0°
+
+526
+00:00:21,000 --> 00:00:21,040
+SYNTHETIC   |   Left ankle 1.7°   |   Right ankle 0.0°
+
+527
+00:00:21,040 --> 00:00:21,080
+SYNTHETIC   |   Left ankle 1.6°   |   Right ankle 0.0°
+
+528
+00:00:21,080 --> 00:00:21,120
+SYNTHETIC   |   Left ankle 1.5°   |   Right ankle 0.0°
+
+529
+00:00:21,120 --> 00:00:21,160
+SYNTHETIC   |   Left ankle 1.4°   |   Right ankle 0.0°
+
+530
+00:00:21,160 --> 00:00:21,200
+SYNTHETIC   |   Left ankle 1.2°   |   Right ankle 0.0°
+
+531
+00:00:21,200 --> 00:00:21,240
+SYNTHETIC   |   Left ankle 1.1°   |   Right ankle 0.0°
+
+532
+00:00:21,240 --> 00:00:21,280
+SYNTHETIC   |   Left ankle 1.0°   |   Right ankle 0.0°
+
+533
+00:00:21,280 --> 00:00:21,320
+SYNTHETIC   |   Left ankle 1.0°   |   Right ankle 0.0°
+
+534
+00:00:21,320 --> 00:00:21,360
+SYNTHETIC   |   Left ankle 0.9°   |   Right ankle 0.0°
+
+535
+00:00:21,360 --> 00:00:21,400
+SYNTHETIC   |   Left ankle 0.8°   |   Right ankle 0.0°
+
+536
+00:00:21,400 --> 00:00:21,440
+SYNTHETIC   |   Left ankle 0.7°   |   Right ankle 0.0°
+
+537
+00:00:21,440 --> 00:00:21,480
+SYNTHETIC   |   Left ankle 0.6°   |   Right ankle 0.0°
+
+538
+00:00:21,480 --> 00:00:21,520
+SYNTHETIC   |   Left ankle 0.6°   |   Right ankle 0.0°
+
+539
+00:00:21,520 --> 00:00:21,560
+SYNTHETIC   |   Left ankle 0.5°   |   Right ankle 0.1°
+
+540
+00:00:21,560 --> 00:00:21,600
+SYNTHETIC   |   Left ankle 0.5°   |   Right ankle 0.1°
+
+541
+00:00:21,600 --> 00:00:21,640
+SYNTHETIC   |   Left ankle 0.4°   |   Right ankle 0.1°
+
+542
+00:00:21,640 --> 00:00:21,680
+SYNTHETIC   |   Left ankle 0.4°   |   Right ankle 0.1°
+
+543
+00:00:21,680 --> 00:00:21,720
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 0.1°
+
+544
+00:00:21,720 --> 00:00:21,760
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 0.2°
+
+545
+00:00:21,760 --> 00:00:21,800
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 0.2°
+
+546
+00:00:21,800 --> 00:00:21,840
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 0.2°
+
+547
+00:00:21,840 --> 00:00:21,880
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 0.2°
+
+548
+00:00:21,880 --> 00:00:21,920
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 0.3°
+
+549
+00:00:21,920 --> 00:00:21,960
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.3°
+
+550
+00:00:21,960 --> 00:00:22,000
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.3°
+
+551
+00:00:22,000 --> 00:00:22,040
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.4°
+
+552
+00:00:22,040 --> 00:00:22,080
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.4°
+
+553
+00:00:22,080 --> 00:00:22,120
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.4°
+
+554
+00:00:22,120 --> 00:00:22,160
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.5°
+
+555
+00:00:22,160 --> 00:00:22,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.5°
+
+556
+00:00:22,200 --> 00:00:22,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.6°
+
+557
+00:00:22,240 --> 00:00:22,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.6°
+
+558
+00:00:22,280 --> 00:00:22,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.7°
+
+559
+00:00:22,320 --> 00:00:22,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.7°
+
+560
+00:00:22,360 --> 00:00:22,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.8°
+
+561
+00:00:22,400 --> 00:00:22,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.8°
+
+562
+00:00:22,440 --> 00:00:22,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.9°
+
+563
+00:00:22,480 --> 00:00:22,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.9°
+
+564
+00:00:22,520 --> 00:00:22,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.0°
+
+565
+00:00:22,560 --> 00:00:22,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.1°
+
+566
+00:00:22,600 --> 00:00:22,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.1°
+
+567
+00:00:22,640 --> 00:00:22,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.2°
+
+568
+00:00:22,680 --> 00:00:22,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.3°
+
+569
+00:00:22,720 --> 00:00:22,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.3°
+
+570
+00:00:22,760 --> 00:00:22,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.4°
+
+571
+00:00:22,800 --> 00:00:22,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.5°
+
+572
+00:00:22,840 --> 00:00:22,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.5°
+
+573
+00:00:22,880 --> 00:00:22,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.6°
+
+574
+00:00:22,920 --> 00:00:22,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.7°
+
+575
+00:00:22,960 --> 00:00:23,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.8°
+
+576
+00:00:23,000 --> 00:00:23,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.8°
+
+577
+00:00:23,040 --> 00:00:23,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.9°
+
+578
+00:00:23,080 --> 00:00:23,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.0°
+
+579
+00:00:23,120 --> 00:00:23,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.1°
+
+580
+00:00:23,160 --> 00:00:23,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.2°
+
+581
+00:00:23,200 --> 00:00:23,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.3°
+
+582
+00:00:23,240 --> 00:00:23,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.4°
+
+583
+00:00:23,280 --> 00:00:23,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.5°
+
+584
+00:00:23,320 --> 00:00:23,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.5°
+
+585
+00:00:23,360 --> 00:00:23,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.6°
+
+586
+00:00:23,400 --> 00:00:23,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.7°
+
+587
+00:00:23,440 --> 00:00:23,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.8°
+
+588
+00:00:23,480 --> 00:00:23,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.9°
+
+589
+00:00:23,520 --> 00:00:23,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.0°
+
+590
+00:00:23,560 --> 00:00:23,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.1°
+
+591
+00:00:23,600 --> 00:00:23,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.2°
+
+592
+00:00:23,640 --> 00:00:23,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.3°
+
+593
+00:00:23,680 --> 00:00:23,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.4°
+
+594
+00:00:23,720 --> 00:00:23,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.5°
+
+595
+00:00:23,760 --> 00:00:23,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.7°
+
+596
+00:00:23,800 --> 00:00:23,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.8°
+
+597
+00:00:23,840 --> 00:00:23,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.9°
+
+598
+00:00:23,880 --> 00:00:23,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.0°
+
+599
+00:00:23,920 --> 00:00:23,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.1°
+
+600
+00:00:23,960 --> 00:00:24,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.2°
+
+601
+00:00:24,000 --> 00:00:24,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.3°
+
+602
+00:00:24,040 --> 00:00:24,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.4°
+
+603
+00:00:24,080 --> 00:00:24,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.6°
+
+604
+00:00:24,120 --> 00:00:24,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.7°
+
+605
+00:00:24,160 --> 00:00:24,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.8°
+
+606
+00:00:24,200 --> 00:00:24,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.9°
+
+607
+00:00:24,240 --> 00:00:24,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.0°
+
+608
+00:00:24,280 --> 00:00:24,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.2°
+
+609
+00:00:24,320 --> 00:00:24,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.3°
+
+610
+00:00:24,360 --> 00:00:24,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.4°
+
+611
+00:00:24,400 --> 00:00:24,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.5°
+
+612
+00:00:24,440 --> 00:00:24,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.7°
+
+613
+00:00:24,480 --> 00:00:24,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.8°
+
+614
+00:00:24,520 --> 00:00:24,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.9°
+
+615
+00:00:24,560 --> 00:00:24,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.1°
+
+616
+00:00:24,600 --> 00:00:24,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.2°
+
+617
+00:00:24,640 --> 00:00:24,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.3°
+
+618
+00:00:24,680 --> 00:00:24,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.5°
+
+619
+00:00:24,720 --> 00:00:24,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.6°
+
+620
+00:00:24,760 --> 00:00:24,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.7°
+
+621
+00:00:24,800 --> 00:00:24,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.9°
+
+622
+00:00:24,840 --> 00:00:24,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.0°
+
+623
+00:00:24,880 --> 00:00:24,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.1°
+
+624
+00:00:24,920 --> 00:00:24,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.3°
+
+625
+00:00:24,960 --> 00:00:25,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.4°
+
+626
+00:00:25,000 --> 00:00:25,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.5°
+
+627
+00:00:25,040 --> 00:00:25,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.7°
+
+628
+00:00:25,080 --> 00:00:25,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.8°
+
+629
+00:00:25,120 --> 00:00:25,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.0°
+
+630
+00:00:25,160 --> 00:00:25,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.1°
+
+631
+00:00:25,200 --> 00:00:25,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.3°
+
+632
+00:00:25,240 --> 00:00:25,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.4°
+
+633
+00:00:25,280 --> 00:00:25,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.5°
+
+634
+00:00:25,320 --> 00:00:25,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.7°
+
+635
+00:00:25,360 --> 00:00:25,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.8°
+
+636
+00:00:25,400 --> 00:00:25,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.0°
+
+637
+00:00:25,440 --> 00:00:25,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.1°
+
+638
+00:00:25,480 --> 00:00:25,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.3°
+
+639
+00:00:25,520 --> 00:00:25,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.4°
+
+640
+00:00:25,560 --> 00:00:25,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.6°
+
+641
+00:00:25,600 --> 00:00:25,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.7°
+
+642
+00:00:25,640 --> 00:00:25,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.9°
+
+643
+00:00:25,680 --> 00:00:25,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.0°
+
+644
+00:00:25,720 --> 00:00:25,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.2°
+
+645
+00:00:25,760 --> 00:00:25,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.3°
+
+646
+00:00:25,800 --> 00:00:25,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.5°
+
+647
+00:00:25,840 --> 00:00:25,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.6°
+
+648
+00:00:25,880 --> 00:00:25,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.8°
+
+649
+00:00:25,920 --> 00:00:25,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.9°
+
+650
+00:00:25,960 --> 00:00:26,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.1°
+
+651
+00:00:26,000 --> 00:00:26,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.2°
+
+652
+00:00:26,040 --> 00:00:26,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.4°
+
+653
+00:00:26,080 --> 00:00:26,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.5°
+
+654
+00:00:26,120 --> 00:00:26,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.7°
+
+655
+00:00:26,160 --> 00:00:26,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.8°
+
+656
+00:00:26,200 --> 00:00:26,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.0°
+
+657
+00:00:26,240 --> 00:00:26,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.1°
+
+658
+00:00:26,280 --> 00:00:26,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.3°
+
+659
+00:00:26,320 --> 00:00:26,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.4°
+
+660
+00:00:26,360 --> 00:00:26,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.6°
+
+661
+00:00:26,400 --> 00:00:26,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.7°
+
+662
+00:00:26,440 --> 00:00:26,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.9°
+
+663
+00:00:26,480 --> 00:00:26,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.0°
+
+664
+00:00:26,520 --> 00:00:26,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.2°
+
+665
+00:00:26,560 --> 00:00:26,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.3°
+
+666
+00:00:26,600 --> 00:00:26,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.5°
+
+667
+00:00:26,640 --> 00:00:26,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.6°
+
+668
+00:00:26,680 --> 00:00:26,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.8°
+
+669
+00:00:26,720 --> 00:00:26,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.9°
+
+670
+00:00:26,760 --> 00:00:26,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.1°
+
+671
+00:00:26,800 --> 00:00:26,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.2°
+
+672
+00:00:26,840 --> 00:00:26,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.4°
+
+673
+00:00:26,880 --> 00:00:26,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.5°
+
+674
+00:00:26,920 --> 00:00:26,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.7°
+
+675
+00:00:26,960 --> 00:00:27,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.8°
+
+676
+00:00:27,000 --> 00:00:27,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.9°
+
+677
+00:00:27,040 --> 00:00:27,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.1°
+
+678
+00:00:27,080 --> 00:00:27,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.2°
+
+679
+00:00:27,120 --> 00:00:27,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.4°
+
+680
+00:00:27,160 --> 00:00:27,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.5°
+
+681
+00:00:27,200 --> 00:00:27,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.7°
+
+682
+00:00:27,240 --> 00:00:27,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.8°
+
+683
+00:00:27,280 --> 00:00:27,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.0°
+
+684
+00:00:27,320 --> 00:00:27,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.1°
+
+685
+00:00:27,360 --> 00:00:27,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.2°
+
+686
+00:00:27,400 --> 00:00:27,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.4°
+
+687
+00:00:27,440 --> 00:00:27,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.5°
+
+688
+00:00:27,480 --> 00:00:27,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.7°
+
+689
+00:00:27,520 --> 00:00:27,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.8°
+
+690
+00:00:27,560 --> 00:00:27,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.9°
+
+691
+00:00:27,600 --> 00:00:27,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.1°
+
+692
+00:00:27,640 --> 00:00:27,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.2°
+
+693
+00:00:27,680 --> 00:00:27,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.3°
+
+694
+00:00:27,720 --> 00:00:27,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.5°
+
+695
+00:00:27,760 --> 00:00:27,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.6°
+
+696
+00:00:27,800 --> 00:00:27,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.7°
+
+697
+00:00:27,840 --> 00:00:27,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.9°
+
+698
+00:00:27,880 --> 00:00:27,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.0°
+
+699
+00:00:27,920 --> 00:00:27,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.1°
+
+700
+00:00:27,960 --> 00:00:28,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.3°
+
+701
+00:00:28,000 --> 00:00:28,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.4°
+
+702
+00:00:28,040 --> 00:00:28,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.5°
+
+703
+00:00:28,080 --> 00:00:28,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.7°
+
+704
+00:00:28,120 --> 00:00:28,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.8°
+
+705
+00:00:28,160 --> 00:00:28,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.9°
+
+706
+00:00:28,200 --> 00:00:28,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.0°
+
+707
+00:00:28,240 --> 00:00:28,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.1°
+
+708
+00:00:28,280 --> 00:00:28,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.3°
+
+709
+00:00:28,320 --> 00:00:28,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.4°
+
+710
+00:00:28,360 --> 00:00:28,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.5°
+
+711
+00:00:28,400 --> 00:00:28,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.6°
+
+712
+00:00:28,440 --> 00:00:28,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.7°
+
+713
+00:00:28,480 --> 00:00:28,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.9°
+
+714
+00:00:28,520 --> 00:00:28,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.0°
+
+715
+00:00:28,560 --> 00:00:28,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.1°
+
+716
+00:00:28,600 --> 00:00:28,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.2°
+
+717
+00:00:28,640 --> 00:00:28,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.3°
+
+718
+00:00:28,680 --> 00:00:28,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.4°
+
+719
+00:00:28,720 --> 00:00:28,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.5°
+
+720
+00:00:28,760 --> 00:00:28,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.6°
+
+721
+00:00:28,800 --> 00:00:28,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.7°
+
+722
+00:00:28,840 --> 00:00:28,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.8°
+
+723
+00:00:28,880 --> 00:00:28,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.9°
+
+724
+00:00:28,920 --> 00:00:28,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.0°
+
+725
+00:00:28,960 --> 00:00:29,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.1°
+
+726
+00:00:29,000 --> 00:00:29,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.2°
+
+727
+00:00:29,040 --> 00:00:29,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.3°
+
+728
+00:00:29,080 --> 00:00:29,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.4°
+
+729
+00:00:29,120 --> 00:00:29,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.5°
+
+730
+00:00:29,160 --> 00:00:29,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.6°
+
+731
+00:00:29,200 --> 00:00:29,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.7°
+
+732
+00:00:29,240 --> 00:00:29,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.8°
+
+733
+00:00:29,280 --> 00:00:29,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.9°
+
+734
+00:00:29,320 --> 00:00:29,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.9°
+
+735
+00:00:29,360 --> 00:00:29,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.0°
+
+736
+00:00:29,400 --> 00:00:29,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.1°
+
+737
+00:00:29,440 --> 00:00:29,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.2°
+
+738
+00:00:29,480 --> 00:00:29,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.3°
+
+739
+00:00:29,520 --> 00:00:29,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.3°
+
+740
+00:00:29,560 --> 00:00:29,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.4°
+
+741
+00:00:29,600 --> 00:00:29,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.5°
+
+742
+00:00:29,640 --> 00:00:29,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.6°
+
+743
+00:00:29,680 --> 00:00:29,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.6°
+
+744
+00:00:29,720 --> 00:00:29,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.7°
+
+745
+00:00:29,760 --> 00:00:29,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.8°
+
+746
+00:00:29,800 --> 00:00:29,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.8°
+
+747
+00:00:29,840 --> 00:00:29,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.9°
+
+748
+00:00:29,880 --> 00:00:29,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.0°
+
+749
+00:00:29,920 --> 00:00:29,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.0°
+
+750
+00:00:29,960 --> 00:00:30,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.1°
+
+751
+00:00:30,000 --> 00:00:30,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.1°
+
+752
+00:00:30,040 --> 00:00:30,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.2°
+
+753
+00:00:30,080 --> 00:00:30,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.3°
+
+754
+00:00:30,120 --> 00:00:30,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.3°
+
+755
+00:00:30,160 --> 00:00:30,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.4°
+
+756
+00:00:30,200 --> 00:00:30,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.4°
+
+757
+00:00:30,240 --> 00:00:30,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.4°
+
+758
+00:00:30,280 --> 00:00:30,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.5°
+
+759
+00:00:30,320 --> 00:00:30,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.5°
+
+760
+00:00:30,360 --> 00:00:30,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+761
+00:00:30,400 --> 00:00:30,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+762
+00:00:30,440 --> 00:00:30,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+763
+00:00:30,480 --> 00:00:30,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+764
+00:00:30,520 --> 00:00:30,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+765
+00:00:30,560 --> 00:00:30,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+766
+00:00:30,600 --> 00:00:30,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+767
+00:00:30,640 --> 00:00:30,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+768
+00:00:30,680 --> 00:00:30,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+769
+00:00:30,720 --> 00:00:30,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+770
+00:00:30,760 --> 00:00:30,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+771
+00:00:30,800 --> 00:00:30,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+772
+00:00:30,840 --> 00:00:30,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+773
+00:00:30,880 --> 00:00:30,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+774
+00:00:30,920 --> 00:00:30,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+775
+00:00:30,960 --> 00:00:31,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+776
+00:00:31,000 --> 00:00:31,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+777
+00:00:31,040 --> 00:00:31,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+778
+00:00:31,080 --> 00:00:31,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+779
+00:00:31,120 --> 00:00:31,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+780
+00:00:31,160 --> 00:00:31,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+781
+00:00:31,200 --> 00:00:31,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+782
+00:00:31,240 --> 00:00:31,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+783
+00:00:31,280 --> 00:00:31,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+784
+00:00:31,320 --> 00:00:31,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+785
+00:00:31,360 --> 00:00:31,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+786
+00:00:31,400 --> 00:00:31,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+787
+00:00:31,440 --> 00:00:31,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+788
+00:00:31,480 --> 00:00:31,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+789
+00:00:31,520 --> 00:00:31,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+790
+00:00:31,560 --> 00:00:31,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+791
+00:00:31,600 --> 00:00:31,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+792
+00:00:31,640 --> 00:00:31,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+793
+00:00:31,680 --> 00:00:31,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+794
+00:00:31,720 --> 00:00:31,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+795
+00:00:31,760 --> 00:00:31,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+796
+00:00:31,800 --> 00:00:31,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+797
+00:00:31,840 --> 00:00:31,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+798
+00:00:31,880 --> 00:00:31,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+799
+00:00:31,920 --> 00:00:31,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+800
+00:00:31,960 --> 00:00:32,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+801
+00:00:32,000 --> 00:00:32,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+802
+00:00:32,040 --> 00:00:32,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+803
+00:00:32,080 --> 00:00:32,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+804
+00:00:32,120 --> 00:00:32,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.5°
+
+805
+00:00:32,160 --> 00:00:32,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.5°
+
+806
+00:00:32,200 --> 00:00:32,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.4°
+
+807
+00:00:32,240 --> 00:00:32,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.4°
+
+808
+00:00:32,280 --> 00:00:32,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.3°
+
+809
+00:00:32,320 --> 00:00:32,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.3°
+
+810
+00:00:32,360 --> 00:00:32,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.2°
+
+811
+00:00:32,400 --> 00:00:32,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.2°
+
+812
+00:00:32,440 --> 00:00:32,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.1°
+
+813
+00:00:32,480 --> 00:00:32,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.1°
+
+814
+00:00:32,520 --> 00:00:32,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.0°
+
+815
+00:00:32,560 --> 00:00:32,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.9°
+
+816
+00:00:32,600 --> 00:00:32,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.9°
+
+817
+00:00:32,640 --> 00:00:32,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.8°
+
+818
+00:00:32,680 --> 00:00:32,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.7°
+
+819
+00:00:32,720 --> 00:00:32,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.7°
+
+820
+00:00:32,760 --> 00:00:32,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.6°
+
+821
+00:00:32,800 --> 00:00:32,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.5°
+
+822
+00:00:32,840 --> 00:00:32,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.5°
+
+823
+00:00:32,880 --> 00:00:32,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.4°
+
+824
+00:00:32,920 --> 00:00:32,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.3°
+
+825
+00:00:32,960 --> 00:00:33,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.2°
+
+826
+00:00:33,000 --> 00:00:33,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.2°
+
+827
+00:00:33,040 --> 00:00:33,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.1°
+
+828
+00:00:33,080 --> 00:00:33,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.0°
+
+829
+00:00:33,120 --> 00:00:33,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.9°
+
+830
+00:00:33,160 --> 00:00:33,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.8°
+
+831
+00:00:33,200 --> 00:00:33,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.7°
+
+832
+00:00:33,240 --> 00:00:33,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.6°
+
+833
+00:00:33,280 --> 00:00:33,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.5°
+
+834
+00:00:33,320 --> 00:00:33,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.5°
+
+835
+00:00:33,360 --> 00:00:33,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.4°
+
+836
+00:00:33,400 --> 00:00:33,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.3°
+
+837
+00:00:33,440 --> 00:00:33,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.2°
+
+838
+00:00:33,480 --> 00:00:33,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.1°
+
+839
+00:00:33,520 --> 00:00:33,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.0°
+
+840
+00:00:33,560 --> 00:00:33,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.9°
+
+841
+00:00:33,600 --> 00:00:33,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.8°
+
+842
+00:00:33,640 --> 00:00:33,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.7°
+
+843
+00:00:33,680 --> 00:00:33,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.6°
+
+844
+00:00:33,720 --> 00:00:33,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.5°
+
+845
+00:00:33,760 --> 00:00:33,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.3°
+
+846
+00:00:33,800 --> 00:00:33,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.2°
+
+847
+00:00:33,840 --> 00:00:33,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.1°
+
+848
+00:00:33,880 --> 00:00:33,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.0°
+
+849
+00:00:33,920 --> 00:00:33,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.9°
+
+850
+00:00:33,960 --> 00:00:34,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.8°
+
+851
+00:00:34,000 --> 00:00:34,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.7°
+
+852
+00:00:34,040 --> 00:00:34,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.6°
+
+853
+00:00:34,080 --> 00:00:34,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.4°
+
+854
+00:00:34,120 --> 00:00:34,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.3°
+
+855
+00:00:34,160 --> 00:00:34,200
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 19.2°
+
+856
+00:00:34,200 --> 00:00:34,240
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 19.1°
+
+857
+00:00:34,240 --> 00:00:34,280
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 19.0°
+
+858
+00:00:34,280 --> 00:00:34,320
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 18.8°
+
+859
+00:00:34,320 --> 00:00:34,360
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 18.7°
+
+860
+00:00:34,360 --> 00:00:34,400
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 18.6°
+
+861
+00:00:34,400 --> 00:00:34,440
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 18.5°
+
+862
+00:00:34,440 --> 00:00:34,480
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 18.3°
+
+863
+00:00:34,480 --> 00:00:34,520
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 18.2°
+
+864
+00:00:34,520 --> 00:00:34,560
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 18.1°
+
+865
+00:00:34,560 --> 00:00:34,600
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 17.9°
+
+866
+00:00:34,600 --> 00:00:34,640
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 17.8°
+
+867
+00:00:34,640 --> 00:00:34,680
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 17.7°
+
+868
+00:00:34,680 --> 00:00:34,720
+SYNTHETIC   |   Left ankle 0.4°   |   Right ankle 17.5°
+
+869
+00:00:34,720 --> 00:00:34,760
+SYNTHETIC   |   Left ankle 0.4°   |   Right ankle 17.4°
+
+870
+00:00:34,760 --> 00:00:34,800
+SYNTHETIC   |   Left ankle 0.5°   |   Right ankle 17.3°
+
+871
+00:00:34,800 --> 00:00:34,840
+SYNTHETIC   |   Left ankle 0.5°   |   Right ankle 17.1°
+
+872
+00:00:34,840 --> 00:00:34,880
+SYNTHETIC   |   Left ankle 0.6°   |   Right ankle 17.0°
+
+873
+00:00:34,880 --> 00:00:34,920
+SYNTHETIC   |   Left ankle 0.7°   |   Right ankle 16.9°
+
+874
+00:00:34,920 --> 00:00:34,960
+SYNTHETIC   |   Left ankle 0.7°   |   Right ankle 16.7°
+
+875
+00:00:34,960 --> 00:00:35,000
+SYNTHETIC   |   Left ankle 0.8°   |   Right ankle 16.6°
+
+876
+00:00:35,000 --> 00:00:35,040
+SYNTHETIC   |   Left ankle 0.9°   |   Right ankle 16.5°
+
+877
+00:00:35,040 --> 00:00:35,080
+SYNTHETIC   |   Left ankle 1.0°   |   Right ankle 16.3°
+
+878
+00:00:35,080 --> 00:00:35,120
+SYNTHETIC   |   Left ankle 1.1°   |   Right ankle 16.2°
+
+879
+00:00:35,120 --> 00:00:35,160
+SYNTHETIC   |   Left ankle 1.2°   |   Right ankle 16.0°
+
+880
+00:00:35,160 --> 00:00:35,200
+SYNTHETIC   |   Left ankle 1.3°   |   Right ankle 15.9°
+
+881
+00:00:35,200 --> 00:00:35,240
+SYNTHETIC   |   Left ankle 1.4°   |   Right ankle 15.7°
+
+882
+00:00:35,240 --> 00:00:35,280
+SYNTHETIC   |   Left ankle 1.5°   |   Right ankle 15.6°
+
+883
+00:00:35,280 --> 00:00:35,320
+SYNTHETIC   |   Left ankle 1.6°   |   Right ankle 15.5°
+
+884
+00:00:35,320 --> 00:00:35,360
+SYNTHETIC   |   Left ankle 1.8°   |   Right ankle 15.3°
+
+885
+00:00:35,360 --> 00:00:35,400
+SYNTHETIC   |   Left ankle 1.9°   |   Right ankle 15.2°
+
+886
+00:00:35,400 --> 00:00:35,440
+SYNTHETIC   |   Left ankle 2.1°   |   Right ankle 15.0°
+
+887
+00:00:35,440 --> 00:00:35,480
+SYNTHETIC   |   Left ankle 2.2°   |   Right ankle 14.9°
+
+888
+00:00:35,480 --> 00:00:35,520
+SYNTHETIC   |   Left ankle 2.4°   |   Right ankle 14.7°
+
+889
+00:00:35,520 --> 00:00:35,560
+SYNTHETIC   |   Left ankle 2.6°   |   Right ankle 14.6°
+
+890
+00:00:35,560 --> 00:00:35,600
+SYNTHETIC   |   Left ankle 2.7°   |   Right ankle 14.4°
+
+891
+00:00:35,600 --> 00:00:35,640
+SYNTHETIC   |   Left ankle 2.9°   |   Right ankle 14.3°
+
+892
+00:00:35,640 --> 00:00:35,680
+SYNTHETIC   |   Left ankle 3.1°   |   Right ankle 14.1°
+
+893
+00:00:35,680 --> 00:00:35,720
+SYNTHETIC   |   Left ankle 3.3°   |   Right ankle 14.0°
+
+894
+00:00:35,720 --> 00:00:35,760
+SYNTHETIC   |   Left ankle 3.5°   |   Right ankle 13.8°
+
+895
+00:00:35,760 --> 00:00:35,800
+SYNTHETIC   |   Left ankle 3.7°   |   Right ankle 13.7°
+
+896
+00:00:35,800 --> 00:00:35,840
+SYNTHETIC   |   Left ankle 4.0°   |   Right ankle 13.5°
+
+897
+00:00:35,840 --> 00:00:35,880
+SYNTHETIC   |   Left ankle 4.2°   |   Right ankle 13.4°
+
+898
+00:00:35,880 --> 00:00:35,920
+SYNTHETIC   |   Left ankle 4.4°   |   Right ankle 13.2°
+
+899
+00:00:35,920 --> 00:00:35,960
+SYNTHETIC   |   Left ankle 4.7°   |   Right ankle 13.1°
+
+900
+00:00:35,960 --> 00:00:36,000
+SYNTHETIC   |   Left ankle 4.9°   |   Right ankle 12.9°
+
+901
+00:00:36,000 --> 00:00:36,040
+SYNTHETIC   |   Left ankle 5.2°   |   Right ankle 12.8°
+
+902
+00:00:36,040 --> 00:00:36,080
+SYNTHETIC   |   Left ankle 5.5°   |   Right ankle 12.6°
+
+903
+00:00:36,080 --> 00:00:36,120
+SYNTHETIC   |   Left ankle 5.7°   |   Right ankle 12.5°
+
+904
+00:00:36,120 --> 00:00:36,160
+SYNTHETIC   |   Left ankle 6.0°   |   Right ankle 12.3°
+
+905
+00:00:36,160 --> 00:00:36,200
+SYNTHETIC   |   Left ankle 6.3°   |   Right ankle 12.2°
+
+906
+00:00:36,200 --> 00:00:36,240
+SYNTHETIC   |   Left ankle 6.6°   |   Right ankle 12.0°
+
+907
+00:00:36,240 --> 00:00:36,280
+SYNTHETIC   |   Left ankle 6.9°   |   Right ankle 11.9°
+
+908
+00:00:36,280 --> 00:00:36,320
+SYNTHETIC   |   Left ankle 7.2°   |   Right ankle 11.7°
+
+909
+00:00:36,320 --> 00:00:36,360
+SYNTHETIC   |   Left ankle 7.5°   |   Right ankle 11.6°
+
+910
+00:00:36,360 --> 00:00:36,400
+SYNTHETIC   |   Left ankle 7.8°   |   Right ankle 11.4°
+
+911
+00:00:36,400 --> 00:00:36,440
+SYNTHETIC   |   Left ankle 8.1°   |   Right ankle 11.3°
+
+912
+00:00:36,440 --> 00:00:36,480
+SYNTHETIC   |   Left ankle 8.4°   |   Right ankle 11.1°
+
+913
+00:00:36,480 --> 00:00:36,520
+SYNTHETIC   |   Left ankle 8.7°   |   Right ankle 11.0°
+
+914
+00:00:36,520 --> 00:00:36,560
+SYNTHETIC   |   Left ankle 9.0°   |   Right ankle 10.8°
+
+915
+00:00:36,560 --> 00:00:36,600
+SYNTHETIC   |   Left ankle 9.4°   |   Right ankle 10.7°
+
+916
+00:00:36,600 --> 00:00:36,640
+SYNTHETIC   |   Left ankle 9.7°   |   Right ankle 10.5°
+
+917
+00:00:36,640 --> 00:00:36,680
+SYNTHETIC   |   Left ankle 10.0°   |   Right ankle 10.4°
+
+918
+00:00:36,680 --> 00:00:36,720
+SYNTHETIC   |   Left ankle 10.3°   |   Right ankle 10.2°
+
+919
+00:00:36,720 --> 00:00:36,760
+SYNTHETIC   |   Left ankle 10.6°   |   Right ankle 10.1°
+
+920
+00:00:36,760 --> 00:00:36,800
+SYNTHETIC   |   Left ankle 11.0°   |   Right ankle 9.9°
+
+921
+00:00:36,800 --> 00:00:36,840
+SYNTHETIC   |   Left ankle 11.3°   |   Right ankle 9.8°
+
+922
+00:00:36,840 --> 00:00:36,880
+SYNTHETIC   |   Left ankle 11.6°   |   Right ankle 9.6°
+
+923
+00:00:36,880 --> 00:00:36,920
+SYNTHETIC   |   Left ankle 11.9°   |   Right ankle 9.5°
+
+924
+00:00:36,920 --> 00:00:36,960
+SYNTHETIC   |   Left ankle 12.2°   |   Right ankle 9.3°
+
+925
+00:00:36,960 --> 00:00:37,000
+SYNTHETIC   |   Left ankle 12.6°   |   Right ankle 9.2°
+
+926
+00:00:37,000 --> 00:00:37,040
+SYNTHETIC   |   Left ankle 12.9°   |   Right ankle 9.1°
+
+927
+00:00:37,040 --> 00:00:37,080
+SYNTHETIC   |   Left ankle 13.2°   |   Right ankle 8.9°
+
+928
+00:00:37,080 --> 00:00:37,120
+SYNTHETIC   |   Left ankle 13.5°   |   Right ankle 8.8°
+
+929
+00:00:37,120 --> 00:00:37,160
+SYNTHETIC   |   Left ankle 13.8°   |   Right ankle 8.6°
+
+930
+00:00:37,160 --> 00:00:37,200
+SYNTHETIC   |   Left ankle 14.0°   |   Right ankle 8.5°
+
+931
+00:00:37,200 --> 00:00:37,240
+SYNTHETIC   |   Left ankle 14.3°   |   Right ankle 8.3°
+
+932
+00:00:37,240 --> 00:00:37,280
+SYNTHETIC   |   Left ankle 14.6°   |   Right ankle 8.2°
+
+933
+00:00:37,280 --> 00:00:37,320
+SYNTHETIC   |   Left ankle 14.9°   |   Right ankle 8.0°
+
+934
+00:00:37,320 --> 00:00:37,360
+SYNTHETIC   |   Left ankle 15.1°   |   Right ankle 7.9°
+
+935
+00:00:37,360 --> 00:00:37,400
+SYNTHETIC   |   Left ankle 15.4°   |   Right ankle 7.8°
+
+936
+00:00:37,400 --> 00:00:37,440
+SYNTHETIC   |   Left ankle 15.6°   |   Right ankle 7.6°
+
+937
+00:00:37,440 --> 00:00:37,480
+SYNTHETIC   |   Left ankle 15.9°   |   Right ankle 7.5°
+
+938
+00:00:37,480 --> 00:00:37,520
+SYNTHETIC   |   Left ankle 16.1°   |   Right ankle 7.3°
+
+939
+00:00:37,520 --> 00:00:37,560
+SYNTHETIC   |   Left ankle 16.3°   |   Right ankle 7.2°
+
+940
+00:00:37,560 --> 00:00:37,600
+SYNTHETIC   |   Left ankle 16.5°   |   Right ankle 7.1°
+
+941
+00:00:37,600 --> 00:00:37,640
+SYNTHETIC   |   Left ankle 16.7°   |   Right ankle 6.9°
+
+942
+00:00:37,640 --> 00:00:37,680
+SYNTHETIC   |   Left ankle 16.9°   |   Right ankle 6.8°
+
+943
+00:00:37,680 --> 00:00:37,720
+SYNTHETIC   |   Left ankle 17.0°   |   Right ankle 6.7°
+
+944
+00:00:37,720 --> 00:00:37,760
+SYNTHETIC   |   Left ankle 17.2°   |   Right ankle 6.5°
+
+945
+00:00:37,760 --> 00:00:37,800
+SYNTHETIC   |   Left ankle 17.3°   |   Right ankle 6.4°
+
+946
+00:00:37,800 --> 00:00:37,840
+SYNTHETIC   |   Left ankle 17.5°   |   Right ankle 6.3°
+
+947
+00:00:37,840 --> 00:00:37,880
+SYNTHETIC   |   Left ankle 17.6°   |   Right ankle 6.1°
+
+948
+00:00:37,880 --> 00:00:37,920
+SYNTHETIC   |   Left ankle 17.7°   |   Right ankle 6.0°
+
+949
+00:00:37,920 --> 00:00:37,960
+SYNTHETIC   |   Left ankle 17.8°   |   Right ankle 5.9°
+
+950
+00:00:37,960 --> 00:00:38,000
+SYNTHETIC   |   Left ankle 17.8°   |   Right ankle 5.7°
+
+951
+00:00:38,000 --> 00:00:38,040
+SYNTHETIC   |   Left ankle 17.9°   |   Right ankle 5.6°
+
+952
+00:00:38,040 --> 00:00:38,080
+SYNTHETIC   |   Left ankle 17.9°   |   Right ankle 5.5°
+
+953
+00:00:38,080 --> 00:00:38,120
+SYNTHETIC   |   Left ankle 18.0°   |   Right ankle 5.3°
+
+954
+00:00:38,120 --> 00:00:38,160
+SYNTHETIC   |   Left ankle 18.0°   |   Right ankle 5.2°
+
+955
+00:00:38,160 --> 00:00:38,200
+SYNTHETIC   |   Left ankle 18.0°   |   Right ankle 5.1°
+
+956
+00:00:38,200 --> 00:00:38,240
+SYNTHETIC   |   Left ankle 18.0°   |   Right ankle 5.0°
+
+957
+00:00:38,240 --> 00:00:38,280
+SYNTHETIC   |   Left ankle 18.0°   |   Right ankle 4.9°
+
+958
+00:00:38,280 --> 00:00:38,320
+SYNTHETIC   |   Left ankle 17.9°   |   Right ankle 4.7°
+
+959
+00:00:38,320 --> 00:00:38,360
+SYNTHETIC   |   Left ankle 17.9°   |   Right ankle 4.6°
+
+960
+00:00:38,360 --> 00:00:38,400
+SYNTHETIC   |   Left ankle 17.8°   |   Right ankle 4.5°
+
+961
+00:00:38,400 --> 00:00:38,440
+SYNTHETIC   |   Left ankle 17.7°   |   Right ankle 4.4°
+
+962
+00:00:38,440 --> 00:00:38,480
+SYNTHETIC   |   Left ankle 17.6°   |   Right ankle 4.3°
+
+963
+00:00:38,480 --> 00:00:38,520
+SYNTHETIC   |   Left ankle 17.5°   |   Right ankle 4.1°
+
+964
+00:00:38,520 --> 00:00:38,560
+SYNTHETIC   |   Left ankle 17.4°   |   Right ankle 4.0°
+
+965
+00:00:38,560 --> 00:00:38,600
+SYNTHETIC   |   Left ankle 17.3°   |   Right ankle 3.9°
+
+966
+00:00:38,600 --> 00:00:38,640
+SYNTHETIC   |   Left ankle 17.1°   |   Right ankle 3.8°
+
+967
+00:00:38,640 --> 00:00:38,680
+SYNTHETIC   |   Left ankle 17.0°   |   Right ankle 3.7°
+
+968
+00:00:38,680 --> 00:00:38,720
+SYNTHETIC   |   Left ankle 16.8°   |   Right ankle 3.6°
+
+969
+00:00:38,720 --> 00:00:38,760
+SYNTHETIC   |   Left ankle 16.6°   |   Right ankle 3.5°
+
+970
+00:00:38,760 --> 00:00:38,800
+SYNTHETIC   |   Left ankle 16.4°   |   Right ankle 3.4°
+
+971
+00:00:38,800 --> 00:00:38,840
+SYNTHETIC   |   Left ankle 16.2°   |   Right ankle 3.3°
+
+972
+00:00:38,840 --> 00:00:38,880
+SYNTHETIC   |   Left ankle 16.0°   |   Right ankle 3.2°
+
+973
+00:00:38,880 --> 00:00:38,920
+SYNTHETIC   |   Left ankle 15.8°   |   Right ankle 3.1°
+
+974
+00:00:38,920 --> 00:00:38,960
+SYNTHETIC   |   Left ankle 15.6°   |   Right ankle 3.0°
+
+975
+00:00:38,960 --> 00:00:39,000
+SYNTHETIC   |   Left ankle 15.3°   |   Right ankle 2.9°
+
+976
+00:00:39,000 --> 00:00:39,040
+SYNTHETIC   |   Left ankle 15.1°   |   Right ankle 2.8°
+
+977
+00:00:39,040 --> 00:00:39,080
+SYNTHETIC   |   Left ankle 14.8°   |   Right ankle 2.7°
+
+978
+00:00:39,080 --> 00:00:39,120
+SYNTHETIC   |   Left ankle 14.5°   |   Right ankle 2.6°
+
+979
+00:00:39,120 --> 00:00:39,160
+SYNTHETIC   |   Left ankle 14.2°   |   Right ankle 2.5°
+
+980
+00:00:39,160 --> 00:00:39,200
+SYNTHETIC   |   Left ankle 14.0°   |   Right ankle 2.4°
+
+981
+00:00:39,200 --> 00:00:39,240
+SYNTHETIC   |   Left ankle 13.7°   |   Right ankle 2.3°
+
+982
+00:00:39,240 --> 00:00:39,280
+SYNTHETIC   |   Left ankle 13.4°   |   Right ankle 2.2°
+
+983
+00:00:39,280 --> 00:00:39,320
+SYNTHETIC   |   Left ankle 13.1°   |   Right ankle 2.1°
+
+984
+00:00:39,320 --> 00:00:39,360
+SYNTHETIC   |   Left ankle 12.8°   |   Right ankle 2.1°
+
+985
+00:00:39,360 --> 00:00:39,400
+SYNTHETIC   |   Left ankle 12.5°   |   Right ankle 2.0°
+
+986
+00:00:39,400 --> 00:00:39,440
+SYNTHETIC   |   Left ankle 12.1°   |   Right ankle 1.9°
+
+987
+00:00:39,440 --> 00:00:39,480
+SYNTHETIC   |   Left ankle 11.8°   |   Right ankle 1.8°
+
+988
+00:00:39,480 --> 00:00:39,520
+SYNTHETIC   |   Left ankle 11.5°   |   Right ankle 1.7°
+
+989
+00:00:39,520 --> 00:00:39,560
+SYNTHETIC   |   Left ankle 11.2°   |   Right ankle 1.7°
+
+990
+00:00:39,560 --> 00:00:39,600
+SYNTHETIC   |   Left ankle 10.9°   |   Right ankle 1.6°
+
+991
+00:00:39,600 --> 00:00:39,640
+SYNTHETIC   |   Left ankle 10.5°   |   Right ankle 1.5°
+
+992
+00:00:39,640 --> 00:00:39,680
+SYNTHETIC   |   Left ankle 10.2°   |   Right ankle 1.4°
+
+993
+00:00:39,680 --> 00:00:39,720
+SYNTHETIC   |   Left ankle 9.9°   |   Right ankle 1.4°
+
+994
+00:00:39,720 --> 00:00:39,760
+SYNTHETIC   |   Left ankle 9.6°   |   Right ankle 1.3°
+
+995
+00:00:39,760 --> 00:00:39,800
+SYNTHETIC   |   Left ankle 9.3°   |   Right ankle 1.2°
+
+996
+00:00:39,800 --> 00:00:39,840
+SYNTHETIC   |   Left ankle 8.9°   |   Right ankle 1.2°
+
+997
+00:00:39,840 --> 00:00:39,880
+SYNTHETIC   |   Left ankle 8.6°   |   Right ankle 1.1°
+
+998
+00:00:39,880 --> 00:00:39,920
+SYNTHETIC   |   Left ankle 8.3°   |   Right ankle 1.0°
+
+999
+00:00:39,920 --> 00:00:39,960
+SYNTHETIC   |   Left ankle 8.0°   |   Right ankle 1.0°
+
+1000
+00:00:39,960 --> 00:00:40,000
+SYNTHETIC   |   Left ankle 7.7°   |   Right ankle 0.9°
+
+1001
+00:00:40,000 --> 00:00:40,040
+SYNTHETIC   |   Left ankle 5.3°   |   Right ankle 0.5°
+
+1002
+00:00:40,040 --> 00:00:40,080
+SYNTHETIC   |   Left ankle 5.1°   |   Right ankle 0.5°
+
+1003
+00:00:40,080 --> 00:00:40,120
+SYNTHETIC   |   Left ankle 4.8°   |   Right ankle 0.4°
+
+1004
+00:00:40,120 --> 00:00:40,160
+SYNTHETIC   |   Left ankle 4.6°   |   Right ankle 0.4°
+
+1005
+00:00:40,160 --> 00:00:40,200
+SYNTHETIC   |   Left ankle 4.4°   |   Right ankle 0.4°
+
+1006
+00:00:40,200 --> 00:00:40,240
+SYNTHETIC   |   Left ankle 4.1°   |   Right ankle 0.3°
+
+1007
+00:00:40,240 --> 00:00:40,280
+SYNTHETIC   |   Left ankle 3.9°   |   Right ankle 0.3°
+
+1008
+00:00:40,280 --> 00:00:40,320
+SYNTHETIC   |   Left ankle 3.7°   |   Right ankle 0.3°
+
+1009
+00:00:40,320 --> 00:00:40,360
+SYNTHETIC   |   Left ankle 3.5°   |   Right ankle 0.2°
+
+1010
+00:00:40,360 --> 00:00:40,400
+SYNTHETIC   |   Left ankle 3.3°   |   Right ankle 0.2°
+
+1011
+00:00:40,400 --> 00:00:40,440
+SYNTHETIC   |   Left ankle 3.1°   |   Right ankle 0.2°
+
+1012
+00:00:40,440 --> 00:00:40,480
+SYNTHETIC   |   Left ankle 2.9°   |   Right ankle 0.2°
+
+1013
+00:00:40,480 --> 00:00:40,520
+SYNTHETIC   |   Left ankle 2.8°   |   Right ankle 0.1°
+
+1014
+00:00:40,520 --> 00:00:40,560
+SYNTHETIC   |   Left ankle 2.6°   |   Right ankle 0.1°
+
+1015
+00:00:40,560 --> 00:00:40,600
+SYNTHETIC   |   Left ankle 2.4°   |   Right ankle 0.1°
+
+1016
+00:00:40,600 --> 00:00:40,640
+SYNTHETIC   |   Left ankle 2.3°   |   Right ankle 0.1°
+
+1017
+00:00:40,640 --> 00:00:40,680
+SYNTHETIC   |   Left ankle 2.1°   |   Right ankle 0.1°
+
+1018
+00:00:40,680 --> 00:00:40,720
+SYNTHETIC   |   Left ankle 2.0°   |   Right ankle 0.0°
+
+1019
+00:00:40,720 --> 00:00:40,760
+SYNTHETIC   |   Left ankle 1.8°   |   Right ankle 0.0°
+
+1020
+00:00:40,760 --> 00:00:40,800
+SYNTHETIC   |   Left ankle 1.7°   |   Right ankle 0.0°
+
+1021
+00:00:40,800 --> 00:00:40,840
+SYNTHETIC   |   Left ankle 1.6°   |   Right ankle 0.0°
+
+1022
+00:00:40,840 --> 00:00:40,880
+SYNTHETIC   |   Left ankle 1.5°   |   Right ankle 0.0°
+
+1023
+00:00:40,880 --> 00:00:40,920
+SYNTHETIC   |   Left ankle 1.3°   |   Right ankle 0.0°
+
+1024
+00:00:40,920 --> 00:00:40,960
+SYNTHETIC   |   Left ankle 1.2°   |   Right ankle 0.0°
+
+1025
+00:00:40,960 --> 00:00:41,000
+SYNTHETIC   |   Left ankle 1.1°   |   Right ankle 0.0°
+
+1026
+00:00:41,000 --> 00:00:41,040
+SYNTHETIC   |   Left ankle 1.0°   |   Right ankle 0.0°
+
+1027
+00:00:41,040 --> 00:00:41,080
+SYNTHETIC   |   Left ankle 1.0°   |   Right ankle 0.0°
+
+1028
+00:00:41,080 --> 00:00:41,120
+SYNTHETIC   |   Left ankle 0.9°   |   Right ankle 0.0°
+
+1029
+00:00:41,120 --> 00:00:41,160
+SYNTHETIC   |   Left ankle 0.8°   |   Right ankle 0.0°
+
+1030
+00:00:41,160 --> 00:00:41,200
+SYNTHETIC   |   Left ankle 0.7°   |   Right ankle 0.0°
+
+1031
+00:00:41,200 --> 00:00:41,240
+SYNTHETIC   |   Left ankle 0.7°   |   Right ankle 0.0°
+
+1032
+00:00:41,240 --> 00:00:41,280
+SYNTHETIC   |   Left ankle 0.6°   |   Right ankle 0.0°
+
+1033
+00:00:41,280 --> 00:00:41,320
+SYNTHETIC   |   Left ankle 0.5°   |   Right ankle 0.1°
+
+1034
+00:00:41,320 --> 00:00:41,360
+SYNTHETIC   |   Left ankle 0.5°   |   Right ankle 0.1°
+
+1035
+00:00:41,360 --> 00:00:41,400
+SYNTHETIC   |   Left ankle 0.4°   |   Right ankle 0.1°
+
+1036
+00:00:41,400 --> 00:00:41,440
+SYNTHETIC   |   Left ankle 0.4°   |   Right ankle 0.1°
+
+1037
+00:00:41,440 --> 00:00:41,480
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 0.1°
+
+1038
+00:00:41,480 --> 00:00:41,520
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 0.1°
+
+1039
+00:00:41,520 --> 00:00:41,560
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 0.2°
+
+1040
+00:00:41,560 --> 00:00:41,600
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 0.2°
+
+1041
+00:00:41,600 --> 00:00:41,640
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 0.2°
+
+1042
+00:00:41,640 --> 00:00:41,680
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 0.2°
+
+1043
+00:00:41,680 --> 00:00:41,720
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 0.3°
+
+1044
+00:00:41,720 --> 00:00:41,760
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.3°
+
+1045
+00:00:41,760 --> 00:00:41,800
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.3°
+
+1046
+00:00:41,800 --> 00:00:41,840
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.4°
+
+1047
+00:00:41,840 --> 00:00:41,880
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.4°
+
+1048
+00:00:41,880 --> 00:00:41,920
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.4°
+
+1049
+00:00:41,920 --> 00:00:41,960
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.5°
+
+1050
+00:00:41,960 --> 00:00:42,000
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.5°
+
+1051
+00:00:42,000 --> 00:00:42,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.6°
+
+1052
+00:00:42,040 --> 00:00:42,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.6°
+
+1053
+00:00:42,080 --> 00:00:42,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.7°
+
+1054
+00:00:42,120 --> 00:00:42,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.7°
+
+1055
+00:00:42,160 --> 00:00:42,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.8°
+
+1056
+00:00:42,200 --> 00:00:42,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.8°
+
+1057
+00:00:42,240 --> 00:00:42,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.9°
+
+1058
+00:00:42,280 --> 00:00:42,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.9°
+
+1059
+00:00:42,320 --> 00:00:42,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.0°
+
+1060
+00:00:42,360 --> 00:00:42,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.0°
+
+1061
+00:00:42,400 --> 00:00:42,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.1°
+
+1062
+00:00:42,440 --> 00:00:42,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.1°
+
+1063
+00:00:42,480 --> 00:00:42,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.2°
+
+1064
+00:00:42,520 --> 00:00:42,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.3°
+
+1065
+00:00:42,560 --> 00:00:42,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.3°
+
+1066
+00:00:42,600 --> 00:00:42,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.4°
+
+1067
+00:00:42,640 --> 00:00:42,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.5°
+
+1068
+00:00:42,680 --> 00:00:42,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.5°
+
+1069
+00:00:42,720 --> 00:00:42,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.6°
+
+1070
+00:00:42,760 --> 00:00:42,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.7°
+
+1071
+00:00:42,800 --> 00:00:42,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.8°
+
+1072
+00:00:42,840 --> 00:00:42,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.8°
+
+1073
+00:00:42,880 --> 00:00:42,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.9°
+
+1074
+00:00:42,920 --> 00:00:42,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.0°
+
+1075
+00:00:42,960 --> 00:00:43,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.1°
+
+1076
+00:00:43,000 --> 00:00:43,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.1°
+
+1077
+00:00:43,040 --> 00:00:43,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.2°
+
+1078
+00:00:43,080 --> 00:00:43,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.3°
+
+1079
+00:00:43,120 --> 00:00:43,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.4°
+
+1080
+00:00:43,160 --> 00:00:43,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.5°
+
+1081
+00:00:43,200 --> 00:00:43,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.6°
+
+1082
+00:00:43,240 --> 00:00:43,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.7°
+
+1083
+00:00:43,280 --> 00:00:43,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.8°
+
+1084
+00:00:43,320 --> 00:00:43,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.8°
+
+1085
+00:00:43,360 --> 00:00:43,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.9°
+
+1086
+00:00:43,400 --> 00:00:43,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.0°
+
+1087
+00:00:43,440 --> 00:00:43,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.1°
+
+1088
+00:00:43,480 --> 00:00:43,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.2°
+
+1089
+00:00:43,520 --> 00:00:43,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.3°
+
+1090
+00:00:43,560 --> 00:00:43,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.4°
+
+1091
+00:00:43,600 --> 00:00:43,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.5°
+
+1092
+00:00:43,640 --> 00:00:43,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.6°
+
+1093
+00:00:43,680 --> 00:00:43,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.7°
+
+1094
+00:00:43,720 --> 00:00:43,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.8°
+
+1095
+00:00:43,760 --> 00:00:43,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.9°
+
+1096
+00:00:43,800 --> 00:00:43,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.1°
+
+1097
+00:00:43,840 --> 00:00:43,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.2°
+
+1098
+00:00:43,880 --> 00:00:43,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.3°
+
+1099
+00:00:43,920 --> 00:00:43,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.4°
+
+1100
+00:00:43,960 --> 00:00:44,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.5°
+
+1101
+00:00:44,000 --> 00:00:44,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.6°
+
+1102
+00:00:44,040 --> 00:00:44,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.7°
+
+1103
+00:00:44,080 --> 00:00:44,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.8°
+
+1104
+00:00:44,120 --> 00:00:44,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.9°
+
+1105
+00:00:44,160 --> 00:00:44,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.1°
+
+1106
+00:00:44,200 --> 00:00:44,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.2°
+
+1107
+00:00:44,240 --> 00:00:44,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.3°
+
+1108
+00:00:44,280 --> 00:00:44,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.4°
+
+1109
+00:00:44,320 --> 00:00:44,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.5°
+
+1110
+00:00:44,360 --> 00:00:44,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.7°
+
+1111
+00:00:44,400 --> 00:00:44,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.8°
+
+1112
+00:00:44,440 --> 00:00:44,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.9°
+
+1113
+00:00:44,480 --> 00:00:44,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.0°
+
+1114
+00:00:44,520 --> 00:00:44,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.2°
+
+1115
+00:00:44,560 --> 00:00:44,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.3°
+
+1116
+00:00:44,600 --> 00:00:44,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.4°
+
+1117
+00:00:44,640 --> 00:00:44,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.5°
+
+1118
+00:00:44,680 --> 00:00:44,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.7°
+
+1119
+00:00:44,720 --> 00:00:44,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.8°
+
+1120
+00:00:44,760 --> 00:00:44,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.9°
+
+1121
+00:00:44,800 --> 00:00:44,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.1°
+
+1122
+00:00:44,840 --> 00:00:44,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.2°
+
+1123
+00:00:44,880 --> 00:00:44,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.3°
+
+1124
+00:00:44,920 --> 00:00:44,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.5°
+
+1125
+00:00:44,960 --> 00:00:45,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.6°
+
+1126
+00:00:45,000 --> 00:00:45,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.7°
+
+1127
+00:00:45,040 --> 00:00:45,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.9°
+
+1128
+00:00:45,080 --> 00:00:45,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.0°
+
+1129
+00:00:45,120 --> 00:00:45,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.1°
+
+1130
+00:00:45,160 --> 00:00:45,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.3°
+
+1131
+00:00:45,200 --> 00:00:45,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.4°
+
+1132
+00:00:45,240 --> 00:00:45,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.5°
+
+1133
+00:00:45,280 --> 00:00:45,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.7°
+
+1134
+00:00:45,320 --> 00:00:45,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.8°
+
+1135
+00:00:45,360 --> 00:00:45,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.9°
+
+1136
+00:00:45,400 --> 00:00:45,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.1°
+
+1137
+00:00:45,440 --> 00:00:45,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.2°
+
+1138
+00:00:45,480 --> 00:00:45,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.4°
+
+1139
+00:00:45,520 --> 00:00:45,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.5°
+
+1140
+00:00:45,560 --> 00:00:45,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.6°
+
+1141
+00:00:45,600 --> 00:00:45,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.8°
+
+1142
+00:00:45,640 --> 00:00:45,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.9°
+
+1143
+00:00:45,680 --> 00:00:45,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.1°
+
+1144
+00:00:45,720 --> 00:00:45,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.2°
+
+1145
+00:00:45,760 --> 00:00:45,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.4°
+
+1146
+00:00:45,800 --> 00:00:45,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.5°
+
+1147
+00:00:45,840 --> 00:00:45,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.6°
+
+1148
+00:00:45,880 --> 00:00:45,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.8°
+
+1149
+00:00:45,920 --> 00:00:45,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.9°
+
+1150
+00:00:45,960 --> 00:00:46,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.1°
+
+1151
+00:00:46,000 --> 00:00:46,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.2°
+
+1152
+00:00:46,040 --> 00:00:46,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.4°
+
+1153
+00:00:46,080 --> 00:00:46,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.5°
+
+1154
+00:00:46,120 --> 00:00:46,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.6°
+
+1155
+00:00:46,160 --> 00:00:46,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.8°
+
+1156
+00:00:46,200 --> 00:00:46,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.9°
+
+1157
+00:00:46,240 --> 00:00:46,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.1°
+
+1158
+00:00:46,280 --> 00:00:46,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.2°
+
+1159
+00:00:46,320 --> 00:00:46,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.4°
+
+1160
+00:00:46,360 --> 00:00:46,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.5°
+
+1161
+00:00:46,400 --> 00:00:46,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.6°
+
+1162
+00:00:46,440 --> 00:00:46,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.8°
+
+1163
+00:00:46,480 --> 00:00:46,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.9°
+
+1164
+00:00:46,520 --> 00:00:46,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.1°
+
+1165
+00:00:46,560 --> 00:00:46,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.2°
+
+1166
+00:00:46,600 --> 00:00:46,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.4°
+
+1167
+00:00:46,640 --> 00:00:46,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.5°
+
+1168
+00:00:46,680 --> 00:00:46,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.6°
+
+1169
+00:00:46,720 --> 00:00:46,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.8°
+
+1170
+00:00:46,760 --> 00:00:46,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.9°
+
+1171
+00:00:46,800 --> 00:00:46,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.1°
+
+1172
+00:00:46,840 --> 00:00:46,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.2°
+
+1173
+00:00:46,880 --> 00:00:46,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.4°
+
+1174
+00:00:46,920 --> 00:00:46,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.5°
+
+1175
+00:00:46,960 --> 00:00:47,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.6°
+
+1176
+00:00:47,000 --> 00:00:47,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.8°
+
+1177
+00:00:47,040 --> 00:00:47,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.9°
+
+1178
+00:00:47,080 --> 00:00:47,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.1°
+
+1179
+00:00:47,120 --> 00:00:47,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.2°
+
+1180
+00:00:47,160 --> 00:00:47,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.3°
+
+1181
+00:00:47,200 --> 00:00:47,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.5°
+
+1182
+00:00:47,240 --> 00:00:47,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.6°
+
+1183
+00:00:47,280 --> 00:00:47,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.7°
+
+1184
+00:00:47,320 --> 00:00:47,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.9°
+
+1185
+00:00:47,360 --> 00:00:47,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.0°
+
+1186
+00:00:47,400 --> 00:00:47,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.2°
+
+1187
+00:00:47,440 --> 00:00:47,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.3°
+
+1188
+00:00:47,480 --> 00:00:47,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.4°
+
+1189
+00:00:47,520 --> 00:00:47,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.6°
+
+1190
+00:00:47,560 --> 00:00:47,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.7°
+
+1191
+00:00:47,600 --> 00:00:47,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.8°
+
+1192
+00:00:47,640 --> 00:00:47,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.9°
+
+1193
+00:00:47,680 --> 00:00:47,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.1°
+
+1194
+00:00:47,720 --> 00:00:47,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.2°
+
+1195
+00:00:47,760 --> 00:00:47,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.3°
+
+1196
+00:00:47,800 --> 00:00:47,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.5°
+
+1197
+00:00:47,840 --> 00:00:47,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.6°
+
+1198
+00:00:47,880 --> 00:00:47,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.7°
+
+1199
+00:00:47,920 --> 00:00:47,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.8°
+
+1200
+00:00:47,960 --> 00:00:48,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.0°
+
+1201
+00:00:48,000 --> 00:00:48,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.1°
+
+1202
+00:00:48,040 --> 00:00:48,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.2°
+
+1203
+00:00:48,080 --> 00:00:48,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.3°
+
+1204
+00:00:48,120 --> 00:00:48,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.5°
+
+1205
+00:00:48,160 --> 00:00:48,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.6°
+
+1206
+00:00:48,200 --> 00:00:48,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.7°
+
+1207
+00:00:48,240 --> 00:00:48,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.8°
+
+1208
+00:00:48,280 --> 00:00:48,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.9°
+
+1209
+00:00:48,320 --> 00:00:48,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.1°
+
+1210
+00:00:48,360 --> 00:00:48,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.2°
+
+1211
+00:00:48,400 --> 00:00:48,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.3°
+
+1212
+00:00:48,440 --> 00:00:48,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.4°
+
+1213
+00:00:48,480 --> 00:00:48,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.5°
+
+1214
+00:00:48,520 --> 00:00:48,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.6°
+
+1215
+00:00:48,560 --> 00:00:48,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.7°
+
+1216
+00:00:48,600 --> 00:00:48,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.8°
+
+1217
+00:00:48,640 --> 00:00:48,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.0°
+
+1218
+00:00:48,680 --> 00:00:48,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.1°
+
+1219
+00:00:48,720 --> 00:00:48,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.2°
+
+1220
+00:00:48,760 --> 00:00:48,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.3°
+
+1221
+00:00:48,800 --> 00:00:48,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.4°
+
+1222
+00:00:48,840 --> 00:00:48,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.5°
+
+1223
+00:00:48,880 --> 00:00:48,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.6°
+
+1224
+00:00:48,920 --> 00:00:48,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.7°
+
+1225
+00:00:48,960 --> 00:00:49,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.8°
+
+1226
+00:00:49,000 --> 00:00:49,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.9°
+
+1227
+00:00:49,040 --> 00:00:49,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.0°
+
+1228
+00:00:49,080 --> 00:00:49,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.1°
+
+1229
+00:00:49,120 --> 00:00:49,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.2°
+
+1230
+00:00:49,160 --> 00:00:49,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.2°
+
+1231
+00:00:49,200 --> 00:00:49,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.3°
+
+1232
+00:00:49,240 --> 00:00:49,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.4°
+
+1233
+00:00:49,280 --> 00:00:49,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.5°
+
+1234
+00:00:49,320 --> 00:00:49,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.6°
+
+1235
+00:00:49,360 --> 00:00:49,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.7°
+
+1236
+00:00:49,400 --> 00:00:49,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.8°
+
+1237
+00:00:49,440 --> 00:00:49,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.9°
+
+1238
+00:00:49,480 --> 00:00:49,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.9°
+
+1239
+00:00:49,520 --> 00:00:49,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.0°
+
+1240
+00:00:49,560 --> 00:00:49,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.1°
+
+1241
+00:00:49,600 --> 00:00:49,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.2°
+
+1242
+00:00:49,640 --> 00:00:49,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.2°
+
+1243
+00:00:49,680 --> 00:00:49,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.3°
+
+1244
+00:00:49,720 --> 00:00:49,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.4°
+
+1245
+00:00:49,760 --> 00:00:49,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.5°
+
+1246
+00:00:49,800 --> 00:00:49,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.5°
+
+1247
+00:00:49,840 --> 00:00:49,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.6°
+
+1248
+00:00:49,880 --> 00:00:49,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.7°
+
+1249
+00:00:49,920 --> 00:00:49,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.7°
+
+1250
+00:00:49,960 --> 00:00:50,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.8°
+
+1251
+00:00:50,000 --> 00:00:50,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.9°
+
+1252
+00:00:50,040 --> 00:00:50,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.9°
+
+1253
+00:00:50,080 --> 00:00:50,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.0°
+
+1254
+00:00:50,120 --> 00:00:50,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.0°
+
+1255
+00:00:50,160 --> 00:00:50,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.1°
+
+1256
+00:00:50,200 --> 00:00:50,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.1°
+
+1257
+00:00:50,240 --> 00:00:50,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.2°
+
+1258
+00:00:50,280 --> 00:00:50,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.2°
+
+1259
+00:00:50,320 --> 00:00:50,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.3°
+
+1260
+00:00:50,360 --> 00:00:50,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.3°
+
+1261
+00:00:50,400 --> 00:00:50,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.4°
+
+1262
+00:00:50,440 --> 00:00:50,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.4°
+
+1263
+00:00:50,480 --> 00:00:50,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.5°
+
+1264
+00:00:50,520 --> 00:00:50,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.5°
+
+1265
+00:00:50,560 --> 00:00:50,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+1266
+00:00:50,600 --> 00:00:50,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+1267
+00:00:50,640 --> 00:00:50,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+1268
+00:00:50,680 --> 00:00:50,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+1269
+00:00:50,720 --> 00:00:50,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+1270
+00:00:50,760 --> 00:00:50,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+1271
+00:00:50,800 --> 00:00:50,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+1272
+00:00:50,840 --> 00:00:50,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+1273
+00:00:50,880 --> 00:00:50,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+1274
+00:00:50,920 --> 00:00:50,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+1275
+00:00:50,960 --> 00:00:51,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1276
+00:00:51,000 --> 00:00:51,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1277
+00:00:51,040 --> 00:00:51,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1278
+00:00:51,080 --> 00:00:51,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1279
+00:00:51,120 --> 00:00:51,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1280
+00:00:51,160 --> 00:00:51,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1281
+00:00:51,200 --> 00:00:51,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1282
+00:00:51,240 --> 00:00:51,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1283
+00:00:51,280 --> 00:00:51,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1284
+00:00:51,320 --> 00:00:51,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1285
+00:00:51,360 --> 00:00:51,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1286
+00:00:51,400 --> 00:00:51,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1287
+00:00:51,440 --> 00:00:51,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1288
+00:00:51,480 --> 00:00:51,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1289
+00:00:51,520 --> 00:00:51,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1290
+00:00:51,560 --> 00:00:51,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1291
+00:00:51,600 --> 00:00:51,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1292
+00:00:51,640 --> 00:00:51,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1293
+00:00:51,680 --> 00:00:51,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1294
+00:00:51,720 --> 00:00:51,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1295
+00:00:51,760 --> 00:00:51,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1296
+00:00:51,800 --> 00:00:51,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1297
+00:00:51,840 --> 00:00:51,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1298
+00:00:51,880 --> 00:00:51,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1299
+00:00:51,920 --> 00:00:51,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1300
+00:00:51,960 --> 00:00:52,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1301
+00:00:52,000 --> 00:00:52,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+1302
+00:00:52,040 --> 00:00:52,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+1303
+00:00:52,080 --> 00:00:52,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+1304
+00:00:52,120 --> 00:00:52,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+1305
+00:00:52,160 --> 00:00:52,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+1306
+00:00:52,200 --> 00:00:52,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+1307
+00:00:52,240 --> 00:00:52,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+1308
+00:00:52,280 --> 00:00:52,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+1309
+00:00:52,320 --> 00:00:52,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+1310
+00:00:52,360 --> 00:00:52,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+1311
+00:00:52,400 --> 00:00:52,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.5°
+
+1312
+00:00:52,440 --> 00:00:52,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.5°
+
+1313
+00:00:52,480 --> 00:00:52,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.5°
+
+1314
+00:00:52,520 --> 00:00:52,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.4°
+
+1315
+00:00:52,560 --> 00:00:52,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.4°
+
+1316
+00:00:52,600 --> 00:00:52,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.3°
+
+1317
+00:00:52,640 --> 00:00:52,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.3°
+
+1318
+00:00:52,680 --> 00:00:52,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.2°
+
+1319
+00:00:52,720 --> 00:00:52,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.2°
+
+1320
+00:00:52,760 --> 00:00:52,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.1°
+
+1321
+00:00:52,800 --> 00:00:52,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.1°
+
+1322
+00:00:52,840 --> 00:00:52,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.0°
+
+1323
+00:00:52,880 --> 00:00:52,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.9°
+
+1324
+00:00:52,920 --> 00:00:52,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.9°
+
+1325
+00:00:52,960 --> 00:00:53,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.8°
+
+1326
+00:00:53,000 --> 00:00:53,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.8°
+
+1327
+00:00:53,040 --> 00:00:53,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.7°
+
+1328
+00:00:53,080 --> 00:00:53,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.6°
+
+1329
+00:00:53,120 --> 00:00:53,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.6°
+
+1330
+00:00:53,160 --> 00:00:53,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.5°
+
+1331
+00:00:53,200 --> 00:00:53,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.4°
+
+1332
+00:00:53,240 --> 00:00:53,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.4°
+
+1333
+00:00:53,280 --> 00:00:53,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.3°
+
+1334
+00:00:53,320 --> 00:00:53,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.2°
+
+1335
+00:00:53,360 --> 00:00:53,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.1°
+
+1336
+00:00:53,400 --> 00:00:53,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.1°
+
+1337
+00:00:53,440 --> 00:00:53,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.0°
+
+1338
+00:00:53,480 --> 00:00:53,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.9°
+
+1339
+00:00:53,520 --> 00:00:53,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.8°
+
+1340
+00:00:53,560 --> 00:00:53,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.7°
+
+1341
+00:00:53,600 --> 00:00:53,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.6°
+
+1342
+00:00:53,640 --> 00:00:53,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.6°
+
+1343
+00:00:53,680 --> 00:00:53,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.5°
+
+1344
+00:00:53,720 --> 00:00:53,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.4°
+
+1345
+00:00:53,760 --> 00:00:53,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.3°
+
+1346
+00:00:53,800 --> 00:00:53,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.2°
+
+1347
+00:00:53,840 --> 00:00:53,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.1°
+
+1348
+00:00:53,880 --> 00:00:53,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.0°
+
+1349
+00:00:53,920 --> 00:00:53,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.9°
+
+1350
+00:00:53,960 --> 00:00:54,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.8°
+
+1351
+00:00:54,000 --> 00:00:54,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.7°
+
+1352
+00:00:54,040 --> 00:00:54,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.6°
+
+1353
+00:00:54,080 --> 00:00:54,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.5°
+
+1354
+00:00:54,120 --> 00:00:54,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.4°
+
+1355
+00:00:54,160 --> 00:00:54,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.3°
+
+1356
+00:00:54,200 --> 00:00:54,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.2°
+
+1357
+00:00:54,240 --> 00:00:54,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.1°
+
+1358
+00:00:54,280 --> 00:00:54,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.0°
+
+1359
+00:00:54,320 --> 00:00:54,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.9°
+
+1360
+00:00:54,360 --> 00:00:54,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.8°
+
+1361
+00:00:54,400 --> 00:00:54,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.7°
+
+1362
+00:00:54,440 --> 00:00:54,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.6°
+
+1363
+00:00:54,480 --> 00:00:54,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.5°
+
+1364
+00:00:54,520 --> 00:00:54,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.3°
+
+1365
+00:00:54,560 --> 00:00:54,600
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 19.2°
+
+1366
+00:00:54,600 --> 00:00:54,640
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 19.1°
+
+1367
+00:00:54,640 --> 00:00:54,680
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 19.0°
+
+1368
+00:00:54,680 --> 00:00:54,720
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 18.9°
+
+1369
+00:00:54,720 --> 00:00:54,760
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 18.8°
+
+1370
+00:00:54,760 --> 00:00:54,800
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 18.6°
+
+1371
+00:00:54,800 --> 00:00:54,840
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 18.5°
+
+1372
+00:00:54,840 --> 00:00:54,880
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 18.4°
+
+1373
+00:00:54,880 --> 00:00:54,920
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 18.3°
+
+1374
+00:00:54,920 --> 00:00:54,960
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 18.2°
+
+1375
+00:00:54,960 --> 00:00:55,000
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 18.0°
+
+1376
+00:00:55,000 --> 00:00:55,040
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 17.9°
+
+1377
+00:00:55,040 --> 00:00:55,080
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 17.8°
+
+1378
+00:00:55,080 --> 00:00:55,120
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 17.7°
+
+1379
+00:00:55,120 --> 00:00:55,160
+SYNTHETIC   |   Left ankle 0.4°   |   Right ankle 17.5°
+
+1380
+00:00:55,160 --> 00:00:55,200
+SYNTHETIC   |   Left ankle 0.4°   |   Right ankle 17.4°
+
+1381
+00:00:55,200 --> 00:00:55,240
+SYNTHETIC   |   Left ankle 0.5°   |   Right ankle 17.3°
+
+1382
+00:00:55,240 --> 00:00:55,280
+SYNTHETIC   |   Left ankle 0.5°   |   Right ankle 17.1°
+
+1383
+00:00:55,280 --> 00:00:55,320
+SYNTHETIC   |   Left ankle 0.6°   |   Right ankle 17.0°
+
+1384
+00:00:55,320 --> 00:00:55,360
+SYNTHETIC   |   Left ankle 0.7°   |   Right ankle 16.9°
+
+1385
+00:00:55,360 --> 00:00:55,400
+SYNTHETIC   |   Left ankle 0.7°   |   Right ankle 16.7°
+
+1386
+00:00:55,400 --> 00:00:55,440
+SYNTHETIC   |   Left ankle 0.8°   |   Right ankle 16.6°
+
+1387
+00:00:55,440 --> 00:00:55,480
+SYNTHETIC   |   Left ankle 0.9°   |   Right ankle 16.5°
+
+1388
+00:00:55,480 --> 00:00:55,520
+SYNTHETIC   |   Left ankle 1.0°   |   Right ankle 16.3°
+
+1389
+00:00:55,520 --> 00:00:55,560
+SYNTHETIC   |   Left ankle 1.0°   |   Right ankle 16.2°
+
+1390
+00:00:55,560 --> 00:00:55,600
+SYNTHETIC   |   Left ankle 1.1°   |   Right ankle 16.1°
+
+1391
+00:00:55,600 --> 00:00:55,640
+SYNTHETIC   |   Left ankle 1.2°   |   Right ankle 15.9°
+
+1392
+00:00:55,640 --> 00:00:55,680
+SYNTHETIC   |   Left ankle 1.3°   |   Right ankle 15.8°
+
+1393
+00:00:55,680 --> 00:00:55,720
+SYNTHETIC   |   Left ankle 1.5°   |   Right ankle 15.7°
+
+1394
+00:00:55,720 --> 00:00:55,760
+SYNTHETIC   |   Left ankle 1.6°   |   Right ankle 15.5°
+
+1395
+00:00:55,760 --> 00:00:55,800
+SYNTHETIC   |   Left ankle 1.7°   |   Right ankle 15.4°
+
+1396
+00:00:55,800 --> 00:00:55,840
+SYNTHETIC   |   Left ankle 1.8°   |   Right ankle 15.3°
+
+1397
+00:00:55,840 --> 00:00:55,880
+SYNTHETIC   |   Left ankle 2.0°   |   Right ankle 15.1°
+
+1398
+00:00:55,880 --> 00:00:55,920
+SYNTHETIC   |   Left ankle 2.1°   |   Right ankle 15.0°
+
+1399
+00:00:55,920 --> 00:00:55,960
+SYNTHETIC   |   Left ankle 2.3°   |   Right ankle 14.8°
+
+1400
+00:00:55,960 --> 00:00:56,000
+SYNTHETIC   |   Left ankle 2.4°   |   Right ankle 14.7°
+
+1401
+00:00:56,000 --> 00:00:56,040
+SYNTHETIC   |   Left ankle 2.6°   |   Right ankle 14.6°
+
+1402
+00:00:56,040 --> 00:00:56,080
+SYNTHETIC   |   Left ankle 2.7°   |   Right ankle 14.4°
+
+1403
+00:00:56,080 --> 00:00:56,120
+SYNTHETIC   |   Left ankle 2.9°   |   Right ankle 14.3°
+
+1404
+00:00:56,120 --> 00:00:56,160
+SYNTHETIC   |   Left ankle 3.1°   |   Right ankle 14.1°
+
+1405
+00:00:56,160 --> 00:00:56,200
+SYNTHETIC   |   Left ankle 3.3°   |   Right ankle 14.0°
+
+1406
+00:00:56,200 --> 00:00:56,240
+SYNTHETIC   |   Left ankle 3.5°   |   Right ankle 13.9°
+
+1407
+00:00:56,240 --> 00:00:56,280
+SYNTHETIC   |   Left ankle 3.7°   |   Right ankle 13.7°
+
+1408
+00:00:56,280 --> 00:00:56,320
+SYNTHETIC   |   Left ankle 3.9°   |   Right ankle 13.6°
+
+1409
+00:00:56,320 --> 00:00:56,360
+SYNTHETIC   |   Left ankle 4.1°   |   Right ankle 13.4°
+
+1410
+00:00:56,360 --> 00:00:56,400
+SYNTHETIC   |   Left ankle 4.4°   |   Right ankle 13.3°
+
+1411
+00:00:56,400 --> 00:00:56,440
+SYNTHETIC   |   Left ankle 4.6°   |   Right ankle 13.1°
+
+1412
+00:00:56,440 --> 00:00:56,480
+SYNTHETIC   |   Left ankle 4.8°   |   Right ankle 13.0°
+
+1413
+00:00:56,480 --> 00:00:56,520
+SYNTHETIC   |   Left ankle 5.1°   |   Right ankle 12.9°
+
+1414
+00:00:56,520 --> 00:00:56,560
+SYNTHETIC   |   Left ankle 5.3°   |   Right ankle 12.7°
+
+1415
+00:00:56,560 --> 00:00:56,600
+SYNTHETIC   |   Left ankle 5.6°   |   Right ankle 12.6°
+
+1416
+00:00:56,600 --> 00:00:56,640
+SYNTHETIC   |   Left ankle 5.8°   |   Right ankle 12.4°
+
+1417
+00:00:56,640 --> 00:00:56,680
+SYNTHETIC   |   Left ankle 6.1°   |   Right ankle 12.3°
+
+1418
+00:00:56,680 --> 00:00:56,720
+SYNTHETIC   |   Left ankle 6.4°   |   Right ankle 12.1°
+
+1419
+00:00:56,720 --> 00:00:56,760
+SYNTHETIC   |   Left ankle 6.6°   |   Right ankle 12.0°
+
+1420
+00:00:56,760 --> 00:00:56,800
+SYNTHETIC   |   Left ankle 6.9°   |   Right ankle 11.9°
+
+1421
+00:00:56,800 --> 00:00:56,840
+SYNTHETIC   |   Left ankle 7.2°   |   Right ankle 11.7°
+
+1422
+00:00:56,840 --> 00:00:56,880
+SYNTHETIC   |   Left ankle 7.5°   |   Right ankle 11.6°
+
+1423
+00:00:56,880 --> 00:00:56,920
+SYNTHETIC   |   Left ankle 7.8°   |   Right ankle 11.4°
+
+1424
+00:00:56,920 --> 00:00:56,960
+SYNTHETIC   |   Left ankle 8.1°   |   Right ankle 11.3°
+
+1425
+00:00:56,960 --> 00:00:57,000
+SYNTHETIC   |   Left ankle 8.4°   |   Right ankle 11.1°
+
+1426
+00:00:57,000 --> 00:00:57,040
+SYNTHETIC   |   Left ankle 8.7°   |   Right ankle 11.0°
+
+1427
+00:00:57,040 --> 00:00:57,080
+SYNTHETIC   |   Left ankle 9.0°   |   Right ankle 10.9°
+
+1428
+00:00:57,080 --> 00:00:57,120
+SYNTHETIC   |   Left ankle 9.3°   |   Right ankle 10.7°
+
+1429
+00:00:57,120 --> 00:00:57,160
+SYNTHETIC   |   Left ankle 9.6°   |   Right ankle 10.6°
+
+1430
+00:00:57,160 --> 00:00:57,200
+SYNTHETIC   |   Left ankle 9.9°   |   Right ankle 10.4°
+
+1431
+00:00:57,200 --> 00:00:57,240
+SYNTHETIC   |   Left ankle 10.2°   |   Right ankle 10.3°
+
+1432
+00:00:57,240 --> 00:00:57,280
+SYNTHETIC   |   Left ankle 10.5°   |   Right ankle 10.1°
+
+1433
+00:00:57,280 --> 00:00:57,320
+SYNTHETIC   |   Left ankle 10.8°   |   Right ankle 10.0°
+
+1434
+00:00:57,320 --> 00:00:57,360
+SYNTHETIC   |   Left ankle 11.1°   |   Right ankle 9.9°
+
+1435
+00:00:57,360 --> 00:00:57,400
+SYNTHETIC   |   Left ankle 11.4°   |   Right ankle 9.7°
+
+1436
+00:00:57,400 --> 00:00:57,440
+SYNTHETIC   |   Left ankle 11.8°   |   Right ankle 9.6°
+
+1437
+00:00:57,440 --> 00:00:57,480
+SYNTHETIC   |   Left ankle 12.1°   |   Right ankle 9.4°
+
+1438
+00:00:57,480 --> 00:00:57,520
+SYNTHETIC   |   Left ankle 12.4°   |   Right ankle 9.3°
+
+1439
+00:00:57,520 --> 00:00:57,560
+SYNTHETIC   |   Left ankle 12.7°   |   Right ankle 9.2°
+
+1440
+00:00:57,560 --> 00:00:57,600
+SYNTHETIC   |   Left ankle 12.9°   |   Right ankle 9.0°
+
+1441
+00:00:57,600 --> 00:00:57,640
+SYNTHETIC   |   Left ankle 13.2°   |   Right ankle 8.9°
+
+1442
+00:00:57,640 --> 00:00:57,680
+SYNTHETIC   |   Left ankle 13.5°   |   Right ankle 8.7°
+
+1443
+00:00:57,680 --> 00:00:57,720
+SYNTHETIC   |   Left ankle 13.8°   |   Right ankle 8.6°
+
+1444
+00:00:57,720 --> 00:00:57,760
+SYNTHETIC   |   Left ankle 14.1°   |   Right ankle 8.5°
+
+1445
+00:00:57,760 --> 00:00:57,800
+SYNTHETIC   |   Left ankle 14.3°   |   Right ankle 8.3°
+
+1446
+00:00:57,800 --> 00:00:57,840
+SYNTHETIC   |   Left ankle 14.6°   |   Right ankle 8.2°
+
+1447
+00:00:57,840 --> 00:00:57,880
+SYNTHETIC   |   Left ankle 14.9°   |   Right ankle 8.1°
+
+1448
+00:00:57,880 --> 00:00:57,920
+SYNTHETIC   |   Left ankle 15.1°   |   Right ankle 7.9°
+
+1449
+00:00:57,920 --> 00:00:57,960
+SYNTHETIC   |   Left ankle 15.3°   |   Right ankle 7.8°
+
+1450
+00:00:57,960 --> 00:00:58,000
+SYNTHETIC   |   Left ankle 15.6°   |   Right ankle 7.6°
+
+1451
+00:00:58,000 --> 00:00:58,040
+SYNTHETIC   |   Left ankle 15.8°   |   Right ankle 7.5°
+
+1452
+00:00:58,040 --> 00:00:58,080
+SYNTHETIC   |   Left ankle 16.0°   |   Right ankle 7.4°
+
+1453
+00:00:58,080 --> 00:00:58,120
+SYNTHETIC   |   Left ankle 16.2°   |   Right ankle 7.2°
+
+1454
+00:00:58,120 --> 00:00:58,160
+SYNTHETIC   |   Left ankle 16.4°   |   Right ankle 7.1°
+
+1455
+00:00:58,160 --> 00:00:58,200
+SYNTHETIC   |   Left ankle 16.6°   |   Right ankle 7.0°
+
+1456
+00:00:58,200 --> 00:00:58,240
+SYNTHETIC   |   Left ankle 16.8°   |   Right ankle 6.9°
+
+1457
+00:00:58,240 --> 00:00:58,280
+SYNTHETIC   |   Left ankle 16.9°   |   Right ankle 6.7°
+
+1458
+00:00:58,280 --> 00:00:58,320
+SYNTHETIC   |   Left ankle 17.1°   |   Right ankle 6.6°
+
+1459
+00:00:58,320 --> 00:00:58,360
+SYNTHETIC   |   Left ankle 17.2°   |   Right ankle 6.5°
+
+1460
+00:00:58,360 --> 00:00:58,400
+SYNTHETIC   |   Left ankle 17.4°   |   Right ankle 6.3°
+
+1461
+00:00:58,400 --> 00:00:58,440
+SYNTHETIC   |   Left ankle 17.5°   |   Right ankle 6.2°
+
+1462
+00:00:58,440 --> 00:00:58,480
+SYNTHETIC   |   Left ankle 17.6°   |   Right ankle 6.1°
+
+1463
+00:00:58,480 --> 00:00:58,520
+SYNTHETIC   |   Left ankle 17.7°   |   Right ankle 6.0°
+
+1464
+00:00:58,520 --> 00:00:58,560
+SYNTHETIC   |   Left ankle 17.8°   |   Right ankle 5.8°
+
+1465
+00:00:58,560 --> 00:00:58,600
+SYNTHETIC   |   Left ankle 17.8°   |   Right ankle 5.7°
+
+1466
+00:00:58,600 --> 00:00:58,640
+SYNTHETIC   |   Left ankle 17.9°   |   Right ankle 5.6°
+
+1467
+00:00:58,640 --> 00:00:58,680
+SYNTHETIC   |   Left ankle 17.9°   |   Right ankle 5.5°
+
+1468
+00:00:58,680 --> 00:00:58,720
+SYNTHETIC   |   Left ankle 18.0°   |   Right ankle 5.4°
+
+1469
+00:00:58,720 --> 00:00:58,760
+SYNTHETIC   |   Left ankle 18.0°   |   Right ankle 5.2°
+
+1470
+00:00:58,760 --> 00:00:58,800
+SYNTHETIC   |   Left ankle 18.0°   |   Right ankle 5.1°
+
+1471
+00:00:58,800 --> 00:00:58,840
+SYNTHETIC   |   Left ankle 18.0°   |   Right ankle 5.0°
+
+1472
+00:00:58,840 --> 00:00:58,880
+SYNTHETIC   |   Left ankle 18.0°   |   Right ankle 4.9°
+
+1473
+00:00:58,880 --> 00:00:58,920
+SYNTHETIC   |   Left ankle 17.9°   |   Right ankle 4.8°
+
+1474
+00:00:58,920 --> 00:00:58,960
+SYNTHETIC   |   Left ankle 17.9°   |   Right ankle 4.7°
+
+1475
+00:00:58,960 --> 00:00:59,000
+SYNTHETIC   |   Left ankle 17.8°   |   Right ankle 4.5°
+
+1476
+00:00:59,000 --> 00:00:59,040
+SYNTHETIC   |   Left ankle 17.8°   |   Right ankle 4.4°
+
+1477
+00:00:59,040 --> 00:00:59,080
+SYNTHETIC   |   Left ankle 17.7°   |   Right ankle 4.3°
+
+1478
+00:00:59,080 --> 00:00:59,120
+SYNTHETIC   |   Left ankle 17.6°   |   Right ankle 4.2°
+
+1479
+00:00:59,120 --> 00:00:59,160
+SYNTHETIC   |   Left ankle 17.5°   |   Right ankle 4.1°
+
+1480
+00:00:59,160 --> 00:00:59,200
+SYNTHETIC   |   Left ankle 17.4°   |   Right ankle 4.0°
+
+1481
+00:00:59,200 --> 00:00:59,240
+SYNTHETIC   |   Left ankle 17.2°   |   Right ankle 3.9°
+
+1482
+00:00:59,240 --> 00:00:59,280
+SYNTHETIC   |   Left ankle 17.1°   |   Right ankle 3.8°
+
+1483
+00:00:59,280 --> 00:00:59,320
+SYNTHETIC   |   Left ankle 16.9°   |   Right ankle 3.7°
+
+1484
+00:00:59,320 --> 00:00:59,360
+SYNTHETIC   |   Left ankle 16.8°   |   Right ankle 3.6°
+
+1485
+00:00:59,360 --> 00:00:59,400
+SYNTHETIC   |   Left ankle 16.6°   |   Right ankle 3.5°
+
+1486
+00:00:59,400 --> 00:00:59,440
+SYNTHETIC   |   Left ankle 16.4°   |   Right ankle 3.4°
+
+1487
+00:00:59,440 --> 00:00:59,480
+SYNTHETIC   |   Left ankle 16.2°   |   Right ankle 3.3°
+
+1488
+00:00:59,480 --> 00:00:59,520
+SYNTHETIC   |   Left ankle 16.0°   |   Right ankle 3.2°
+
+1489
+00:00:59,520 --> 00:00:59,560
+SYNTHETIC   |   Left ankle 15.8°   |   Right ankle 3.1°
+
+1490
+00:00:59,560 --> 00:00:59,600
+SYNTHETIC   |   Left ankle 15.6°   |   Right ankle 3.0°
+
+1491
+00:00:59,600 --> 00:00:59,640
+SYNTHETIC   |   Left ankle 15.3°   |   Right ankle 2.9°
+
+1492
+00:00:59,640 --> 00:00:59,680
+SYNTHETIC   |   Left ankle 15.1°   |   Right ankle 2.8°
+
+1493
+00:00:59,680 --> 00:00:59,720
+SYNTHETIC   |   Left ankle 14.9°   |   Right ankle 2.7°
+
+1494
+00:00:59,720 --> 00:00:59,760
+SYNTHETIC   |   Left ankle 14.6°   |   Right ankle 2.6°
+
+1495
+00:00:59,760 --> 00:00:59,800
+SYNTHETIC   |   Left ankle 14.3°   |   Right ankle 2.5°
+
+1496
+00:00:59,800 --> 00:00:59,840
+SYNTHETIC   |   Left ankle 14.1°   |   Right ankle 2.4°
+
+1497
+00:00:59,840 --> 00:00:59,880
+SYNTHETIC   |   Left ankle 13.8°   |   Right ankle 2.4°
+
+1498
+00:00:59,880 --> 00:00:59,920
+SYNTHETIC   |   Left ankle 13.5°   |   Right ankle 2.3°
+
+1499
+00:00:59,920 --> 00:00:59,960
+SYNTHETIC   |   Left ankle 13.2°   |   Right ankle 2.2°
+
+1500
+00:00:59,960 --> 00:01:00,000
+SYNTHETIC   |   Left ankle 13.0°   |   Right ankle 2.1°
+
+1501
+00:01:00,000 --> 00:01:00,040
+SYNTHETIC   |   Left ankle 12.7°   |   Right ankle 2.0°
+
+1502
+00:01:00,040 --> 00:01:00,080
+SYNTHETIC   |   Left ankle 12.4°   |   Right ankle 1.9°
+
+1503
+00:01:00,080 --> 00:01:00,120
+SYNTHETIC   |   Left ankle 12.1°   |   Right ankle 1.9°
+
+1504
+00:01:00,120 --> 00:01:00,160
+SYNTHETIC   |   Left ankle 11.8°   |   Right ankle 1.8°
+
+1505
+00:01:00,160 --> 00:01:00,200
+SYNTHETIC   |   Left ankle 11.5°   |   Right ankle 1.7°
+
+1506
+00:01:00,200 --> 00:01:00,240
+SYNTHETIC   |   Left ankle 11.2°   |   Right ankle 1.6°
+
+1507
+00:01:00,240 --> 00:01:00,280
+SYNTHETIC   |   Left ankle 10.8°   |   Right ankle 1.6°
+
+1508
+00:01:00,280 --> 00:01:00,320
+SYNTHETIC   |   Left ankle 10.5°   |   Right ankle 1.5°
+
+1509
+00:01:00,320 --> 00:01:00,360
+SYNTHETIC   |   Left ankle 10.2°   |   Right ankle 1.4°
+
+1510
+00:01:00,360 --> 00:01:00,400
+SYNTHETIC   |   Left ankle 9.9°   |   Right ankle 1.4°
+
+1511
+00:01:00,400 --> 00:01:00,440
+SYNTHETIC   |   Left ankle 9.6°   |   Right ankle 1.3°
+
+1512
+00:01:00,440 --> 00:01:00,480
+SYNTHETIC   |   Left ankle 9.3°   |   Right ankle 1.2°
+
+1513
+00:01:00,480 --> 00:01:00,520
+SYNTHETIC   |   Left ankle 9.0°   |   Right ankle 1.2°
+
+1514
+00:01:00,520 --> 00:01:00,560
+SYNTHETIC   |   Left ankle 8.7°   |   Right ankle 1.1°
+
+1515
+00:01:00,560 --> 00:01:00,600
+SYNTHETIC   |   Left ankle 8.4°   |   Right ankle 1.1°
+
+1516
+00:01:00,600 --> 00:01:00,640
+SYNTHETIC   |   Left ankle 8.1°   |   Right ankle 1.0°
+
+1517
+00:01:00,640 --> 00:01:00,680
+SYNTHETIC   |   Left ankle 7.8°   |   Right ankle 0.9°
+
+1518
+00:01:00,680 --> 00:01:00,720
+SYNTHETIC   |   Left ankle 7.5°   |   Right ankle 0.9°
+
+1519
+00:01:00,720 --> 00:01:00,760
+SYNTHETIC   |   Left ankle 7.2°   |   Right ankle 0.8°
+
+1520
+00:01:00,760 --> 00:01:00,800
+SYNTHETIC   |   Left ankle 6.9°   |   Right ankle 0.8°
+
+1521
+00:01:00,800 --> 00:01:00,840
+SYNTHETIC   |   Left ankle 6.7°   |   Right ankle 0.7°
+
+1522
+00:01:00,840 --> 00:01:00,880
+SYNTHETIC   |   Left ankle 6.4°   |   Right ankle 0.7°
+
+1523
+00:01:00,880 --> 00:01:00,920
+SYNTHETIC   |   Left ankle 6.1°   |   Right ankle 0.6°
+
+1524
+00:01:00,920 --> 00:01:00,960
+SYNTHETIC   |   Left ankle 5.8°   |   Right ankle 0.6°
+
+1525
+00:01:00,960 --> 00:01:01,000
+SYNTHETIC   |   Left ankle 5.6°   |   Right ankle 0.5°
+
+1526
+00:01:01,000 --> 00:01:01,040
+SYNTHETIC   |   Left ankle 5.3°   |   Right ankle 0.5°
+
+1527
+00:01:01,040 --> 00:01:01,080
+SYNTHETIC   |   Left ankle 5.1°   |   Right ankle 0.5°
+
+1528
+00:01:01,080 --> 00:01:01,120
+SYNTHETIC   |   Left ankle 4.8°   |   Right ankle 0.4°
+
+1529
+00:01:01,120 --> 00:01:01,160
+SYNTHETIC   |   Left ankle 4.6°   |   Right ankle 0.4°
+
+1530
+00:01:01,160 --> 00:01:01,200
+SYNTHETIC   |   Left ankle 4.4°   |   Right ankle 0.4°
+
+1531
+00:01:01,200 --> 00:01:01,240
+SYNTHETIC   |   Left ankle 4.1°   |   Right ankle 0.3°
+
+1532
+00:01:01,240 --> 00:01:01,280
+SYNTHETIC   |   Left ankle 3.9°   |   Right ankle 0.3°
+
+1533
+00:01:01,280 --> 00:01:01,320
+SYNTHETIC   |   Left ankle 3.7°   |   Right ankle 0.3°
+
+1534
+00:01:01,320 --> 00:01:01,360
+SYNTHETIC   |   Left ankle 3.5°   |   Right ankle 0.2°
+
+1535
+00:01:01,360 --> 00:01:01,400
+SYNTHETIC   |   Left ankle 3.3°   |   Right ankle 0.2°
+
+1536
+00:01:01,400 --> 00:01:01,440
+SYNTHETIC   |   Left ankle 3.1°   |   Right ankle 0.2°
+
+1537
+00:01:01,440 --> 00:01:01,480
+SYNTHETIC   |   Left ankle 2.9°   |   Right ankle 0.2°
+
+1538
+00:01:01,480 --> 00:01:01,520
+SYNTHETIC   |   Left ankle 2.8°   |   Right ankle 0.1°
+
+1539
+00:01:01,520 --> 00:01:01,560
+SYNTHETIC   |   Left ankle 2.6°   |   Right ankle 0.1°
+
+1540
+00:01:01,560 --> 00:01:01,600
+SYNTHETIC   |   Left ankle 2.4°   |   Right ankle 0.1°
+
+1541
+00:01:01,600 --> 00:01:01,640
+SYNTHETIC   |   Left ankle 2.3°   |   Right ankle 0.1°
+
+1542
+00:01:01,640 --> 00:01:01,680
+SYNTHETIC   |   Left ankle 2.1°   |   Right ankle 0.1°
+
+1543
+00:01:01,680 --> 00:01:01,720
+SYNTHETIC   |   Left ankle 2.0°   |   Right ankle 0.0°
+
+1544
+00:01:01,720 --> 00:01:01,760
+SYNTHETIC   |   Left ankle 1.8°   |   Right ankle 0.0°
+
+1545
+00:01:01,760 --> 00:01:01,800
+SYNTHETIC   |   Left ankle 1.7°   |   Right ankle 0.0°
+
+1546
+00:01:01,800 --> 00:01:01,840
+SYNTHETIC   |   Left ankle 1.6°   |   Right ankle 0.0°
+
+1547
+00:01:01,840 --> 00:01:01,880
+SYNTHETIC   |   Left ankle 1.5°   |   Right ankle 0.0°
+
+1548
+00:01:01,880 --> 00:01:01,920
+SYNTHETIC   |   Left ankle 1.3°   |   Right ankle 0.0°
+
+1549
+00:01:01,920 --> 00:01:01,960
+SYNTHETIC   |   Left ankle 1.2°   |   Right ankle 0.0°
+
+1550
+00:01:01,960 --> 00:01:02,000
+SYNTHETIC   |   Left ankle 1.1°   |   Right ankle 0.0°
+
+1551
+00:01:02,000 --> 00:01:02,040
+SYNTHETIC   |   Left ankle 1.0°   |   Right ankle 0.0°
+
+1552
+00:01:02,040 --> 00:01:02,080
+SYNTHETIC   |   Left ankle 1.0°   |   Right ankle 0.0°
+
+1553
+00:01:02,080 --> 00:01:02,120
+SYNTHETIC   |   Left ankle 0.9°   |   Right ankle 0.0°
+
+1554
+00:01:02,120 --> 00:01:02,160
+SYNTHETIC   |   Left ankle 0.8°   |   Right ankle 0.0°
+
+1555
+00:01:02,160 --> 00:01:02,200
+SYNTHETIC   |   Left ankle 0.7°   |   Right ankle 0.0°
+
+1556
+00:01:02,200 --> 00:01:02,240
+SYNTHETIC   |   Left ankle 0.7°   |   Right ankle 0.0°
+
+1557
+00:01:02,240 --> 00:01:02,280
+SYNTHETIC   |   Left ankle 0.6°   |   Right ankle 0.0°
+
+1558
+00:01:02,280 --> 00:01:02,320
+SYNTHETIC   |   Left ankle 0.5°   |   Right ankle 0.1°
+
+1559
+00:01:02,320 --> 00:01:02,360
+SYNTHETIC   |   Left ankle 0.5°   |   Right ankle 0.1°
+
+1560
+00:01:02,360 --> 00:01:02,400
+SYNTHETIC   |   Left ankle 0.4°   |   Right ankle 0.1°
+
+1561
+00:01:02,400 --> 00:01:02,440
+SYNTHETIC   |   Left ankle 0.4°   |   Right ankle 0.1°
+
+1562
+00:01:02,440 --> 00:01:02,480
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 0.1°
+
+1563
+00:01:02,480 --> 00:01:02,520
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 0.1°
+
+1564
+00:01:02,520 --> 00:01:02,560
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 0.2°
+
+1565
+00:01:02,560 --> 00:01:02,600
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 0.2°
+
+1566
+00:01:02,600 --> 00:01:02,640
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 0.2°
+
+1567
+00:01:02,640 --> 00:01:02,680
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 0.2°
+
+1568
+00:01:02,680 --> 00:01:02,720
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 0.3°
+
+1569
+00:01:02,720 --> 00:01:02,760
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.3°
+
+1570
+00:01:02,760 --> 00:01:02,800
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.3°
+
+1571
+00:01:02,800 --> 00:01:02,840
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.4°
+
+1572
+00:01:02,840 --> 00:01:02,880
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.4°
+
+1573
+00:01:02,880 --> 00:01:02,920
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.4°
+
+1574
+00:01:02,920 --> 00:01:02,960
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.5°
+
+1575
+00:01:02,960 --> 00:01:03,000
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 0.5°
+
+1576
+00:01:03,000 --> 00:01:03,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.6°
+
+1577
+00:01:03,040 --> 00:01:03,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.6°
+
+1578
+00:01:03,080 --> 00:01:03,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.7°
+
+1579
+00:01:03,120 --> 00:01:03,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.7°
+
+1580
+00:01:03,160 --> 00:01:03,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.8°
+
+1581
+00:01:03,200 --> 00:01:03,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.8°
+
+1582
+00:01:03,240 --> 00:01:03,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.9°
+
+1583
+00:01:03,280 --> 00:01:03,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 0.9°
+
+1584
+00:01:03,320 --> 00:01:03,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.0°
+
+1585
+00:01:03,360 --> 00:01:03,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.0°
+
+1586
+00:01:03,400 --> 00:01:03,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.1°
+
+1587
+00:01:03,440 --> 00:01:03,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.1°
+
+1588
+00:01:03,480 --> 00:01:03,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.2°
+
+1589
+00:01:03,520 --> 00:01:03,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.3°
+
+1590
+00:01:03,560 --> 00:01:03,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.3°
+
+1591
+00:01:03,600 --> 00:01:03,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.4°
+
+1592
+00:01:03,640 --> 00:01:03,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.5°
+
+1593
+00:01:03,680 --> 00:01:03,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.5°
+
+1594
+00:01:03,720 --> 00:01:03,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.6°
+
+1595
+00:01:03,760 --> 00:01:03,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.7°
+
+1596
+00:01:03,800 --> 00:01:03,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.8°
+
+1597
+00:01:03,840 --> 00:01:03,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.8°
+
+1598
+00:01:03,880 --> 00:01:03,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 1.9°
+
+1599
+00:01:03,920 --> 00:01:03,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.0°
+
+1600
+00:01:03,960 --> 00:01:04,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.1°
+
+1601
+00:01:04,000 --> 00:01:04,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.1°
+
+1602
+00:01:04,040 --> 00:01:04,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.2°
+
+1603
+00:01:04,080 --> 00:01:04,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.3°
+
+1604
+00:01:04,120 --> 00:01:04,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.4°
+
+1605
+00:01:04,160 --> 00:01:04,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.5°
+
+1606
+00:01:04,200 --> 00:01:04,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.6°
+
+1607
+00:01:04,240 --> 00:01:04,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.7°
+
+1608
+00:01:04,280 --> 00:01:04,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.8°
+
+1609
+00:01:04,320 --> 00:01:04,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.8°
+
+1610
+00:01:04,360 --> 00:01:04,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 2.9°
+
+1611
+00:01:04,400 --> 00:01:04,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.0°
+
+1612
+00:01:04,440 --> 00:01:04,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.1°
+
+1613
+00:01:04,480 --> 00:01:04,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.2°
+
+1614
+00:01:04,520 --> 00:01:04,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.3°
+
+1615
+00:01:04,560 --> 00:01:04,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.4°
+
+1616
+00:01:04,600 --> 00:01:04,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.5°
+
+1617
+00:01:04,640 --> 00:01:04,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.6°
+
+1618
+00:01:04,680 --> 00:01:04,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.7°
+
+1619
+00:01:04,720 --> 00:01:04,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.8°
+
+1620
+00:01:04,760 --> 00:01:04,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 3.9°
+
+1621
+00:01:04,800 --> 00:01:04,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.1°
+
+1622
+00:01:04,840 --> 00:01:04,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.2°
+
+1623
+00:01:04,880 --> 00:01:04,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.3°
+
+1624
+00:01:04,920 --> 00:01:04,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.4°
+
+1625
+00:01:04,960 --> 00:01:05,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.5°
+
+1626
+00:01:05,000 --> 00:01:05,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.6°
+
+1627
+00:01:05,040 --> 00:01:05,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.7°
+
+1628
+00:01:05,080 --> 00:01:05,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.8°
+
+1629
+00:01:05,120 --> 00:01:05,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 4.9°
+
+1630
+00:01:05,160 --> 00:01:05,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.1°
+
+1631
+00:01:05,200 --> 00:01:05,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.2°
+
+1632
+00:01:05,240 --> 00:01:05,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.3°
+
+1633
+00:01:05,280 --> 00:01:05,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.4°
+
+1634
+00:01:05,320 --> 00:01:05,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.5°
+
+1635
+00:01:05,360 --> 00:01:05,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.7°
+
+1636
+00:01:05,400 --> 00:01:05,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.8°
+
+1637
+00:01:05,440 --> 00:01:05,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 5.9°
+
+1638
+00:01:05,480 --> 00:01:05,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.0°
+
+1639
+00:01:05,520 --> 00:01:05,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.2°
+
+1640
+00:01:05,560 --> 00:01:05,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.3°
+
+1641
+00:01:05,600 --> 00:01:05,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.4°
+
+1642
+00:01:05,640 --> 00:01:05,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.5°
+
+1643
+00:01:05,680 --> 00:01:05,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.7°
+
+1644
+00:01:05,720 --> 00:01:05,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.8°
+
+1645
+00:01:05,760 --> 00:01:05,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 6.9°
+
+1646
+00:01:05,800 --> 00:01:05,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.1°
+
+1647
+00:01:05,840 --> 00:01:05,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.2°
+
+1648
+00:01:05,880 --> 00:01:05,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.3°
+
+1649
+00:01:05,920 --> 00:01:05,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.5°
+
+1650
+00:01:05,960 --> 00:01:06,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.6°
+
+1651
+00:01:06,000 --> 00:01:06,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.7°
+
+1652
+00:01:06,040 --> 00:01:06,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 7.9°
+
+1653
+00:01:06,080 --> 00:01:06,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.0°
+
+1654
+00:01:06,120 --> 00:01:06,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.1°
+
+1655
+00:01:06,160 --> 00:01:06,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.3°
+
+1656
+00:01:06,200 --> 00:01:06,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.4°
+
+1657
+00:01:06,240 --> 00:01:06,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.5°
+
+1658
+00:01:06,280 --> 00:01:06,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.7°
+
+1659
+00:01:06,320 --> 00:01:06,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.8°
+
+1660
+00:01:06,360 --> 00:01:06,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 8.9°
+
+1661
+00:01:06,400 --> 00:01:06,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.1°
+
+1662
+00:01:06,440 --> 00:01:06,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.2°
+
+1663
+00:01:06,480 --> 00:01:06,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.4°
+
+1664
+00:01:06,520 --> 00:01:06,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.5°
+
+1665
+00:01:06,560 --> 00:01:06,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.6°
+
+1666
+00:01:06,600 --> 00:01:06,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.8°
+
+1667
+00:01:06,640 --> 00:01:06,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 9.9°
+
+1668
+00:01:06,680 --> 00:01:06,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.1°
+
+1669
+00:01:06,720 --> 00:01:06,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.2°
+
+1670
+00:01:06,760 --> 00:01:06,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.4°
+
+1671
+00:01:06,800 --> 00:01:06,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.5°
+
+1672
+00:01:06,840 --> 00:01:06,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.6°
+
+1673
+00:01:06,880 --> 00:01:06,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.8°
+
+1674
+00:01:06,920 --> 00:01:06,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 10.9°
+
+1675
+00:01:06,960 --> 00:01:07,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.1°
+
+1676
+00:01:07,000 --> 00:01:07,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.2°
+
+1677
+00:01:07,040 --> 00:01:07,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.4°
+
+1678
+00:01:07,080 --> 00:01:07,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.5°
+
+1679
+00:01:07,120 --> 00:01:07,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.6°
+
+1680
+00:01:07,160 --> 00:01:07,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.8°
+
+1681
+00:01:07,200 --> 00:01:07,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 11.9°
+
+1682
+00:01:07,240 --> 00:01:07,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.1°
+
+1683
+00:01:07,280 --> 00:01:07,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.2°
+
+1684
+00:01:07,320 --> 00:01:07,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.4°
+
+1685
+00:01:07,360 --> 00:01:07,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.5°
+
+1686
+00:01:07,400 --> 00:01:07,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.6°
+
+1687
+00:01:07,440 --> 00:01:07,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.8°
+
+1688
+00:01:07,480 --> 00:01:07,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 12.9°
+
+1689
+00:01:07,520 --> 00:01:07,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.1°
+
+1690
+00:01:07,560 --> 00:01:07,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.2°
+
+1691
+00:01:07,600 --> 00:01:07,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.4°
+
+1692
+00:01:07,640 --> 00:01:07,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.5°
+
+1693
+00:01:07,680 --> 00:01:07,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.6°
+
+1694
+00:01:07,720 --> 00:01:07,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.8°
+
+1695
+00:01:07,760 --> 00:01:07,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 13.9°
+
+1696
+00:01:07,800 --> 00:01:07,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.1°
+
+1697
+00:01:07,840 --> 00:01:07,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.2°
+
+1698
+00:01:07,880 --> 00:01:07,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.4°
+
+1699
+00:01:07,920 --> 00:01:07,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.5°
+
+1700
+00:01:07,960 --> 00:01:08,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.6°
+
+1701
+00:01:08,000 --> 00:01:08,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.8°
+
+1702
+00:01:08,040 --> 00:01:08,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 14.9°
+
+1703
+00:01:08,080 --> 00:01:08,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.1°
+
+1704
+00:01:08,120 --> 00:01:08,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.2°
+
+1705
+00:01:08,160 --> 00:01:08,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.3°
+
+1706
+00:01:08,200 --> 00:01:08,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.5°
+
+1707
+00:01:08,240 --> 00:01:08,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.6°
+
+1708
+00:01:08,280 --> 00:01:08,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.7°
+
+1709
+00:01:08,320 --> 00:01:08,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 15.9°
+
+1710
+00:01:08,360 --> 00:01:08,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.0°
+
+1711
+00:01:08,400 --> 00:01:08,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.2°
+
+1712
+00:01:08,440 --> 00:01:08,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.3°
+
+1713
+00:01:08,480 --> 00:01:08,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.4°
+
+1714
+00:01:08,520 --> 00:01:08,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.6°
+
+1715
+00:01:08,560 --> 00:01:08,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.7°
+
+1716
+00:01:08,600 --> 00:01:08,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.8°
+
+1717
+00:01:08,640 --> 00:01:08,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 16.9°
+
+1718
+00:01:08,680 --> 00:01:08,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.1°
+
+1719
+00:01:08,720 --> 00:01:08,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.2°
+
+1720
+00:01:08,760 --> 00:01:08,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.3°
+
+1721
+00:01:08,800 --> 00:01:08,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.5°
+
+1722
+00:01:08,840 --> 00:01:08,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.6°
+
+1723
+00:01:08,880 --> 00:01:08,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.7°
+
+1724
+00:01:08,920 --> 00:01:08,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 17.8°
+
+1725
+00:01:08,960 --> 00:01:09,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.0°
+
+1726
+00:01:09,000 --> 00:01:09,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.1°
+
+1727
+00:01:09,040 --> 00:01:09,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.2°
+
+1728
+00:01:09,080 --> 00:01:09,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.3°
+
+1729
+00:01:09,120 --> 00:01:09,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.5°
+
+1730
+00:01:09,160 --> 00:01:09,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.6°
+
+1731
+00:01:09,200 --> 00:01:09,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.7°
+
+1732
+00:01:09,240 --> 00:01:09,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.8°
+
+1733
+00:01:09,280 --> 00:01:09,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 18.9°
+
+1734
+00:01:09,320 --> 00:01:09,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.1°
+
+1735
+00:01:09,360 --> 00:01:09,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.2°
+
+1736
+00:01:09,400 --> 00:01:09,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.3°
+
+1737
+00:01:09,440 --> 00:01:09,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.4°
+
+1738
+00:01:09,480 --> 00:01:09,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.5°
+
+1739
+00:01:09,520 --> 00:01:09,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.6°
+
+1740
+00:01:09,560 --> 00:01:09,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.7°
+
+1741
+00:01:09,600 --> 00:01:09,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.8°
+
+1742
+00:01:09,640 --> 00:01:09,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.0°
+
+1743
+00:01:09,680 --> 00:01:09,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.1°
+
+1744
+00:01:09,720 --> 00:01:09,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.2°
+
+1745
+00:01:09,760 --> 00:01:09,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.3°
+
+1746
+00:01:09,800 --> 00:01:09,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.4°
+
+1747
+00:01:09,840 --> 00:01:09,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.5°
+
+1748
+00:01:09,880 --> 00:01:09,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.6°
+
+1749
+00:01:09,920 --> 00:01:09,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.7°
+
+1750
+00:01:09,960 --> 00:01:10,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.8°
+
+1751
+00:01:10,000 --> 00:01:10,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.9°
+
+1752
+00:01:10,040 --> 00:01:10,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.0°
+
+1753
+00:01:10,080 --> 00:01:10,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.1°
+
+1754
+00:01:10,120 --> 00:01:10,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.2°
+
+1755
+00:01:10,160 --> 00:01:10,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.2°
+
+1756
+00:01:10,200 --> 00:01:10,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.3°
+
+1757
+00:01:10,240 --> 00:01:10,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.4°
+
+1758
+00:01:10,280 --> 00:01:10,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.5°
+
+1759
+00:01:10,320 --> 00:01:10,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.6°
+
+1760
+00:01:10,360 --> 00:01:10,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.7°
+
+1761
+00:01:10,400 --> 00:01:10,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.8°
+
+1762
+00:01:10,440 --> 00:01:10,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.9°
+
+1763
+00:01:10,480 --> 00:01:10,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.9°
+
+1764
+00:01:10,520 --> 00:01:10,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.0°
+
+1765
+00:01:10,560 --> 00:01:10,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.1°
+
+1766
+00:01:10,600 --> 00:01:10,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.2°
+
+1767
+00:01:10,640 --> 00:01:10,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.2°
+
+1768
+00:01:10,680 --> 00:01:10,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.3°
+
+1769
+00:01:10,720 --> 00:01:10,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.4°
+
+1770
+00:01:10,760 --> 00:01:10,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.5°
+
+1771
+00:01:10,800 --> 00:01:10,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.5°
+
+1772
+00:01:10,840 --> 00:01:10,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.6°
+
+1773
+00:01:10,880 --> 00:01:10,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.7°
+
+1774
+00:01:10,920 --> 00:01:10,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.7°
+
+1775
+00:01:10,960 --> 00:01:11,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.8°
+
+1776
+00:01:11,000 --> 00:01:11,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.9°
+
+1777
+00:01:11,040 --> 00:01:11,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.9°
+
+1778
+00:01:11,080 --> 00:01:11,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.0°
+
+1779
+00:01:11,120 --> 00:01:11,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.0°
+
+1780
+00:01:11,160 --> 00:01:11,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.1°
+
+1781
+00:01:11,200 --> 00:01:11,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.1°
+
+1782
+00:01:11,240 --> 00:01:11,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.2°
+
+1783
+00:01:11,280 --> 00:01:11,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.2°
+
+1784
+00:01:11,320 --> 00:01:11,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.3°
+
+1785
+00:01:11,360 --> 00:01:11,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.3°
+
+1786
+00:01:11,400 --> 00:01:11,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.4°
+
+1787
+00:01:11,440 --> 00:01:11,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.4°
+
+1788
+00:01:11,480 --> 00:01:11,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.5°
+
+1789
+00:01:11,520 --> 00:01:11,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.5°
+
+1790
+00:01:11,560 --> 00:01:11,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+1791
+00:01:11,600 --> 00:01:11,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+1792
+00:01:11,640 --> 00:01:11,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+1793
+00:01:11,680 --> 00:01:11,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+1794
+00:01:11,720 --> 00:01:11,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+1795
+00:01:11,760 --> 00:01:11,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+1796
+00:01:11,800 --> 00:01:11,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+1797
+00:01:11,840 --> 00:01:11,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+1798
+00:01:11,880 --> 00:01:11,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+1799
+00:01:11,920 --> 00:01:11,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+1800
+00:01:11,960 --> 00:01:12,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1801
+00:01:12,000 --> 00:01:12,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1802
+00:01:12,040 --> 00:01:12,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1803
+00:01:12,080 --> 00:01:12,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1804
+00:01:12,120 --> 00:01:12,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1805
+00:01:12,160 --> 00:01:12,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1806
+00:01:12,200 --> 00:01:12,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1807
+00:01:12,240 --> 00:01:12,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1808
+00:01:12,280 --> 00:01:12,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1809
+00:01:12,320 --> 00:01:12,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1810
+00:01:12,360 --> 00:01:12,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1811
+00:01:12,400 --> 00:01:12,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1812
+00:01:12,440 --> 00:01:12,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1813
+00:01:12,480 --> 00:01:12,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1814
+00:01:12,520 --> 00:01:12,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1815
+00:01:12,560 --> 00:01:12,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1816
+00:01:12,600 --> 00:01:12,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1817
+00:01:12,640 --> 00:01:12,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1818
+00:01:12,680 --> 00:01:12,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1819
+00:01:12,720 --> 00:01:12,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1820
+00:01:12,760 --> 00:01:12,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 24.0°
+
+1821
+00:01:12,800 --> 00:01:12,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1822
+00:01:12,840 --> 00:01:12,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1823
+00:01:12,880 --> 00:01:12,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1824
+00:01:12,920 --> 00:01:12,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1825
+00:01:12,960 --> 00:01:13,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.9°
+
+1826
+00:01:13,000 --> 00:01:13,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+1827
+00:01:13,040 --> 00:01:13,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+1828
+00:01:13,080 --> 00:01:13,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+1829
+00:01:13,120 --> 00:01:13,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.8°
+
+1830
+00:01:13,160 --> 00:01:13,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+1831
+00:01:13,200 --> 00:01:13,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+1832
+00:01:13,240 --> 00:01:13,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.7°
+
+1833
+00:01:13,280 --> 00:01:13,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+1834
+00:01:13,320 --> 00:01:13,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+1835
+00:01:13,360 --> 00:01:13,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.6°
+
+1836
+00:01:13,400 --> 00:01:13,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.5°
+
+1837
+00:01:13,440 --> 00:01:13,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.5°
+
+1838
+00:01:13,480 --> 00:01:13,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.5°
+
+1839
+00:01:13,520 --> 00:01:13,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.4°
+
+1840
+00:01:13,560 --> 00:01:13,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.4°
+
+1841
+00:01:13,600 --> 00:01:13,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.3°
+
+1842
+00:01:13,640 --> 00:01:13,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.3°
+
+1843
+00:01:13,680 --> 00:01:13,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.2°
+
+1844
+00:01:13,720 --> 00:01:13,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.2°
+
+1845
+00:01:13,760 --> 00:01:13,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.1°
+
+1846
+00:01:13,800 --> 00:01:13,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.1°
+
+1847
+00:01:13,840 --> 00:01:13,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 23.0°
+
+1848
+00:01:13,880 --> 00:01:13,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.9°
+
+1849
+00:01:13,920 --> 00:01:13,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.9°
+
+1850
+00:01:13,960 --> 00:01:14,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.8°
+
+1851
+00:01:14,000 --> 00:01:14,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.8°
+
+1852
+00:01:14,040 --> 00:01:14,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.7°
+
+1853
+00:01:14,080 --> 00:01:14,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.6°
+
+1854
+00:01:14,120 --> 00:01:14,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.6°
+
+1855
+00:01:14,160 --> 00:01:14,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.5°
+
+1856
+00:01:14,200 --> 00:01:14,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.4°
+
+1857
+00:01:14,240 --> 00:01:14,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.4°
+
+1858
+00:01:14,280 --> 00:01:14,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.3°
+
+1859
+00:01:14,320 --> 00:01:14,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.2°
+
+1860
+00:01:14,360 --> 00:01:14,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.1°
+
+1861
+00:01:14,400 --> 00:01:14,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.1°
+
+1862
+00:01:14,440 --> 00:01:14,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 22.0°
+
+1863
+00:01:14,480 --> 00:01:14,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.9°
+
+1864
+00:01:14,520 --> 00:01:14,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.8°
+
+1865
+00:01:14,560 --> 00:01:14,600
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.7°
+
+1866
+00:01:14,600 --> 00:01:14,640
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.6°
+
+1867
+00:01:14,640 --> 00:01:14,680
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.6°
+
+1868
+00:01:14,680 --> 00:01:14,720
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.5°
+
+1869
+00:01:14,720 --> 00:01:14,760
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.4°
+
+1870
+00:01:14,760 --> 00:01:14,800
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.3°
+
+1871
+00:01:14,800 --> 00:01:14,840
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.2°
+
+1872
+00:01:14,840 --> 00:01:14,880
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.1°
+
+1873
+00:01:14,880 --> 00:01:14,920
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 21.0°
+
+1874
+00:01:14,920 --> 00:01:14,960
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.9°
+
+1875
+00:01:14,960 --> 00:01:15,000
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.8°
+
+1876
+00:01:15,000 --> 00:01:15,040
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.7°
+
+1877
+00:01:15,040 --> 00:01:15,080
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.6°
+
+1878
+00:01:15,080 --> 00:01:15,120
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.5°
+
+1879
+00:01:15,120 --> 00:01:15,160
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.4°
+
+1880
+00:01:15,160 --> 00:01:15,200
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.3°
+
+1881
+00:01:15,200 --> 00:01:15,240
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.2°
+
+1882
+00:01:15,240 --> 00:01:15,280
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.1°
+
+1883
+00:01:15,280 --> 00:01:15,320
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 20.0°
+
+1884
+00:01:15,320 --> 00:01:15,360
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.9°
+
+1885
+00:01:15,360 --> 00:01:15,400
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.8°
+
+1886
+00:01:15,400 --> 00:01:15,440
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.7°
+
+1887
+00:01:15,440 --> 00:01:15,480
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.6°
+
+1888
+00:01:15,480 --> 00:01:15,520
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.5°
+
+1889
+00:01:15,520 --> 00:01:15,560
+SYNTHETIC   |   Left ankle 0.0°   |   Right ankle 19.3°
+
+1890
+00:01:15,560 --> 00:01:15,600
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 19.2°
+
+1891
+00:01:15,600 --> 00:01:15,640
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 19.1°
+
+1892
+00:01:15,640 --> 00:01:15,680
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 19.0°
+
+1893
+00:01:15,680 --> 00:01:15,720
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 18.9°
+
+1894
+00:01:15,720 --> 00:01:15,760
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 18.8°
+
+1895
+00:01:15,760 --> 00:01:15,800
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 18.6°
+
+1896
+00:01:15,800 --> 00:01:15,840
+SYNTHETIC   |   Left ankle 0.1°   |   Right ankle 18.5°
+
+1897
+00:01:15,840 --> 00:01:15,880
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 18.4°
+
+1898
+00:01:15,880 --> 00:01:15,920
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 18.3°
+
+1899
+00:01:15,920 --> 00:01:15,960
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 18.2°
+
+1900
+00:01:15,960 --> 00:01:16,000
+SYNTHETIC   |   Left ankle 0.2°   |   Right ankle 18.0°
+
+1901
+00:01:16,000 --> 00:01:16,040
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 17.9°
+
+1902
+00:01:16,040 --> 00:01:16,080
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 17.8°
+
+1903
+00:01:16,080 --> 00:01:16,120
+SYNTHETIC   |   Left ankle 0.3°   |   Right ankle 17.7°
+
+1904
+00:01:16,120 --> 00:01:16,160
+SYNTHETIC   |   Left ankle 0.4°   |   Right ankle 17.5°
+
+1905
+00:01:16,160 --> 00:01:16,200
+SYNTHETIC   |   Left ankle 0.4°   |   Right ankle 17.4°
+
+1906
+00:01:16,200 --> 00:01:16,240
+SYNTHETIC   |   Left ankle 0.5°   |   Right ankle 17.3°
+
+1907
+00:01:16,240 --> 00:01:16,280
+SYNTHETIC   |   Left ankle 0.5°   |   Right ankle 17.1°
+
+1908
+00:01:16,280 --> 00:01:16,320
+SYNTHETIC   |   Left ankle 0.6°   |   Right ankle 17.0°
+
+1909
+00:01:16,320 --> 00:01:16,360
+SYNTHETIC   |   Left ankle 0.7°   |   Right ankle 16.9°
+
+1910
+00:01:16,360 --> 00:01:16,400
+SYNTHETIC   |   Left ankle 0.7°   |   Right ankle 16.7°
+
+1911
+00:01:16,400 --> 00:01:16,440
+SYNTHETIC   |   Left ankle 0.8°   |   Right ankle 16.6°
+
+1912
+00:01:16,440 --> 00:01:16,480
+SYNTHETIC   |   Left ankle 0.9°   |   Right ankle 16.5°
+
+1913
+00:01:16,480 --> 00:01:16,520
+SYNTHETIC   |   Left ankle 1.0°   |   Right ankle 16.3°
+
+1914
+00:01:16,520 --> 00:01:16,560
+SYNTHETIC   |   Left ankle 1.0°   |   Right ankle 16.2°
+
+1915
+00:01:16,560 --> 00:01:16,600
+SYNTHETIC   |   Left ankle 1.1°   |   Right ankle 16.1°
+
+1916
+00:01:16,600 --> 00:01:16,640
+SYNTHETIC   |   Left ankle 1.2°   |   Right ankle 15.9°
+
+1917
+00:01:16,640 --> 00:01:16,680
+SYNTHETIC   |   Left ankle 1.3°   |   Right ankle 15.8°
+
+1918
+00:01:16,680 --> 00:01:16,720
+SYNTHETIC   |   Left ankle 1.5°   |   Right ankle 15.7°
+
+1919
+00:01:16,720 --> 00:01:16,760
+SYNTHETIC   |   Left ankle 1.6°   |   Right ankle 15.5°
+
+1920
+00:01:16,760 --> 00:01:16,800
+SYNTHETIC   |   Left ankle 1.7°   |   Right ankle 15.4°
+
+1921
+00:01:16,800 --> 00:01:16,840
+SYNTHETIC   |   Left ankle 1.8°   |   Right ankle 15.3°
+
+1922
+00:01:16,840 --> 00:01:16,880
+SYNTHETIC   |   Left ankle 2.0°   |   Right ankle 15.1°
+
+1923
+00:01:16,880 --> 00:01:16,920
+SYNTHETIC   |   Left ankle 2.1°   |   Right ankle 15.0°
+
+1924
+00:01:16,920 --> 00:01:16,960
+SYNTHETIC   |   Left ankle 2.3°   |   Right ankle 14.8°
+
+1925
+00:01:16,960 --> 00:01:17,000
+SYNTHETIC   |   Left ankle 2.4°   |   Right ankle 14.7°
+
+1926
+00:01:17,000 --> 00:01:17,040
+SYNTHETIC   |   Left ankle 2.6°   |   Right ankle 14.6°
+
+1927
+00:01:17,040 --> 00:01:17,080
+SYNTHETIC   |   Left ankle 2.7°   |   Right ankle 14.4°
+
+1928
+00:01:17,080 --> 00:01:17,120
+SYNTHETIC   |   Left ankle 2.9°   |   Right ankle 14.3°
+
+1929
+00:01:17,120 --> 00:01:17,160
+SYNTHETIC   |   Left ankle 3.1°   |   Right ankle 14.1°
+
+1930
+00:01:17,160 --> 00:01:17,200
+SYNTHETIC   |   Left ankle 3.3°   |   Right ankle 14.0°
+
+1931
+00:01:17,200 --> 00:01:17,240
+SYNTHETIC   |   Left ankle 3.5°   |   Right ankle 13.9°
+
+1932
+00:01:17,240 --> 00:01:17,280
+SYNTHETIC   |   Left ankle 3.7°   |   Right ankle 13.7°
+
+1933
+00:01:17,280 --> 00:01:17,320
+SYNTHETIC   |   Left ankle 3.9°   |   Right ankle 13.6°
+
+1934
+00:01:17,320 --> 00:01:17,360
+SYNTHETIC   |   Left ankle 4.1°   |   Right ankle 13.4°
+
+1935
+00:01:17,360 --> 00:01:17,400
+SYNTHETIC   |   Left ankle 4.4°   |   Right ankle 13.3°
+
+1936
+00:01:17,400 --> 00:01:17,440
+SYNTHETIC   |   Left ankle 4.6°   |   Right ankle 13.1°
+
+1937
+00:01:17,440 --> 00:01:17,480
+SYNTHETIC   |   Left ankle 4.8°   |   Right ankle 13.0°
+
+1938
+00:01:17,480 --> 00:01:17,520
+SYNTHETIC   |   Left ankle 5.1°   |   Right ankle 12.9°
+
+1939
+00:01:17,520 --> 00:01:17,560
+SYNTHETIC   |   Left ankle 5.3°   |   Right ankle 12.7°
+
+1940
+00:01:17,560 --> 00:01:17,600
+SYNTHETIC   |   Left ankle 5.6°   |   Right ankle 12.6°
+
+1941
+00:01:17,600 --> 00:01:17,640
+SYNTHETIC   |   Left ankle 5.8°   |   Right ankle 12.4°
+
+1942
+00:01:17,640 --> 00:01:17,680
+SYNTHETIC   |   Left ankle 6.1°   |   Right ankle 12.3°
+
+1943
+00:01:17,680 --> 00:01:17,720
+SYNTHETIC   |   Left ankle 6.4°   |   Right ankle 12.1°
+
+1944
+00:01:17,720 --> 00:01:17,760
+SYNTHETIC   |   Left ankle 6.6°   |   Right ankle 12.0°
+
+1945
+00:01:17,760 --> 00:01:17,800
+SYNTHETIC   |   Left ankle 6.9°   |   Right ankle 11.9°
+
+1946
+00:01:17,800 --> 00:01:17,840
+SYNTHETIC   |   Left ankle 7.2°   |   Right ankle 11.7°
+
+1947
+00:01:17,840 --> 00:01:17,880
+SYNTHETIC   |   Left ankle 7.5°   |   Right ankle 11.6°
+
+1948
+00:01:17,880 --> 00:01:17,920
+SYNTHETIC   |   Left ankle 7.8°   |   Right ankle 11.4°
+
+1949
+00:01:17,920 --> 00:01:17,960
+SYNTHETIC   |   Left ankle 8.1°   |   Right ankle 11.3°
+
+1950
+00:01:17,960 --> 00:01:18,000
+SYNTHETIC   |   Left ankle 8.4°   |   Right ankle 11.1°
+
+1951
+00:01:18,000 --> 00:01:18,040
+SYNTHETIC   |   Left ankle 8.7°   |   Right ankle 11.0°
+
+1952
+00:01:18,040 --> 00:01:18,080
+SYNTHETIC   |   Left ankle 9.0°   |   Right ankle 10.9°
+
+1953
+00:01:18,080 --> 00:01:18,120
+SYNTHETIC   |   Left ankle 9.3°   |   Right ankle 10.7°
+
+1954
+00:01:18,120 --> 00:01:18,160
+SYNTHETIC   |   Left ankle 9.6°   |   Right ankle 10.6°
+
+1955
+00:01:18,160 --> 00:01:18,200
+SYNTHETIC   |   Left ankle 9.9°   |   Right ankle 10.4°
+
+1956
+00:01:18,200 --> 00:01:18,240
+SYNTHETIC   |   Left ankle 10.2°   |   Right ankle 10.3°
+
+1957
+00:01:18,240 --> 00:01:18,280
+SYNTHETIC   |   Left ankle 10.5°   |   Right ankle 10.1°
+
+1958
+00:01:18,280 --> 00:01:18,320
+SYNTHETIC   |   Left ankle 10.8°   |   Right ankle 10.0°
+
+1959
+00:01:18,320 --> 00:01:18,360
+SYNTHETIC   |   Left ankle 11.1°   |   Right ankle 9.9°
+
+1960
+00:01:18,360 --> 00:01:18,400
+SYNTHETIC   |   Left ankle 11.4°   |   Right ankle 9.7°
+
+1961
+00:01:18,400 --> 00:01:18,440
+SYNTHETIC   |   Left ankle 11.8°   |   Right ankle 9.6°
+
+1962
+00:01:18,440 --> 00:01:18,480
+SYNTHETIC   |   Left ankle 12.1°   |   Right ankle 9.4°
+
+1963
+00:01:18,480 --> 00:01:18,520
+SYNTHETIC   |   Left ankle 12.4°   |   Right ankle 9.3°
+
+1964
+00:01:18,520 --> 00:01:18,560
+SYNTHETIC   |   Left ankle 12.7°   |   Right ankle 9.2°
+
+1965
+00:01:18,560 --> 00:01:18,600
+SYNTHETIC   |   Left ankle 12.9°   |   Right ankle 9.0°
+
+1966
+00:01:18,600 --> 00:01:18,640
+SYNTHETIC   |   Left ankle 13.2°   |   Right ankle 8.9°
+
+1967
+00:01:18,640 --> 00:01:18,680
+SYNTHETIC   |   Left ankle 13.5°   |   Right ankle 8.7°
+
+1968
+00:01:18,680 --> 00:01:18,720
+SYNTHETIC   |   Left ankle 13.8°   |   Right ankle 8.6°
+
+1969
+00:01:18,720 --> 00:01:18,760
+SYNTHETIC   |   Left ankle 14.1°   |   Right ankle 8.5°
+
+1970
+00:01:18,760 --> 00:01:18,800
+SYNTHETIC   |   Left ankle 14.3°   |   Right ankle 8.3°
+
+1971
+00:01:18,800 --> 00:01:18,840
+SYNTHETIC   |   Left ankle 14.6°   |   Right ankle 8.2°
+
+1972
+00:01:18,840 --> 00:01:18,880
+SYNTHETIC   |   Left ankle 14.9°   |   Right ankle 8.1°
+
+1973
+00:01:18,880 --> 00:01:18,920
+SYNTHETIC   |   Left ankle 15.1°   |   Right ankle 7.9°
+
+1974
+00:01:18,920 --> 00:01:18,960
+SYNTHETIC   |   Left ankle 15.3°   |   Right ankle 7.8°
+
+1975
+00:01:18,960 --> 00:01:19,000
+SYNTHETIC   |   Left ankle 15.6°   |   Right ankle 7.6°
+
+1976
+00:01:19,000 --> 00:01:19,040
+SYNTHETIC   |   Left ankle 15.8°   |   Right ankle 7.5°
+
+1977
+00:01:19,040 --> 00:01:19,080
+SYNTHETIC   |   Left ankle 16.0°   |   Right ankle 7.4°
+
+1978
+00:01:19,080 --> 00:01:19,120
+SYNTHETIC   |   Left ankle 16.2°   |   Right ankle 7.2°
+
+1979
+00:01:19,120 --> 00:01:19,160
+SYNTHETIC   |   Left ankle 16.4°   |   Right ankle 7.1°
+
+1980
+00:01:19,160 --> 00:01:19,200
+SYNTHETIC   |   Left ankle 16.6°   |   Right ankle 7.0°
+
+1981
+00:01:19,200 --> 00:01:19,240
+SYNTHETIC   |   Left ankle 16.8°   |   Right ankle 6.9°
+
+1982
+00:01:19,240 --> 00:01:19,280
+SYNTHETIC   |   Left ankle 16.9°   |   Right ankle 6.7°
+
+1983
+00:01:19,280 --> 00:01:19,320
+SYNTHETIC   |   Left ankle 17.1°   |   Right ankle 6.6°
+
+1984
+00:01:19,320 --> 00:01:19,360
+SYNTHETIC   |   Left ankle 17.2°   |   Right ankle 6.5°
+
+1985
+00:01:19,360 --> 00:01:19,400
+SYNTHETIC   |   Left ankle 17.4°   |   Right ankle 6.3°
+
+1986
+00:01:19,400 --> 00:01:19,440
+SYNTHETIC   |   Left ankle 17.5°   |   Right ankle 6.2°
+
+1987
+00:01:19,440 --> 00:01:19,480
+SYNTHETIC   |   Left ankle 17.6°   |   Right ankle 6.1°
+
+1988
+00:01:19,480 --> 00:01:19,520
+SYNTHETIC   |   Left ankle 17.7°   |   Right ankle 6.0°
+
+1989
+00:01:19,520 --> 00:01:19,560
+SYNTHETIC   |   Left ankle 17.8°   |   Right ankle 5.8°
+
+1990
+00:01:19,560 --> 00:01:19,600
+SYNTHETIC   |   Left ankle 17.8°   |   Right ankle 5.7°
+
+1991
+00:01:19,600 --> 00:01:19,640
+SYNTHETIC   |   Left ankle 17.9°   |   Right ankle 5.6°
+
+1992
+00:01:19,640 --> 00:01:19,680
+SYNTHETIC   |   Left ankle 17.9°   |   Right ankle 5.5°
+
+1993
+00:01:19,680 --> 00:01:19,720
+SYNTHETIC   |   Left ankle 18.0°   |   Right ankle 5.4°
+
+1994
+00:01:19,720 --> 00:01:19,760
+SYNTHETIC   |   Left ankle 18.0°   |   Right ankle 5.2°
+
+1995
+00:01:19,760 --> 00:01:19,800
+SYNTHETIC   |   Left ankle 18.0°   |   Right ankle 5.1°
+
+1996
+00:01:19,800 --> 00:01:19,840
+SYNTHETIC   |   Left ankle 18.0°   |   Right ankle 5.0°
+
+1997
+00:01:19,840 --> 00:01:19,880
+SYNTHETIC   |   Left ankle 18.0°   |   Right ankle 4.9°
+
+1998
+00:01:19,880 --> 00:01:19,920
+SYNTHETIC   |   Left ankle 17.9°   |   Right ankle 4.8°
+
+1999
+00:01:19,920 --> 00:01:19,960
+SYNTHETIC   |   Left ankle 17.9°   |   Right ankle 4.7°
+
+2000
+00:01:19,960 --> 00:01:20,000
+SYNTHETIC   |   Left ankle 17.8°   |   Right ankle 4.5°
+
+2001
+00:01:20,000 --> 00:01:20,040
+SYNTHETIC   |   Left ankle 17.8°   |   Right ankle 4.4°
+
+2002
+00:01:20,040 --> 00:01:20,080
+SYNTHETIC   |   Left ankle 17.7°   |   Right ankle 4.3°
+
+2003
+00:01:20,080 --> 00:01:20,120
+SYNTHETIC   |   Left ankle 17.6°   |   Right ankle 4.2°
+
+2004
+00:01:20,120 --> 00:01:20,160
+SYNTHETIC   |   Left ankle 17.5°   |   Right ankle 4.1°
+
+2005
+00:01:20,160 --> 00:01:20,200
+SYNTHETIC   |   Left ankle 17.4°   |   Right ankle 4.0°
+
+2006
+00:01:20,200 --> 00:01:20,240
+SYNTHETIC   |   Left ankle 17.2°   |   Right ankle 3.9°
+
+2007
+00:01:20,240 --> 00:01:20,280
+SYNTHETIC   |   Left ankle 17.1°   |   Right ankle 3.8°
+
+2008
+00:01:20,280 --> 00:01:20,320
+SYNTHETIC   |   Left ankle 16.9°   |   Right ankle 3.7°
+
+2009
+00:01:20,320 --> 00:01:20,360
+SYNTHETIC   |   Left ankle 16.8°   |   Right ankle 3.6°
+
+2010
+00:01:20,360 --> 00:01:20,400
+SYNTHETIC   |   Left ankle 16.6°   |   Right ankle 3.5°
+
+2011
+00:01:20,400 --> 00:01:20,440
+SYNTHETIC   |   Left ankle 16.4°   |   Right ankle 3.4°
+
+2012
+00:01:20,440 --> 00:01:20,480
+SYNTHETIC   |   Left ankle 16.2°   |   Right ankle 3.3°
+
+2013
+00:01:20,480 --> 00:01:20,520
+SYNTHETIC   |   Left ankle 16.0°   |   Right ankle 3.2°
+
+2014
+00:01:20,520 --> 00:01:20,560
+SYNTHETIC   |   Left ankle 15.8°   |   Right ankle 3.1°
+
+2015
+00:01:20,560 --> 00:01:20,600
+SYNTHETIC   |   Left ankle 15.6°   |   Right ankle 3.0°
+
+2016
+00:01:20,600 --> 00:01:20,640
+SYNTHETIC   |   Left ankle 15.3°   |   Right ankle 2.9°
+
+2017
+00:01:20,640 --> 00:01:20,680
+SYNTHETIC   |   Left ankle 15.1°   |   Right ankle 2.8°
+
+2018
+00:01:20,680 --> 00:01:20,720
+SYNTHETIC   |   Left ankle 14.9°   |   Right ankle 2.7°
+
+2019
+00:01:20,720 --> 00:01:20,760
+SYNTHETIC   |   Left ankle 14.6°   |   Right ankle 2.6°
+
+2020
+00:01:20,760 --> 00:01:20,800
+SYNTHETIC   |   Left ankle 14.3°   |   Right ankle 2.5°
+
+2021
+00:01:20,800 --> 00:01:20,840
+SYNTHETIC   |   Left ankle 14.1°   |   Right ankle 2.4°
+
+2022
+00:01:20,840 --> 00:01:20,880
+SYNTHETIC   |   Left ankle 13.8°   |   Right ankle 2.4°
+
+2023
+00:01:20,880 --> 00:01:20,920
+SYNTHETIC   |   Left ankle 13.5°   |   Right ankle 2.3°
+
+2024
+00:01:20,920 --> 00:01:20,960
+SYNTHETIC   |   Left ankle 13.2°   |   Right ankle 2.2°
+
+2025
+00:01:20,960 --> 00:01:21,000
+SYNTHETIC   |   Left ankle 13.0°   |   Right ankle 2.1°
+
+2026
+00:01:21,000 --> 00:01:21,040
+SYNTHETIC   |   Left ankle 12.7°   |   Right ankle 2.0°
+
+2027
+00:01:21,040 --> 00:01:21,080
+SYNTHETIC   |   Left ankle 12.4°   |   Right ankle 1.9°
+
+2028
+00:01:21,080 --> 00:01:21,120
+SYNTHETIC   |   Left ankle 12.1°   |   Right ankle 1.9°
+
+2029
+00:01:21,120 --> 00:01:21,160
+SYNTHETIC   |   Left ankle 11.8°   |   Right ankle 1.8°
+
+2030
+00:01:21,160 --> 00:01:21,200
+SYNTHETIC   |   Left ankle 11.5°   |   Right ankle 1.7°
+
+2031
+00:01:21,200 --> 00:01:21,240
+SYNTHETIC   |   Left ankle 11.2°   |   Right ankle 1.6°
+
+2032
+00:01:21,240 --> 00:01:21,280
+SYNTHETIC   |   Left ankle 10.8°   |   Right ankle 1.6°
+
+2033
+00:01:21,280 --> 00:01:21,320
+SYNTHETIC   |   Left ankle 10.5°   |   Right ankle 1.5°
+
+2034
+00:01:21,320 --> 00:01:21,360
+SYNTHETIC   |   Left ankle 10.2°   |   Right ankle 1.4°
+
+2035
+00:01:21,360 --> 00:01:21,400
+SYNTHETIC   |   Left ankle 9.9°   |   Right ankle 1.4°
+
+2036
+00:01:21,400 --> 00:01:21,440
+SYNTHETIC   |   Left ankle 9.6°   |   Right ankle 1.3°
+
+2037
+00:01:21,440 --> 00:01:21,480
+SYNTHETIC   |   Left ankle 9.3°   |   Right ankle 1.2°
+
+2038
+00:01:21,480 --> 00:01:21,520
+SYNTHETIC   |   Left ankle 9.0°   |   Right ankle 1.2°
+
+2039
+00:01:21,520 --> 00:01:21,560
+SYNTHETIC   |   Left ankle 8.7°   |   Right ankle 1.1°
+
+2040
+00:01:21,560 --> 00:01:21,600
+SYNTHETIC   |   Left ankle 8.4°   |   Right ankle 1.1°
+
+2041
+00:01:21,600 --> 00:01:21,640
+SYNTHETIC   |   Left ankle 8.1°   |   Right ankle 1.0°
+
+2042
+00:01:21,640 --> 00:01:21,680
+SYNTHETIC   |   Left ankle 7.8°   |   Right ankle 0.9°
+
+2043
+00:01:21,680 --> 00:01:21,720
+SYNTHETIC   |   Left ankle 7.5°   |   Right ankle 0.9°
+
+2044
+00:01:21,720 --> 00:01:21,760
+SYNTHETIC   |   Left ankle 7.2°   |   Right ankle 0.8°
+
+2045
+00:01:21,760 --> 00:01:21,800
+SYNTHETIC   |   Left ankle 6.9°   |   Right ankle 0.8°
+
+2046
+00:01:21,800 --> 00:01:21,840
+SYNTHETIC   |   Left ankle 6.7°   |   Right ankle 0.7°
+
+2047
+00:01:21,840 --> 00:01:21,880
+SYNTHETIC   |   Left ankle 6.4°   |   Right ankle 0.7°
+
+2048
+00:01:21,880 --> 00:01:21,920
+SYNTHETIC   |   Left ankle 6.1°   |   Right ankle 0.6°
+
+2049
+00:01:21,920 --> 00:01:21,960
+SYNTHETIC   |   Left ankle 5.8°   |   Right ankle 0.6°
+
+2050
+00:01:21,960 --> 00:01:22,000
+SYNTHETIC   |   Left ankle 5.6°   |   Right ankle 0.5°

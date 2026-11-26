@@ -1,0 +1,358 @@
+{
+  "synthetic": true,
+  "rows": 14400,
+  "video": null,
+  "gps": {
+    "count": 3520,
+    "rate": 25.0,
+    "laps": [
+      {
+        "number": 1,
+        "start": 28.037729039315273,
+        "duration": 37.99692224929779
+      },
+      {
+        "number": 2,
+        "start": 66.03465128861306,
+        "duration": 37.996922249297796
+      }
+    ],
+    "clock": {
+      "x0": 72.96579960000001,
+      "y0": 71.60000000000002,
+      "slope": 0.9999190065604683,
+      "low": 2.5600972,
+      "high": 143.37150200000002,
+      "residual_ms": 3.1308289294429414e-11,
+      "withheld": 1
+    },
+    "utc_first": "2026-01-01T00:00:00+00:00"
+  },
+  "legs": {
+    "L": {
+      "device": "synthetic-L",
+      "side": "L",
+      "boot": "ba111221-0f05-5aa1-bfac-a9a6c60abe76",
+      "calibration": {
+        "shin": {
+          "frame": [
+            [
+              0.8195170055004283,
+              0.567538986437319,
+              0.07931819822280031
+            ],
+            [
+              -0.5676075352115736,
+              0.7848743807771156,
+              0.24858377334569062
+            ],
+            [
+              0.07882616105490059,
+              -0.24874023653892427,
+              0.965357307456626
+            ]
+          ],
+          "bias": [
+            -0.0047837203536968105,
+            0.008206262350155247,
+            -0.0022484891314465973
+          ],
+          "pivot_m": [
+            -0.11594790734744911,
+            0.0,
+            0.19704544319033554
+          ],
+          "pivot_fit_accepted": true,
+          "still_noise_dps": 0.14612765246445925
+        },
+        "shoe": {
+          "frame": [
+            [
+              0.7049193239431981,
+              -0.6596537136078563,
+              0.2606640075937398
+            ],
+            [
+              0.708258353749013,
+              0.6348501636658549,
+              -0.30876426936770984
+            ],
+            [
+              0.03819490903514287,
+              0.4022713609204637,
+              0.9147234014208859
+            ]
+          ],
+          "bias": [
+            0.00648811413632845,
+            -0.011361107999022815,
+            0.0032322740157111037
+          ],
+          "pivot_m": [
+            0.13788071186012055,
+            0.0,
+            -0.009931233852697438
+          ],
+          "pivot_fit_accepted": true,
+          "still_noise_dps": 0.19074005073163616
+        }
+      },
+      "clock": {
+        "x0": 72.3061385,
+        "y0": 71.51000000000002,
+        "slope": 1.0000540090801513,
+        "low": 0.919994,
+        "high": 143.692283,
+        "residual_ms": 0.00013251872132968856,
+        "withheld": 1,
+        "frame_period_ms": null,
+        "estimated_uncertainty_ms": null
+      },
+      "sensor_clocks": {
+        "('shoe', 0)": {
+          "anchors": 288,
+          "us_per_tick": 39.05761701770423,
+          "max_residual_us": 55.28205481171608
+        },
+        "('shin', 0)": {
+          "anchors": 288,
+          "us_per_tick": 39.06378898133376,
+          "max_residual_us": 55.83468933403492
+        }
+      },
+      "quality_counts": {
+        "valid": 14157,
+        "missing_or_uncertain": 185,
+        "reacquiring": 58,
+        "off_axis": 0
+      },
+      "marker_observations": {
+        "start": {
+          "pts": 0.12,
+          "role": "fit"
+        },
+        "check": {
+          "pts": 73.54,
+          "role": "check"
+        },
+        "end": {
+          "pts": 142.9,
+          "role": "fit"
+        }
+      },
+      "integrity": {
+        "issues": [],
+        "closeReason": "user",
+        "physicalUnmount": "unknown",
+        "streams": [
+          {
+            "file": "imu_shin_e000000.bin",
+            "stream": "shin",
+            "epoch": 0,
+            "count": 14399,
+            "error": null,
+            "first_us": 804307,
+            "last_us": 144789150,
+            "known_lost": 0,
+            "clipped": 0,
+            "uncertain": 0,
+            "observed_hz": 99.99663645151873,
+            "known_fresh_fraction": 1
+          },
+          {
+            "file": "imu_shoe_e000000.bin",
+            "stream": "shoe",
+            "epoch": 0,
+            "count": 14339,
+            "error": null,
+            "first_us": 801202,
+            "last_us": 144783308,
+            "known_lost": 62,
+            "clipped": 0,
+            "uncertain": 0,
+            "observed_hz": 99.58181886851968,
+            "known_fresh_fraction": 0.9956947434205958
+          }
+        ]
+      },
+      "calibration_id": "92d62d4c94f3353ade35b450c8d2e0093f42b981f4234989e57e98eb0e9e1289"
+    },
+    "R": {
+      "device": "synthetic-R",
+      "side": "R",
+      "boot": "62c38a1c-beee-5151-a9fa-e52e3701621f",
+      "calibration": {
+        "shin": {
+          "frame": [
+            [
+              0.6446959875949703,
+              0.6781339298552437,
+              -0.35284763958120724
+            ],
+            [
+              -0.6699319547950855,
+              0.7235177923879724,
+              0.16647276066212904
+            ],
+            [
+              0.368182372640763,
+              0.12905958808673748,
+              0.9207526069468932
+            ]
+          ],
+          "bias": [
+            -0.004824418382604369,
+            0.008133781746657812,
+            -0.002298085800651088
+          ],
+          "pivot_m": [
+            -0.11438787169165421,
+            0.0,
+            0.1963837735057533
+          ],
+          "pivot_fit_accepted": true,
+          "still_noise_dps": 0.14747539180164562
+        },
+        "shoe": {
+          "frame": [
+            [
+              0.90068826458108,
+              -0.36876696088946676,
+              0.22972065340815256
+            ],
+            [
+              0.40195325867489434,
+              0.9079692904301546,
+              -0.11842865141677034
+            ],
+            [
+              -0.16490672480695132,
+              0.19900426174358143,
+              0.9660243661116091
+            ]
+          ],
+          "bias": [
+            0.0067064659791806844,
+            -0.011298607101231836,
+            0.003242257527640127
+          ],
+          "pivot_m": [
+            0.13816420534597149,
+            0.0,
+            -0.011811662673874157
+          ],
+          "pivot_fit_accepted": true,
+          "still_noise_dps": 0.19256421359883402
+        }
+      },
+      "clock": {
+        "x0": 73.0948035,
+        "y0": 71.69000000000001,
+        "slope": 0.9999330040686463,
+        "low": 1.680019,
+        "high": 144.509588,
+        "residual_ms": 0.00014912880885731283,
+        "withheld": 1,
+        "frame_period_ms": null,
+        "estimated_uncertainty_ms": null
+      },
+      "sensor_clocks": {
+        "('shoe', 0)": {
+          "anchors": 288,
+          "us_per_tick": 39.06234324600443,
+          "max_residual_us": 55.25870102643967
+        },
+        "('shin', 0)": {
+          "anchors": 288,
+          "us_per_tick": 39.06851595648209,
+          "max_residual_us": 56.08569414168596
+        }
+      },
+      "quality_counts": {
+        "valid": 14079,
+        "missing_or_uncertain": 181,
+        "reacquiring": 140,
+        "off_axis": 0
+      },
+      "marker_observations": {
+        "start": {
+          "pts": 0.28,
+          "role": "fit"
+        },
+        "check": {
+          "pts": 73.74,
+          "role": "check"
+        },
+        "end": {
+          "pts": 143.1,
+          "role": "fit"
+        }
+      },
+      "integrity": {
+        "issues": [],
+        "closeReason": "user",
+        "physicalUnmount": "unknown",
+        "streams": [
+          {
+            "file": "imu_shin_e000000.bin",
+            "stream": "shin",
+            "epoch": 0,
+            "count": 14399,
+            "error": null,
+            "first_us": 1404307,
+            "last_us": 145406574,
+            "known_lost": 0,
+            "clipped": 0,
+            "uncertain": 0,
+            "observed_hz": 99.98453704898965,
+            "known_fresh_fraction": 1
+          },
+          {
+            "file": "imu_shoe_e000000.bin",
+            "stream": "shoe",
+            "epoch": 0,
+            "count": 14339,
+            "error": null,
+            "first_us": 1401202,
+            "last_us": 145400731,
+            "known_lost": 62,
+            "clipped": 0,
+            "uncertain": 0,
+            "observed_hz": 99.56977012056754,
+            "known_fresh_fraction": 0.9956947434205958
+          }
+        ]
+      },
+      "calibration_id": "553850cb81450d1bf906bf1e74b1a346da39f30817dc64ec35c7d5907203fa1d"
+    }
+  },
+  "sources_sha256": {
+    "D:\\Codebase\\KartPedal\\measurement\\artifacts\\refit3\\L\\blocks.jsonl": "725e2cb13eef5fff53f339e3d3806f04145099dad6efa68044829665ff2cf43b",
+    "D:\\Codebase\\KartPedal\\measurement\\artifacts\\refit3\\L\\events.jsonl": "ff4c4f09f9e592e63149f007b1d670a2adcf50a916ed503eca810d792d583e18",
+    "D:\\Codebase\\KartPedal\\measurement\\artifacts\\refit3\\L\\imu_shin_e000000.bin": "de1497ab61da36a9d9aa41161ec69fb40373638fd1db8742aac5938acfd399f5",
+    "D:\\Codebase\\KartPedal\\measurement\\artifacts\\refit3\\L\\imu_shoe_e000000.bin": "eaca426999e3748639d5e9dd890ec34ebe9c40e3821b3bb9d2ce354ba5f6db64",
+    "D:\\Codebase\\KartPedal\\measurement\\artifacts\\refit3\\L\\meta.json": "ec19f0c00038177b5162fe22c7de40f2e3e316c6828bbf2427dfa2e64b453a0b",
+    "D:\\Codebase\\KartPedal\\measurement\\artifacts\\refit3\\L\\summary.json": "1ad12e51e3122b179b340f7e2408f825639f9d8934c4a3093231ecfe94ddecce",
+    "D:\\Codebase\\KartPedal\\measurement\\artifacts\\refit3\\R\\blocks.jsonl": "8f46f8eda3eb902f5a9ef2998013b2393c76a53e7fe36a442880772b3bdc7a3e",
+    "D:\\Codebase\\KartPedal\\measurement\\artifacts\\refit3\\R\\events.jsonl": "cad5212a26be23514488ed90701ca51669dcef5f09b699ef0dc1240f6dcb1edb",
+    "D:\\Codebase\\KartPedal\\measurement\\artifacts\\refit3\\R\\imu_shin_e000000.bin": "434205e1daa78e6e733a471164517f0151a60642a982867df3454e075ca5a6e0",
+    "D:\\Codebase\\KartPedal\\measurement\\artifacts\\refit3\\R\\imu_shoe_e000000.bin": "ca8913bcc21d245d1c3cc69ce71f9f3d8cf0f0c141af6ea417ade605639f4ae6",
+    "D:\\Codebase\\KartPedal\\measurement\\artifacts\\refit3\\R\\meta.json": "281f25d6a842e3440dfc2a090f5f35b434d6b707635c51cb76dba231d8fdd721",
+    "D:\\Codebase\\KartPedal\\measurement\\artifacts\\refit3\\R\\summary.json": "1ad12e51e3122b179b340f7e2408f825639f9d8934c4a3093231ecfe94ddecce",
+    "D:\\Codebase\\KartPedal\\measurement\\artifacts\\refit3\\synthetic-racebox.csv": "65f127992ec04ae920c7f4a267919dc5c69c07cdc74b04239f7812d3884f536d"
+  },
+  "warnings": [],
+  "stages_s": {
+    "L_decode_s": 0.10963199997786433,
+    "L_estimate_s": 3.498065200052224,
+    "R_decode_s": 0.10293439996894449,
+    "R_estimate_s": 0.07166270003654063
+  },
+  "elapsed_s": 4.0092103000497445,
+  "quality_codes": [
+    "valid",
+    "missing or timing uncertain",
+    "reacquiring pose",
+    "off-axis motion"
+  ]
+}

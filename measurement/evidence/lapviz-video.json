@@ -1,0 +1,36 @@
+{
+  "source": "https://lapviz.com/session/1cdfdd/overlay",
+  "scope": "public example only",
+  "selected_channel": "Steering Angle",
+  "hosted_version": "1.1.3043.0",
+  "source_lap": 9,
+  "setting_fps": 25,
+  "sha256": "1af20d58a0580f19534d81fc8af787d306c8aed04f790b0a9bfd911221a2ffef",
+  "ffmpeg": "Input #0, matroska,webm, from 'measurement\\evidence\\lapviz-public-channel.webm':\n  Metadata:\n    encoder         : LapViz\n  Duration: 00:00:55.48, start: 0.000000, bitrate: 886 kb/s\n    Stream #0:0(eng): Video: vp9 (Profile 0), yuv420p(tv, bt709/unknown/unknown), 1280x720, SAR 1:1 DAR 16:9, 25 fps, 25 tbr, 1k tbn, 1k tbc (default)\n    Metadata:\n      alpha_mode      : 1\nAt least one output file must be specified\n",
+  "frames": {
+    "0": {
+      "alpha": [
+        0,
+        255
+      ],
+      "transparent_pixels": 410525,
+      "sha256": "3e660fb5da4cb6b537426a6c378f6669f65e706ed894e6ed8d5dad62aa291d59"
+    },
+    "1": {
+      "alpha": [
+        0,
+        255
+      ],
+      "transparent_pixels": 621887,
+      "sha256": "ca294e4c4340adcf597614dc96148a0e85a4278da51569f9bba47390da81fd09"
+    },
+    "20": {
+      "alpha": [
+        0,
+        255
+      ],
+      "transparent_pixels": 627487,
+      "sha256": "e0cb477a4512402e16c2e39d593d7988741384f8bc0de5f097bb7ddba06a420e"
+    }
+  }
+}

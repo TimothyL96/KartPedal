@@ -1,0 +1,53 @@
+{
+  "source": "synthetic-source.mp4",
+  "caption": "synthetic-foot-motion.srt",
+  "output": "foot-motion-overlay-review.mp4",
+  "ffmpeg": "4.2.2",
+  "filter": "[0:v]scale=640:480:flags=neighbor,pad=960:540:160:0:black,setsar=1,subtitles=synthetic-foot-motion.srt:force_style='FontName=Arial,FontSize=14,Outline=1,MarginV=4,Alignment=2',split=4[o0][o1][o2][o3];[o0]trim=start_frame=0:end_frame=50,setpts=PTS-STARTPTS[v0];[o1]trim=start_frame=450:end_frame=550,setpts=PTS-STARTPTS[v1];[o2]trim=start_frame=975:end_frame=1025,setpts=PTS-STARTPTS[v2];[o3]trim=start_frame=2000:end_frame=2050,setpts=PTS-STARTPTS[v3];[v0][v1][v2][v3]concat=n=4:v=1:a=0[v]",
+  "source_frame_intervals_half_open": [
+    [
+      0,
+      50
+    ],
+    [
+      450,
+      550
+    ],
+    [
+      975,
+      1025
+    ],
+    [
+      2000,
+      2050
+    ]
+  ],
+  "fps": 25.0,
+  "frame_count": 250,
+  "edited_marker_frames": {
+    "L": [
+      11,
+      176,
+      220
+    ],
+    "R": [
+      22,
+      187,
+      231
+    ]
+  },
+  "mapped_source_frames": {
+    "L": [
+      11,
+      1001,
+      2020
+    ],
+    "R": [
+      22,
+      1012,
+      2031
+    ]
+  },
+  "source_s_of_gap_screenshot": 20,
+  "edited_s_of_gap_screenshot": 4
+}

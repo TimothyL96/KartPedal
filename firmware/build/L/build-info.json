@@ -1,0 +1,12 @@
+{
+  "side": "L",
+  "fqbn": "esp32:esp32:XIAO_ESP32S3_Plus",
+  "arduino_esp32": "3.3.5",
+  "bosch_commit": "41129fcfe39c583ee5462d79195741945d51c1fe",
+  "battery_gain": 2.0,
+  "battery_offset_mv": 0.0,
+  "bytes": 431904,
+  "sha256": "8cba69fd482f4e326684b456070abe581b95ed41a6a18149fa907cd0c7fba706",
+  "appended_image_sha256": "ff0fcc9fd032d811e2ddcb8c32bbc8458f5f72107f945993ff17e80162682a66",
+  "flashed": false
+}

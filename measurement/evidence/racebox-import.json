@@ -1,0 +1,19 @@
+{
+  "vendor_export": "https://www.racebox.pro/webapp/session/63b05aad275e4ba6a5039725/export/csv",
+  "preset": "custom, UTC, km/h, m, extended metadata, laps, entry/exit",
+  "sha256": "6a4340212ecda2d91f093a840cf99cbac1320582c1fc676ba995009c5a172a11",
+  "rows": 32856,
+  "first_utc": "2022-08-07T14:01:20.520000+00:00",
+  "last_utc": "2022-08-07T14:23:14.760000+00:00",
+  "lap_values": [
+    0,
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7
+  ],
+  "aligned_to_KartPedal": false
+}

@@ -1,0 +1,1 @@
+{"streams": [{"file": "imu_shoe_e000000.bin", "end_offset": 40501068, "record_count": 1350034}, {"file": "imu_shin_e000000.bin", "end_offset": 40496538, "record_count": 1349883}], "stop_reason": "user"}

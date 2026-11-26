@@ -1,0 +1,27 @@
+[
+  {
+    "source_in": 0,
+    "source_out": 1.3,
+    "timeline_in": 0
+  },
+  {
+    "source_in": 39,
+    "source_out": 42,
+    "timeline_in": 1.3
+  },
+  {
+    "source_in": 62.9,
+    "source_out": 64.4,
+    "timeline_in": 4.3
+  },
+  {
+    "source_in": 73,
+    "source_out": 75,
+    "timeline_in": 5.800000000000007
+  },
+  {
+    "source_in": 142.5,
+    "source_out": 144,
+    "timeline_in": 7.800000000000007
+  }
+]

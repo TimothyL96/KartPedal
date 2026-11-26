@@ -1,0 +1,32 @@
+{
+  "duration": 13500,
+  "grid_hz": 100,
+  "legs": {
+    "R": {
+      "directory": "R",
+      "markers": {
+        "start": {
+          "pts": 0.28,
+          "role": "fit"
+        },
+        "check": {
+          "pts": 6885.3,
+          "role": "check"
+        },
+        "end": {
+          "pts": 13499.1,
+          "role": "fit"
+        }
+      },
+      "windows": [
+        1.800027,
+        5.000241,
+        5.550278,
+        11.200657,
+        5.550278,
+        5.820296
+      ]
+    }
+  },
+  "synthetic": true
+}

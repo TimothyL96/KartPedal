@@ -1,0 +1,20 @@
+test_firmware_golden_and_binaries (__main__.Regression.test_firmware_golden_and_binaries) ... ok
+test_independent_clocks (__main__.Regression.test_independent_clocks) ... ok
+test_interrupted_dwell (__main__.Regression.test_interrupted_dwell) ... ok
+test_legacy (__main__.Regression.test_legacy) ... ok
+test_logger_only (__main__.Regression.test_logger_only) ... ok
+test_lvz_roundtrip (__main__.Regression.test_lvz_roundtrip) ... ok
+test_perturbed_raw_and_missing_side (__main__.Regression.test_perturbed_raw_and_missing_side) ... ok
+test_public_racebox (__main__.Regression.test_public_racebox) ... ok
+test_raw_reproduction (__main__.Regression.test_raw_reproduction) ... ok
+test_real_gui (__main__.Regression.test_real_gui) ... ok
+test_refits_and_holdout (__main__.Regression.test_refits_and_holdout) ... ok
+test_reset_epoch (__main__.Regression.test_reset_epoch) ... ok
+test_tampered_crc (__main__.Regression.test_tampered_crc) ... ok
+test_transparent_video_and_cuts (__main__.Regression.test_transparent_video_and_cuts) ... ok
+test_unaligned_gps_profile_reuse (__main__.Regression.test_unaligned_gps_profile_reuse) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 18.281s
+
+OK

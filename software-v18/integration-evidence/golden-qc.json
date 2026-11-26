@@ -1,0 +1,80 @@
+{
+  "side": "R",
+  "deviceId": "synthetic-R",
+  "bootUuid": "00112233-4455-6677-8899-aabbccddeeff",
+  "config": {
+    "shoe": {
+      "accel_range_g": 16,
+      "gyro_range_dps": 2000,
+      "accel_odr_hz": 100,
+      "gyro_odr_hz": 100,
+      "filter": "synthetic",
+      "fifo": "header",
+      "raw_axes": [
+        "x",
+        "y",
+        "z"
+      ],
+      "address": 104
+    },
+    "shin": {
+      "accel_range_g": 16,
+      "gyro_range_dps": 2000,
+      "accel_odr_hz": 100,
+      "gyro_odr_hz": 100,
+      "filter": "synthetic",
+      "fifo": "header",
+      "raw_axes": [
+        "x",
+        "y",
+        "z"
+      ],
+      "address": 105
+    }
+  },
+  "calibrationId": null,
+  "powerMode": "USB_BENCH",
+  "issues": [
+    "no close record"
+  ],
+  "closeRecordPresent": false,
+  "closeMatches": false,
+  "closeReason": null,
+  "physicalUnmount": "unknown",
+  "discardedEventsBytes": 0,
+  "calibration": "unapplied",
+  "clock": "device-epoch only",
+  "sha256": {
+    "meta.json": "3e6724ae68d6e44b370d1dd642a9882ac0a1ecf714064379d7629f62a94625b6",
+    "blocks.jsonl": "e74694003d26c7ed5c6334eeadfc3751e7f9309fc8080c79365a6cb0ed04a29a",
+    "imu_shoe_e000000.bin": "24c5f4cc24cd6bf7b4423da366db4fd9a5eb789305bc7e6d1ff1406edfb123ab",
+    "events.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  },
+  "streams": [
+    {
+      "file": "imu_shoe_e000000.bin",
+      "header": {
+        "stream": "shoe",
+        "epoch": 0,
+        "openUs": "1000000"
+      },
+      "committedRecords": 2,
+      "discardedBytes": 0,
+      "knownMissingFrames": 0,
+      "observedRateHz": 100,
+      "maxIntervalUs": "10000",
+      "firstUs": "1010000",
+      "lastUs": "1020000",
+      "flagCounts": {
+        "estimatedTick": 2,
+        "uncertainTime": 0,
+        "clipping": 0,
+        "gapBefore": 0,
+        "fault": 0,
+        "missingTick": 0
+      },
+      "error": null
+    }
+  ],
+  "committedEventCount": 0
+}

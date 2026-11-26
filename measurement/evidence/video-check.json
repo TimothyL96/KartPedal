@@ -1,0 +1,28 @@
+{
+  "edited_frames": 465,
+  "fps": 50.0,
+  "measured_LED_rises": {
+    "L": [
+      0.12,
+      6.34,
+      8.2
+    ],
+    "R": [
+      0.28,
+      6.54,
+      8.4
+    ]
+  },
+  "alpha_extrema": [
+    0,
+    255
+  ],
+  "hosted_public_PNG_size": [
+    1920,
+    1080
+  ],
+  "hosted_public_alpha_extrema": [
+    0,
+    255
+  ]
+}

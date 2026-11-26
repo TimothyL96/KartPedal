@@ -1,0 +1,78 @@
+{
+  "duration": 144,
+  "grid_hz": 100,
+  "legs": {
+    "L": {
+      "directory": "D:\\Codebase\\KartPedal\\measurement\\artifacts\\refit3\\L",
+      "markers": {
+        "start": {
+          "pts": 0.12,
+          "role": "fit"
+        },
+        "check": {
+          "pts": 73.54,
+          "role": "check"
+        },
+        "end": {
+          "pts": 142.9,
+          "role": "fit"
+        }
+      },
+      "windows": [
+        1.199978,
+        4.399806,
+        4.949776,
+        10.599471,
+        4.949776,
+        5.219761
+      ]
+    },
+    "R": {
+      "directory": "D:\\Codebase\\KartPedal\\measurement\\artifacts\\refit3\\R",
+      "markers": {
+        "start": {
+          "pts": 0.28,
+          "role": "fit"
+        },
+        "check": {
+          "pts": 73.74,
+          "role": "check"
+        },
+        "end": {
+          "pts": 143.1,
+          "role": "fit"
+        }
+      },
+      "windows": [
+        1.800027,
+        5.000241,
+        5.550278,
+        11.200657,
+        5.550278,
+        5.820296
+      ]
+    }
+  },
+  "synthetic": true,
+  "gps": {
+    "file": "D:\\Codebase\\KartPedal\\measurement\\artifacts\\refit3\\synthetic-racebox.csv",
+    "unit": "km/h",
+    "anchors": [
+      [
+        2.5600972,
+        1.2,
+        "fit"
+      ],
+      [
+        73.365832,
+        72.0,
+        "check"
+      ],
+      [
+        143.37150200000002,
+        142.0,
+        "fit"
+      ]
+    ]
+  }
+}

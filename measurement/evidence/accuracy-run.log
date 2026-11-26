@@ -1,0 +1,8 @@
+outing L {'detection_pct': 96.36363636363636, 'p95_timing_ms': 11.140589582549865, 'max_deg': 0.1055354271604938, 'neutral_drift_deg': -0.0034594872344919578, 'rigid_max_deg': 0.048951655626297, 'pass': True}
+outing R {'detection_pct': 96.72131147540983, 'p95_timing_ms': 11.033135705696395, 'max_deg': 0.11586971499427567, 'neutral_drift_deg': -0.11058586417469257, 'rigid_max_deg': 0.09099673479795456, 'pass': True}
+refit2 L {'detection_pct': 96.36363636363636, 'p95_timing_ms': 5.053115807987751, 'max_deg': 0.05610688150449228, 'neutral_drift_deg': 0.01376696902265924, 'rigid_max_deg': 0.03755944222211838, 'pass': True}
+refit2 R {'detection_pct': 96.72131147540983, 'p95_timing_ms': 6.05509843404519, 'max_deg': 0.17919841798458336, 'neutral_drift_deg': -0.04952434232653147, 'rigid_max_deg': 0.042576052248477936, 'pass': True}
+refit3 L {'detection_pct': 96.36363636363636, 'p95_timing_ms': 20.970547740910206, 'max_deg': 0.18181805164772577, 'neutral_drift_deg': -0.03893164644546644, 'rigid_max_deg': 0.1319243162870407, 'pass': True}
+refit3 R {'detection_pct': 96.72131147540983, 'p95_timing_ms': 7.098555541486461, 'max_deg': 0.12283703389446288, 'neutral_drift_deg': -0.06776721414093094, 'rigid_max_deg': 0.027636650949716568, 'pass': True}
+holdout L {'detection_pct': 96.36363636363636, 'p95_timing_ms': 13.140359771585961, 'max_deg': 0.13182129472657778, 'neutral_drift_deg': -0.0668631458478611, 'rigid_max_deg': 0.10063139349222183, 'pass': True}
+holdout R {'detection_pct': 96.72131147540983, 'p95_timing_ms': 3.9466058650162856, 'max_deg': 0.07404757846551005, 'neutral_drift_deg': -0.05375499506550726, 'rigid_max_deg': 0.05556533485651016, 'pass': True}

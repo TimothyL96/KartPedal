@@ -1,0 +1,16 @@
+* text=auto
+*.cmd text eol=crlf
+# Preserve fixture hashes, journal byte watermarks and original evidence on checkout.
+/KartPedal_Master_Engineering_Report_V18_2026-11-26.html -text
+measurement/artifacts/** -text
+measurement/evidence/** -text
+software-v18/synthetic-two-laps/** -text
+software-v18/integration-evidence/** -text
+*.bin binary
+*.lvz binary
+*.mov binary
+*.mp4 binary
+*.webm binary
+*.jpg binary
+*.png binary
+measurement/artifacts/final/ankle-strip.mov filter=lfs diff=lfs merge=lfs -text

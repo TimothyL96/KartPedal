@@ -1,0 +1,26 @@
+{
+  "gui_export": "measurement/user-data/exports/20261127-015847-220074",
+  "cli_export": "measurement/user-data/exports/release-cli",
+  "lvz_members_identical": [
+    "samples/gps.csv",
+    "samples/foot.csv",
+    "lapviz.json"
+  ],
+  "media": {
+    "review.mp4": {
+      "pixel_format": "rgb24",
+      "frames": 465,
+      "decoded_table_sha256": "12fa3f0d11719f6b2c719693152bd0971c46ae740d3fa7856e163245492cda4f"
+    },
+    "ankle-strip.mov": {
+      "pixel_format": "rgba",
+      "frames": 7200,
+      "decoded_table_sha256": "7db6c18d6a84b9ffad5b44bfc4d4ba50d9066568426ba3d60b250b2835cdeaf7"
+    }
+  },
+  "alpha_extrema": [
+    0,
+    255
+  ],
+  "originals_matched": 22
+}

@@ -1,0 +1,32 @@
+{
+  "node": "v24.22.3",
+  "syntax_checked": [
+    "kartpedal-v18-adapters.mjs",
+    "kartpedal-v18-checks.mjs",
+    "kartpedal-v18-cli.mjs",
+    "kartpedal-v18-clocks.mjs",
+    "kartpedal-v18-core.mjs",
+    "kartpedal-v18-fixture.mjs",
+    "kartpedal-v18-golden.mjs"
+  ],
+  "native_checks": {
+    "decoder": 36,
+    "fixture_and_adapters": 25
+  },
+  "native_cli_expected_exit_codes": {
+    "qc": 2,
+    "decode": 2
+  },
+  "fixture_files_reproduced_sha256": {
+    "golden/meta.json": "3e6724ae68d6e44b370d1dd642a9882ac0a1ecf714064379d7629f62a94625b6",
+    "golden/imu_shoe_e000000.bin": "24c5f4cc24cd6bf7b4423da366db4fd9a5eb789305bc7e6d1ff1406edfb123ab",
+    "golden/events.jsonl": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "golden/blocks.jsonl": "e74694003d26c7ed5c6334eeadfc3751e7f9309fc8080c79365a6cb0ed04a29a",
+    "synthetic-merged.csv": "9cc9fb721354d12c44552eb965284f67e4e5c7351809d8e39469d0e19aa38561",
+    "synthetic-single-right.csv": "5003cc74474348da2902b928e5ec0b5ed5ff84d236971d09cb654dd1bcd23401",
+    "synthetic-foot-motion.srt": "3de43d10b42136df427c1866e2c041a7ef1bbce827579452568f64d6ab3308ec",
+    "synthetic-multirate.lvz": "60e3ff876de205a4ca6d2819166de6532d5d76e6fd14cb0a1e1f27ea38b1b0ae",
+    "synthetic-source.y4m": "e0a406c0d4c88477a16190ef8159b2376c40687f95f16162207b6c4dabc71984",
+    "fixture-reference.json": "311213da74b9bdcf384dfe9bbe5375908437f3698a4fb0693c4d589e7242d614"
+  }
+}

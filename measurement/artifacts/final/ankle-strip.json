@@ -1,0 +1,12 @@
+{
+  "file": "ankle-strip.mov",
+  "size": [
+    576,
+    88
+  ],
+  "fps": 50,
+  "frames": 7200,
+  "format": "ProRes 4444",
+  "source_time": "k / fps from clip first PTS",
+  "bar_full_scale_deg": 30
+}

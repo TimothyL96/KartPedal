@@ -1,0 +1,111 @@
+{
+  "date_singapore": "2026-11-27",
+  "reader_commit": "0e2755dc303a0ae8245e122f759a0a3ba16acd66",
+  "reader_sha256": "cfb08bc081c3fe9984d87c9d81664eabdef594a966b2e9f5a3c2c1951ea03fb9",
+  "official_schema_valid": [
+    "kartpedal",
+    "studio"
+  ],
+  "url": "https://lapviz.studio/",
+  "browser": "Edge 158.0.4370.33 (headless)",
+  "loaded_studio_assembly": "LapViz.Studio.ahim7qr6ub.wasm",
+  "loaded_telemetry_assembly": "LapViz.Telemetry.smwaofmcrc.wasm",
+  "source": {
+    "lvz_version": 3,
+    "gps": 2050,
+    "foot": 8200,
+    "left_missing": 60,
+    "timing": {
+      "source": "Synthetic lap boundaries",
+      "declared": true,
+      "laps": [
+        {
+          "number": 1,
+          "start": 0,
+          "duration": 40
+        },
+        {
+          "number": 2,
+          "start": 40,
+          "duration": 42
+        }
+      ]
+    },
+    "lap_times": [
+      40,
+      42
+    ]
+  },
+  "studio_lvz_reexport": {
+    "version": 2,
+    "groups": [
+      "main"
+    ],
+    "samples": 2050,
+    "foot_channels_matched_at_all_export_ticks": true,
+    "left_missing": 15,
+    "timing": {
+      "source": "Synthetic lap boundaries",
+      "device": true,
+      "laps": [
+        {
+          "number": 1,
+          "start": 0,
+          "duration": 40
+        },
+        {
+          "number": 2,
+          "start": 40,
+          "duration": 42
+        }
+      ]
+    }
+  },
+  "studio_csv_reexport": {
+    "rows": 2050,
+    "left_missing": 15,
+    "max_abs_left_error_deg": 4.9967406212658716e-08
+  },
+  "studio_vbo": {
+    "rows": 2050,
+    "invalid_left_rows_with_numeric_angles": 15,
+    "values_inside_gap_deg": [
+      10.866906,
+      10.866906,
+      10.866906,
+      10.866906,
+      10.866906,
+      10.866906,
+      10.866906,
+      10.866906,
+      10.866906,
+      10.866906,
+      10.866906,
+      10.866906,
+      10.866906,
+      10.866906,
+      10.866906
+    ],
+    "same_values_after_reimport": true,
+    "recognized_laps_on_reimport": 0
+  },
+  "generic_csv": {
+    "recognized_laps": 0,
+    "lap_column_treated_as_channel": true,
+    "left_missing": 15,
+    "absent_left_channels_omitted_on_single_leg_reexport": true
+  },
+  "legacy_delimited_document_example": {
+    "advertised_lap_displayed": "1:13.863",
+    "custom_feet_tested": false
+  },
+  "studio_video": {
+    "duration_s": 82,
+    "ready_state": 4,
+    "test_session_cursor_s": 19.7,
+    "first_paused_video_s": 19.9,
+    "manual_offset_s": -0.2,
+    "matched_offset_s": 0,
+    "studio_srt_export_error": "NoElements"
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "schema": 2,
+  "side": "R",
+  "device_id": "synthetic-R",
+  "boot_uuid": "00112233-4455-6677-8899-aabbccddeeff",
+  "start_us": 0,
+  "firmware_sha256": "0000000000000000000000000000000000000000000000000000000000000000",
+  "power_mode": "USB_BENCH",
+  "calibration_id": null,
+  "config": {
+    "shoe": {
+      "accel_range_g": 16,
+      "gyro_range_dps": 2000,
+      "accel_odr_hz": 100,
+      "gyro_odr_hz": 100,
+      "filter": "synthetic",
+      "fifo": "header",
+      "raw_axes": [
+        "x",
+        "y",
+        "z"
+      ],
+      "address": 104
+    },
+    "shin": {
+      "accel_range_g": 16,
+      "gyro_range_dps": 2000,
+      "accel_odr_hz": 100,
+      "gyro_odr_hz": 100,
+      "filter": "synthetic",
+      "fifo": "header",
+      "raw_axes": [
+        "x",
+        "y",
+        "z"
+      ],
+      "address": 105
+    }
+  }
+}
