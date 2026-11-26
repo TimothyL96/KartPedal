@@ -28,6 +28,13 @@ Only recorded sides get side files. The app saves each export under `measurement
 
 For a GitHub checkout, use Git for Windows with Git LFS and run `git lfs pull` from the project root. The full-length transparent demonstration is stored in LFS. The LVZ and short review MP4 are regular repository files.
 
+If Git for Windows 2.45.1 reports **“Clone succeeded, but checkout failed”** with an active `post-checkout` hook, open PowerShell in that freshly cloned folder before making any edits. These commands finish the checkout with clone protection enabled.
+
+~~~powershell
+git restore --source=HEAD --staged --worktree -- .
+git lfs pull
+~~~
+
 Keep the project folders together. Use 64-bit Python 3.12 with Tcl/Tk and Node.js on PATH. The release was exercised with Python 3.12.7 and Node 24.22.3. Python supplies the desktop and estimator. Node verifies the binary journal. The Python requirements include the FFmpeg used for video. [Python for Windows](https://www.python.org/downloads/windows/) · [Node.js](https://nodejs.org/en/download)
 
 From PowerShell in the KartPedal folder, run once on a new installation (package downloads require internet).

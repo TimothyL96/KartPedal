@@ -4,6 +4,8 @@
 
 The public-release pass covers 17 regression tests. New cases exercise a torn event tail and closed logs with missing or empty sensor streams. The desktop test switches between logger and camera timelines, processes both, and compares every camera-aligned LVZ member with the reference.
 
+All 17 tests also passed in a fresh GitHub checkout of `2bb4a09`. The checkout contained all 165 local documentation link targets. The downloaded 288,171,189-byte overlay matched its Git LFS SHA-256.
+
 | Release check | Observed result |
 |---|---|
 | Fresh desktop environment and normal launch | Installed the project Python requirements into a fresh local environment. Launched **Start KartPedal.cmd**, clicked **Load synthetic demo** and **Process and export LVZ**, and saw **LVZ ready**. [Inputs](images/desktop-inputs.jpg) · [Quality](images/desktop-quality.jpg) |
