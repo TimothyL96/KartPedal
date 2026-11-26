@@ -2,6 +2,8 @@
 
 See when each foot moves through a corner. KartPedal takes the raw six-axis recordings from a shoe and a shin, estimates their relative angle and puts that trace alongside speed and lap distance in LapViz Studio. A transparent ankle strip carries the same measurements into a video edit.
 
+**The main export is a LapViz file.** The optional DJI clip supplies a clock. A filmed LED flash identifies the same instant in the logger and the video. The clip stays separate, so you can open it beside the telemetry in Studio or use it in a later edit. [How the flashes are matched](docs/CALIBRATION_AND_SYNC.md)
+
 **Pre-hardware release · 27 November 2026.** The Windows app, both firmware builds and the synthetic recording-to-video workflow have been tested in software. The parts have yet to arrive. The first physical milestone is one bare controller on USB.
 
 ![Estimated ankle excursion shown on a frame of the synthetic corner replay](measurement/evidence/edited-motion-frame.jpg)

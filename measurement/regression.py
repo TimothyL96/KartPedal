@@ -147,7 +147,16 @@ class Regression(unittest.TestCase):
     def test_real_gui(self):
         desktop.STATE=self.work/'ui-state';r=desktop.tk.Tk();r.withdraw()
         try:
-            app=desktop.App(r);app.load(SOURCE/'job.json');app.inspect()
+            app=desktop.App(r);app.btn.invoke()
+            self.assertIn('Choose a left or right SD folder',app.status.get())
+            self.assertIn('disabled',app.open_folder.state())
+            app.load(SOURCE/'job.json')
+            self.assertEqual(app.context.get(),'Synthetic demo')
+            self.assertEqual(app.value()['legs']['L']['windows'],load(SOURCE/'job.json')['legs']['L']['windows'])
+            app.legs['L'].times[0].set('invalid');app.btn.invoke()
+            self.assertIn('Still start',app.status.get())
+            self.assertEqual(app.tabs.select(),str(app.hosts[app.legs['L'].panel]))
+            app.load(SOURCE/'job.json');app.inspect()
             end=time.monotonic()+30
             while app.busy and time.monotonic()<end:r.update();time.sleep(.015)
             self.assertEqual(app.status.get(),'SD integrity checked');app.persist()
@@ -155,6 +164,9 @@ class Regression(unittest.TestCase):
             app.btn.invoke();end=time.monotonic()+100
             while app.busy and time.monotonic()<end:r.update();time.sleep(.015)
             self.assertIsNotNone(app.last_out,app.log.get('1.0','end'))
+            self.assertNotIn('disabled',app.open_folder.state())
+            self.assertEqual(len(app.summary.get_children()),2)
+            self.assertIn('ms uncertainty',app.summary.item(app.summary.get_children()[0],'values')[-1])
             self.assertEqual((app.last_out/'R-motion.f32').read_bytes(),(FINAL/'R-motion.f32').read_bytes())
             self.assertEqual(len(list((desktop.STATE/'devices').glob('*.json'))),2)
             self.assertIn('residual',app.log.get('1.0','end'))
@@ -163,6 +175,8 @@ class Regression(unittest.TestCase):
             while app.busy and time.monotonic()<end:r.update();time.sleep(.015)
             self.assertEqual(app.status.get(),'Processing stopped')
             self.assertIn('missing',app.log.get('1.0','end').lower())
+            self.assertIsNone(app.last_out)
+            self.assertIn('disabled',app.open_folder.state())
         finally:r.destroy()
     def test_transparent_video_and_cuts(self):
         mov=FINAL/'ankle-strip.mov';mp4=FINAL/'review.mp4'

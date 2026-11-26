@@ -7,8 +7,10 @@
 1. **Start DJI and identify the foot.** Film a stationary side view of shoe and shin, heel supported, toes up in neutral. Hold still for several seconds. The estimator needs at least 100 valid 100 Hz samples from each IMU.
 2. Keeping the ankle angle fixed, **rock shoe and shin together** about a fixed ankle pivot in the forward/back plane. Include several smooth reversals. Note one portion moving toward the press direction. This identifies the hinge axis and its sign. The rocking interval needs ≥100 valid samples and the positive portion ≥8.
 3. Perform separate, visible ankle presses and returns. Confirm positive excursion in the expected direction. Watch for pod rocking, suit motion or the lace capsule twisting. A positive calibration fit alone cannot establish a mechanically stable mount.
-4. On the matching foot tab, enter **still start/end, rocking start/end, positive start/end**, in that order. The positive portion must lie inside the rocking interval. Choose **Video seconds** for times since this clip’s first presentation frame or **Logger seconds** for MCU seconds. For the supplied right logger the six logger times round to `1.800, 5.000, 5.550, 11.201, 5.550, 5.820`.
+4. On the matching foot tab, enter each start and end in its labelled pair. Choose **Video seconds** for elapsed time since the clip’s first presentation frame or **Logger seconds** for MCU seconds. In the supplied right logger, neutral runs from 1.800 to 5.000 s, common rocking from 5.550 to 11.201 s, and its positive segment from 5.550 to 5.820 s.
 5. On the same device and confirmed identical mounting, select a saved profile and enter a **fresh 1–60 s neutral interval**. Device, side, configuration and neutral orientation must agree. Remove the saved profile and perform full calibration after a refit, changed sign or failed neutral check.
+
+![Right foot tab with the three calibration intervals for the synthetic recording](images/desktop-calibration.jpg)
 
 ![Measured neutral gyro noise from the synthetic right sensors, and timing residual versus uncertainty](images/calibration-and-time.png)
 
@@ -32,7 +34,7 @@ check, 73.74, check
 end, 143.10, fit
 ~~~
 
-For the demo, the held-out right marker agreed to about **0.00015 ms**. The camera still has **20 ms** frames, and the combined estimated timing uncertainty was **20.06 ms**. The desktop rounds the displayed residual to 0.00 ms. Use the full values in [quality.json](../measurement/artifacts/final/quality.json) when interpreting event timing. A residual above **50 ms**, a missing check or a check outside the anchors prevents an accepted camera fit. A cut or new camera file needs its own timing evidence.
+For the demo, the held-out right marker agreed to about **0.00015 ms**. The camera has **20 ms** frames, and the combined estimated timing uncertainty was **20.06 ms**. The Quality table shows 20.1 ms uncertainty. The processing log shows a marker residual below 0.01 ms. A residual above **50 ms**, a missing check or a check outside the anchors prevents an accepted camera fit. Each source clip needs its own timing evidence. [Full clock values](../measurement/artifacts/final/quality.json)
 
 **RaceBox import.** Request extended custom CSV with timezone-qualified UTC time, GPS position, speed and lap counter. Select the speed unit actually exported. **Inspect GPS lap crossings** lists candidate times, which still need an identifiable match on video. Leave anchor pairs empty to validate the CSV separately and export foot data without synchronized speed or laps. Ankle onset and GPS deceleration are different physical events.
 

@@ -2,6 +2,7 @@
 import json
 import os
 import hashlib
+import math
 import queue
 import threading
 import tempfile
@@ -34,30 +35,73 @@ def entry(parent,label,var,row):
     ttk.Label(parent,text=label).grid(row=row,column=0,sticky='w',pady=5)
     obj=ttk.Entry(parent,textvariable=var);obj.grid(row=row,column=1,sticky='ew',padx=8)
     return obj
+
+def numeric_field(text, label):
+    try:
+        value = float(text)
+        if math.isfinite(value):
+            return value
+    except ValueError:
+        pass
+    raise ValueError(f'{label}: enter a number in seconds.')
+
+def form_style(root):
+    style = ttk.Style(root)
+    style.theme_use('clam')
+    ink, teal = '#203437', '#125f58'
+    style.configure('.', background='#f6f8f7', foreground=ink, font='TkDefaultFont')
+    style.configure('TButton', padding=(10, 4))
+    style.configure('Primary.TButton', background=teal, foreground='white', padding=(16, 7))
+    style.map('Primary.TButton', background=[('disabled','#d2dcd9'),('active','#084c45')],
+              foreground=[('disabled','#4b5956')])
+    style.configure('TNotebook.Tab', padding=(14, 6))
+    style.map('TNotebook.Tab', background=[('selected',teal)], foreground=[('selected','white')])
+    style.configure('TNotebook', borderwidth=0)
+    style.configure('TEntry', fieldbackground='white')
+    style.configure('Hint.TLabel', foreground='#425c58')
+    style.configure('Heading.TLabel', font=('TkDefaultFont', 12, 'bold'))
+    style.configure('Title.TLabel', background='#193c39', foreground='white', font=('TkDefaultFont', 16, 'bold'))
+    style.configure('Context.TLabel', background='#193c39', foreground='#d5e9e3')
+    style.configure('Header.TFrame', background='#193c39')
+    style.configure('Treeview', fieldbackground='white', rowheight=27)
+
 def explain(p,text,row):
-    ttk.Label(p,text=text,wraplength=680,justify='left').grid(row=row,column=0,columnspan=3,sticky='w',pady=(4,10))
+    label=ttk.Label(p,text=text,wraplength=640,justify='left',style='Hint.TLabel')
+    label.grid(row=row,column=0,columnspan=3,sticky='ew',pady=(3,7))
+    label.bind('<Configure>',lambda e:label.configure(wraplength=max(160,e.width-4)))
 def choose(callback,kind):
     p=filedialog.askdirectory() if kind=='folder' else filedialog.askopenfilename(filetypes=kind)
     if p:callback(p)
 class Leg:
     def __init__(self,app,side):
         self.app=app;self.side=side;p=app.page('Left foot' if side=='L' else 'Right foot')
-        self.folder=tk.StringVar();self.profile=tk.StringVar();self.windows=tk.StringVar();self.roi=tk.StringVar()
+        self.panel=p
+        self.folder=tk.StringVar();self.profile=tk.StringVar();self.roi=tk.StringVar()
         self.auto=tk.BooleanVar();self.note=tk.StringVar();self.ids=tk.StringVar();self.frame=tk.StringVar(value='Logger seconds')
         self.thresholds=tk.StringVar(value='3, 1.5, 0.04')
         entry(p,'SD recording',self.folder,0)
         ttk.Button(p,text='Browse…',command=safe(lambda:choose(self.import_folder,'folder'))).grid(row=0,column=2)
         ttk.Label(p,textvariable=self.note,wraplength=700).grid(row=1,column=0,columnspan=3,sticky='w')
-        explain(p,'Hold neutral, then rock shoe and shin together about the ankle axis. Mark a portion moving in the positive direction. Enter start and end for each of the three intervals below.',2)
-        entry(p,'Still, rock, positive (six times)',self.windows,3)
-        ttk.Combobox(p,textvariable=self.frame,values=['Logger seconds','Video seconds'],state='readonly',width=15).grid(row=3,column=2)
+        ttk.Label(p,text='Calibration intervals',style='Heading.TLabel').grid(row=2,column=0,sticky='w')
+        ttk.Combobox(p,textvariable=self.frame,values=['Logger seconds','Video seconds'],state='readonly',width=15).grid(row=2,column=2,sticky='e')
+        intervals=ttk.Frame(p);intervals.grid(row=3,column=0,columnspan=3,sticky='ew',pady=(3,8))
+        self.times=[]
+        for i,name in enumerate(('Still neutral','Common rocking','Positive segment')):
+            intervals.columnconfigure(i,weight=1,uniform='interval')
+            pair=ttk.LabelFrame(intervals,text=name,padding=(7,4))
+            pair.grid(row=0,column=i,sticky='ew',padx=(0,6))
+            for col,edge in enumerate(('Start','End')):
+                ttk.Label(pair,text=edge+' (s)').grid(row=0,column=col,sticky='w')
+                value=tk.StringVar();self.times.append(value)
+                pair.columnconfigure(col,weight=1)
+                ttk.Entry(pair,textvariable=value,width=7).grid(row=1,column=col,sticky='ew',padx=(0,4))
         entry(p,'Saved profile (optional)',self.profile,4)
         ttk.Button(p,text='Choose profile…',command=lambda:choose(self.profile.set,[('Calibration profile','*.json')])).grid(row=4,column=2)
-        explain(p,'Reuse a profile only with the same device and marked mounting. A fresh stationary interval is required. Leave the profile empty for a new calibration.',5)
+        explain(p,'Enter a neutral hold, then rock shoe and shin together. Mark the press direction within that rocking interval. With a matching saved profile, only fresh neutral times are required.',5)
         self.markers=tk.Text(p,height=4,width=36)
         ttk.Label(p,text='Marker ID, video seconds, fit/check').grid(row=6,column=0,sticky='w')
         self.markers.grid(row=6,column=1,columnspan=2,sticky='ew',padx=8)
-        explain(p,'Use the first lit frame of each 700 ms pulse. Fit the start and end. Reserve a middle pulse for the independent check. Automatic detection uses the LED rectangle and recorded pulse order.',7)
+        explain(p,'For manual timing enter one pulse per line, e.g. 1, 2.12, fit. Fit the first and last, and mark a middle pulse as check. For automatic timing select the LED on a frame.',7)
         ttk.Checkbutton(p,text='Detect filmed pulses',variable=self.auto).grid(row=8,column=0,sticky='w')
         ttk.Entry(p,textvariable=self.roi).grid(row=8,column=1,sticky='ew',padx=8)
         ttk.Button(p,text='Select LED on frame…',command=safe(self.pick_roi)).grid(row=8,column=2)
@@ -68,8 +112,15 @@ class Leg:
         if not (p/'meta.json').exists():raise ValueError('Open the boot/session folder containing meta.json under the device folder on the SD card.')
         m=json.loads((p/'meta.json').read_text())
         if m['side']!=self.side:raise ValueError(f"This is the {m['side']} logger. Select its matching tab.")
-        edges=logged_edges(p);self.folder.set(str(p));self.note.set(m['device_id']+'  •  LED rise times on logger  '+', '.join(f'{i} = {t:.2f} s' for i,t in edges[:12]))
-        if not m['device_id'].startswith('synthetic-'):self.app.synthetic=False
+        edges=logged_edges(p)
+        if self.app.synthetic and not m['device_id'].startswith('synthetic-'):
+            self.app.assign({})
+        elif self.folder.get() and Path(self.folder.get()).resolve()!=p.resolve():
+            self.load({})
+        self.folder.set(str(p));self.note.set(m['device_id']+'  •  LED rise times on logger  '+', '.join(f'{i} = {t:.2f} s' for i,t in edges[:12]))
+        self.app.clear_results()
+        if not m['device_id'].startswith('synthetic-'):
+            self.app.synthetic=False;self.app.context.set('Recording session')
         self.markers.delete('1.0','end')
         for i,(key,_) in enumerate(edges):self.markers.insert('end',f'{key}, , '+('fit' if i in (0,len(edges)-1) else 'check')+'\n')
     def pick_roi(self):
@@ -97,9 +148,15 @@ class Leg:
         w.protocol('WM_DELETE_WINDOW',close);show()
     def value(self,device_only=False):
         if not self.folder.get():return None
-        v=dict(directory=self.folder.get(),windows=numbers(self.windows.get()),window_clock=self.frame.get(),
+        fields=self.times[:2] if self.profile.get() else self.times
+        labels=('Still start','Still end','Rocking start','Rocking end','Positive start','Positive end')
+        windows=[numeric_field(field.get(),f'{self.side} foot · {label}') for field,label in zip(fields,labels)]
+        if windows[0]>=windows[1]:
+            raise ValueError('Still neutral must end after it starts.')
+        if len(windows)==6 and not windows[1]<=windows[2]<=windows[4]<windows[5]<=windows[3]:
+            raise ValueError('Place the positive segment inside common rocking, after the neutral hold.')
+        v=dict(directory=self.folder.get(),windows=windows,window_clock=self.frame.get(),
                markers={},event_thresholds=numbers(self.thresholds.get()))
-        if len(v['windows'])!=(2 if self.profile.get() and len(v['windows'])==2 else 6):raise ValueError(f'{self.side} needs calibration time intervals')
         if self.profile.get():v['profile']=self.profile.get()
         if device_only:return v
         if self.auto.get():
@@ -107,50 +164,136 @@ class Leg:
             if len(v['led_roi'])!=4:raise ValueError(f'Select the {self.side} LED rectangle')
             v['marker_ids']=[x.strip() for x in self.ids.get().split(',') if x.strip()]
         else:
-            for line in self.markers.get('1.0','end').strip().splitlines():
-                key,pts,role=(x.strip() for x in line.split(','))
+            for i,line in enumerate(self.markers.get('1.0','end').strip().splitlines(),1):
+                fields=[x.strip() for x in line.split(',')]
+                if len(fields)!=3 or not fields[0] or fields[2] not in ('fit','check'):
+                    raise ValueError(f'{self.side} marker row {i}: enter pulse ID, video seconds, fit/check.')
+                key,pts,role=fields
                 if key in v['markers']:raise ValueError('Each marker ID can appear once')
-                v['markers'][key]=dict(pts=float(pts),role=role)
+                v['markers'][key]=dict(pts=numeric_field(pts,f'{self.side} marker row {i}'),role=role)
         return v
     def load(self,v):
         v=v or {};self.folder.set(v.get('directory',''));self.profile.set(v.get('profile',''));self.note.set('')
         self.auto.set(v.get('auto_led',False));self.roi.set(', '.join(map(str,v.get('led_roi',[]))))
-        self.frame.set(v.get('window_clock','Logger seconds'));self.windows.set(', '.join(map(str,v.get('windows',[]))))
+        self.frame.set(v.get('window_clock','Logger seconds'))
+        times=v.get('windows',[])
+        for i,field in enumerate(self.times):field.set(str(times[i]) if i<len(times) else '')
         self.ids.set(', '.join(map(str,v.get('marker_ids',[]))));self.thresholds.set(', '.join(map(str,v.get('event_thresholds',[3,1.5,.04]))))
         self.markers.delete('1.0','end')
         for k,m in v.get('markers',{}).items():self.markers.insert('end',f"{k}, {m['pts']}, {m['role']}\n")
 class App:
-    def page(self,name):
-        p=ttk.Frame(self.tabs,padding=14);p.columnconfigure(1,weight=1);self.tabs.add(p,text=name);return p
+    def page(self,name,scroll=True):
+        if scroll:
+            host=ttk.Frame(self.tabs)
+            canvas=tk.Canvas(host,highlightthickness=0,background='#f6f8f7')
+            bar=ttk.Scrollbar(host,orient='vertical',command=canvas.yview)
+            canvas.configure(yscrollcommand=bar.set)
+            host.columnconfigure(0,weight=1);host.rowconfigure(0,weight=1)
+            canvas.grid(row=0,column=0,sticky='nsew');bar.grid(row=0,column=1,sticky='ns')
+            p=ttk.Frame(canvas,padding=(14,10))
+            item=canvas.create_window(0,0,window=p,anchor='nw')
+            def fit(_):
+                canvas.itemconfigure(item,width=canvas.winfo_width())
+                canvas.configure(scrollregion=canvas.bbox('all'))
+                if p.winfo_reqheight()>canvas.winfo_height():bar.grid()
+                else:bar.grid_remove();canvas.yview_moveto(0)
+            canvas.bind('<Configure>',fit);p.bind('<Configure>',fit)
+            self.scroll_pages[str(host)]=canvas
+        else:
+            p=host=ttk.Frame(self.tabs,padding=(14,10))
+        p.columnconfigure(1,weight=1);self.tabs.add(host,text=name);self.hosts[p]=host
+        return p
+
+    def scroll_form(self,event):
+        canvas=self.scroll_pages.get(self.tabs.select())
+        if canvas and isinstance(event.widget,tk.Widget) and str(event.widget).startswith(str(canvas)) and not isinstance(event.widget,(tk.Text,ttk.Combobox)):
+            if canvas.yview()!=(0.0,1.0):
+                canvas.yview_scroll(-int(event.delta/120),'units')
+
     def __init__(self,root):
-        self.root=root;root.title('KartPedal • Session export');root.geometry('840x660');self.bus=queue.Queue();self.busy=False
+        self.root=root;root.title('KartPedal • Session export')
+        root.geometry(f'{min(900,root.winfo_screenwidth()-40)}x{min(710,root.winfo_screenheight()-85)}')
+        root.minsize(600,420);form_style(root);root.configure(background='#f6f8f7')
+        self.bus=queue.Queue();self.busy=False;self.hosts={};self.scroll_pages={}
         self.synthetic=False;self.last_out=None
-        self.tabs=ttk.Notebook(root);self.tabs.pack(fill='both',expand=True,padx=12,pady=10)
+        header=ttk.Frame(root,style='Header.TFrame',padding=(16,8));header.pack(fill='x')
+        ttk.Label(header,text='KartPedal',style='Title.TLabel').pack(side='left')
+        self.context=tk.StringVar(value='New session')
+        ttk.Label(header,textvariable=self.context,style='Context.TLabel').pack(side='right')
+        self.tabs=ttk.Notebook(root);self.tabs.pack(fill='both',expand=True,padx=10,pady=(9,0))
+        root.bind('<MouseWheel>',self.scroll_form,add=True)
         self.device_only=tk.BooleanVar()
         p=self.page('Inputs');self.video=tk.StringVar();self.duration=tk.StringVar();self.gps=tk.StringVar();self.unit=tk.StringVar(value='km/h')
-        explain(p,'Prepare one source clip at a time. Import each available recording on its foot tab. The device ID and side come from the SD metadata.',0)
+        self.inputs=p
+        actions=ttk.Frame(p);actions.grid(row=0,column=0,columnspan=3,sticky='ew',pady=(0,12))
+        for name,fn in [('Load synthetic demo',lambda:self.load(HERE/'artifacts/outing/job.json')),('Open settings…',lambda:choose(lambda f:self.load(Path(f)),[('Session settings','*.json')])),('Save settings',self.persist),('New session',lambda:self.assign({}))]:
+            ttk.Button(actions,text=name,command=safe(fn)).pack(side='left',padx=(0,5))
+        self.sources={}
+        for index,side in enumerate(('L','R')):
+            name='Left' if side=='L' else 'Right'
+            row=ttk.Frame(p)
+            row.grid(row=index+1,column=0,columnspan=3,sticky='ew',pady=2)
+            ttk.Button(row,text=f'Choose {name.lower()} SD…',command=safe(lambda s=side:choose(self.legs[s].import_folder,'folder'))).pack(side='left')
+            label=ttk.Label(row,text=f'{name} foot · no folder selected',style='Hint.TLabel')
+            label.pack(side='left',padx=10);self.sources[side]=label
+        explain(p,'Choose one or both boot folders, then set calibration and filmed markers on each foot tab.',3)
+        inputs=ttk.Frame(p);inputs.grid(row=4,column=0,columnspan=3,sticky='ew')
+        inputs.columnconfigure(1,weight=1);p=inputs
         entry(p,'DJI source clip',self.video,1);ttk.Button(p,text='Browse…',command=lambda:choose(self.video.set,[('Video','*.mp4 *.mov *.mkv')])).grid(row=1,column=2)
         entry(p,'Duration if no video (s)',self.duration,2)
         entry(p,'RaceBox UTC CSV',self.gps,3);ttk.Button(p,text='Browse…',command=lambda:choose(self.gps.set,[('RaceBox CSV','*.csv')])).grid(row=3,column=2)
+        ttk.Label(p,text='RaceBox speed unit').grid(row=4,column=0,sticky='w')
         ttk.Combobox(p,textvariable=self.unit,values=['km/h','mph','m/s'],state='readonly',width=9).grid(row=4,column=1,sticky='w',padx=8)
-        explain(p,'Select the speed unit used during RaceBox export. Enter three independent GPS/video crossing pairs below. Leave them empty to keep GPS separate.',5)
+        explain(p,'Optional GPS alignment uses two fit crossings and a separate middle check. Leave the pairs empty for foot-only telemetry.',5)
         ttk.Label(p,text='GPS elapsed s, video s, fit/check').grid(row=6,column=0,sticky='w')
-        self.gpsanchors=tk.Text(p,height=4);self.gpsanchors.grid(row=6,column=1,columnspan=2,sticky='ew',padx=8)
+        self.gpsanchors=tk.Text(p,height=3,width=35);self.gpsanchors.grid(row=6,column=1,columnspan=2,sticky='ew',padx=8)
         ttk.Button(p,text='Inspect GPS lap crossings',command=safe(self.crossings)).grid(row=7,column=1,sticky='w')
-        actions=ttk.Frame(p);actions.grid(row=8,column=0,columnspan=3,sticky='w',pady=18)
-        for name,fn in [('Load synthetic demo',lambda:self.load(HERE/'artifacts/outing/job.json')),('Open settings…',lambda:choose(lambda f:self.load(Path(f)),[('Session settings','*.json')])),('Save settings',self.persist),('New session',lambda:self.assign({}))]:
-            ttk.Button(actions,text=name,command=safe(fn)).pack(side='left',padx=2)
         ttk.Checkbutton(p,text='Single logger only (no video or shared clock required)',variable=self.device_only).grid(row=9,column=0,columnspan=3,sticky='w')
         ttk.Button(p,text='Check SD integrity before calibration',command=safe(self.inspect)).grid(row=10,column=0,columnspan=3,sticky='w',pady=8)
         self.legs={s:Leg(self,s) for s in 'LR'}
-        self.results=self.page('Quality');self.log=tk.Text(self.results,height=14,wrap='word',state='disabled');self.log.pack(fill='both',expand=True)
-        ttk.Button(self.results,text='Show finished export folder',command=lambda:os.startfile(self.last_out) if self.last_out else None).pack(anchor='w')
-        bottom=ttk.Frame(root,padding=12);bottom.pack(fill='x')
-        self.btn=ttk.Button(bottom,text='Process and export LVZ',command=safe(self.start));self.btn.pack(side='right')
-        self.progress=ttk.Progressbar(bottom,mode='indeterminate',length=110);self.progress.pack(side='left')
-        self.status=tk.StringVar(value='Ready');ttk.Label(bottom,textvariable=self.status,wraplength=480).pack(side='left',padx=10)
+        for s,leg in self.legs.items():
+            leg.folder.trace_add('write',lambda *_,side=s:self.source_changed(side))
+        self.results=self.page('Quality',scroll=False)
+        ttk.Label(self.results,text='Motion quality',style='Heading.TLabel').pack(anchor='w',pady=(0,6))
+        columns=('Side','Valid','Missing','Reacquiring','Off-axis','Timing')
+        self.summary=ttk.Treeview(self.results,columns=columns,show='headings',height=2,selectmode='none')
+        for col,w in zip(columns,(48,90,64,90,65,140)):
+            self.summary.column(col,width=w,minwidth=42,anchor='w')
+            self.summary.heading(col,text=col,anchor='w')
+        self.summary.pack(fill='x')
+        ttk.Label(self.results,text='Processing details',style='Heading.TLabel').pack(anchor='w',pady=(12,4))
+        details=ttk.Frame(self.results);details.pack(fill='both',expand=True)
+        self.log=tk.Text(details,height=5,wrap='word',state='disabled',font='TkDefaultFont',padx=8,pady=6)
+        logbar=ttk.Scrollbar(details,command=self.log.yview)
+        self.log.configure(yscrollcommand=logbar.set);logbar.pack(side='right',fill='y');self.log.pack(fill='both',expand=True)
+        self.open_folder=ttk.Button(self.results,text='Show finished export folder',state='disabled',command=safe(lambda:os.startfile(self.last_out)))
+        self.open_folder.pack(anchor='w',pady=(6,0))
+        bottom=ttk.Frame(root,padding=12);bottom.pack(side='bottom',fill='x',before=self.tabs)
+        self.btn=ttk.Button(bottom,text='Process and export LVZ',style='Primary.TButton',command=self.start);self.btn.pack(side='right')
+        self.progress=ttk.Progressbar(bottom,mode='indeterminate',length=72)
+        self.status=tk.StringVar(value='Load the demo or choose an SD recording.')
+        self.status_label=ttk.Label(bottom,textvariable=self.status,wraplength=350)
+        self.status_label.pack(side='left',padx=6)
         self.root.after(80,self.poll)
+
+    def source_changed(self,side):
+        path=self.legs[side].folder.get()
+        self.sources[side].configure(text=Path(path).name if path else 'No folder selected')
+
+    def clear_results(self):
+        self.last_out=None;self.open_folder.state(['disabled'])
+        self.summary.delete(*self.summary.get_children())
+        self.log.configure(state='normal');self.log.delete('1.0','end');self.log.configure(state='disabled')
+
+    def begin_work(self):
+        self.clear_results();self.busy=True;self.btn.state(['disabled'])
+        self.tabs.select(self.results)
+        for panel,host in self.hosts.items():
+            if panel!=self.results:self.tabs.tab(host,state='disabled')
+        self.progress.pack(side='left',before=self.status_label)
+        self.progress.start(12)
     def crossings(self):
+        if not self.gps.get():raise ValueError('Choose a RaceBox CSV before inspecting GPS crossings.')
         rows=records(self.gps.get(),self.unit.get());last=None;data=[]
         for t,lat,lon,speed,lap,dt in rows:
             if lap!=last:data.append(f'{dt.isoformat()}    {t:.3f} s    lap {lap}');last=lap
@@ -158,22 +301,39 @@ class App:
     def value(self):
         j=dict(legs={},synthetic=self.synthetic,device_only=self.device_only.get())
         for s,obj in self.legs.items():
-            v=obj.value(self.device_only.get())
+            try:v=obj.value(self.device_only.get())
+            except ValueError:
+                self.tabs.select(self.hosts[obj.panel])
+                raise
             if v:j['legs'][s]=v
         if self.video.get():j['video']=self.video.get()
-        if self.duration.get():j['duration']=float(self.duration.get())
+        if self.duration.get():
+            try:j['duration']=numeric_field(self.duration.get(),'Duration')
+            except ValueError:
+                self.tabs.select(self.hosts[self.inputs]);raise
         if self.gps.get():
             a=[]
-            for line in self.gpsanchors.get('1.0','end').strip().splitlines():
-                x,y,r=(v.strip() for v in line.split(','));a.append([float(x),float(y),r])
+            for i,line in enumerate(self.gpsanchors.get('1.0','end').strip().splitlines(),1):
+                fields=[v.strip() for v in line.split(',')]
+                try:
+                    if len(fields)!=3 or fields[2] not in ('fit','check'):
+                        raise ValueError(f'GPS row {i}: enter GPS seconds, video seconds, fit/check.')
+                    a.append([numeric_field(fields[0],f'GPS row {i}'),numeric_field(fields[1],f'Video row {i}'),fields[2]])
+                except ValueError:
+                    self.tabs.select(self.hosts[self.inputs]);raise
             j['gps']=dict(file=self.gps.get(),unit=self.unit.get(),anchors=a)
         return j
     def assign(self,j):
+        self.clear_results()
+        self.context.set('Synthetic demo' if j.get('synthetic') else 'Recording session' if j.get('legs') else 'New session')
+        self.status.set('Choose the recording folders or load the demo.')
         self.synthetic=j.get('synthetic',False);self.device_only.set(j.get('device_only',False));self.video.set(j.get('video',''));self.duration.set(str(j.get('duration','')))
         gps=j.get('gps',{});self.gps.set(gps.get('file',''));self.unit.set(gps.get('unit','km/h'));self.gpsanchors.delete('1.0','end')
         for a in gps.get('anchors',[]):self.gpsanchors.insert('end',', '.join(map(str,a))+'\n')
         for s,o in self.legs.items():o.load(j.get('legs',{}).get(s))
-    def load(self,path):self.assign(absolute_job(path));self.status.set('Loaded '+path.name)
+    def load(self,path):
+        self.assign(absolute_job(path))
+        self.status.set('Demo loaded. Select Process and export LVZ.' if self.synthetic else 'Loaded '+path.name)
     def persist(self):
         path=STATE/'sessions'/(datetime.now().strftime('%Y%m%d-%H%M%S-%f')+'.json');save(path,self.value());self.status.set('Saved '+str(path))
     def line(self,text):
@@ -183,7 +343,7 @@ class App:
         sources={s:Path(v.folder.get()) for s,v in self.legs.items() if v.folder.get()}
         if not sources:raise ValueError("Select a recording folder on a foot tab first.")
         STATE.mkdir(parents=True,exist_ok=True)
-        self.busy=True;self.btn.configure(state='disabled');self.progress.start(12);self.tabs.select(self.results)
+        self.begin_work()
         def audit():
             try:
                 with tempfile.TemporaryDirectory(dir=STATE) as td:
@@ -198,8 +358,15 @@ class App:
         threading.Thread(target=audit,daemon=True).start()
     def start(self):
         if self.busy:return
-        j=self.value();out=STATE/'exports'/datetime.now().strftime('%Y%m%d-%H%M%S-%f')
-        self.busy=True;self.btn.configure(state='disabled');self.progress.start(12);self.tabs.select(self.results);self.line('Processing session')
+        try:
+            j=self.value()
+            if not j['legs']:
+                self.tabs.select(self.hosts[self.inputs])
+                raise ValueError('Choose a left or right SD folder, or load the synthetic demo.')
+        except ValueError as error:
+            self.clear_results();self.status.set(str(error));return
+        out=STATE/'exports'/datetime.now().strftime('%Y%m%d-%H%M%S-%f')
+        self.begin_work();self.line('Processing session')
         def worker():
             try:
                 report=run(j,HERE,out,lambda text:self.bus.put(('progress',text)))
@@ -209,7 +376,17 @@ class App:
                     save(saved,data)
                     device_key=hashlib.sha256(r['device'].encode()).hexdigest()[:16]
                     save(STATE/'devices'/(device_key+'.json'),dict(device=r['device'],side=s,config=data['config'],profile=str(saved)))
-                    self.bus.put(('progress',f"{s}: {r['quality_counts']} • independent marker residual {r['clock']['residual_ms']:.2f} ms"))
+                    clock=r['clock'];sigma=clock.get('estimated_uncertainty_ms')
+                    if clock['withheld']:
+                        residual=clock['residual_ms']
+                        measured='<0.01' if residual<.01 else f'{residual:.2f}'
+                        timing=f'{sigma:.1f} ms uncertainty' if sigma is not None else 'Uncertainty unknown'
+                        self.bus.put(('progress',f'{s} foot · marker residual {measured} ms · {timing}'))
+                    else:
+                        timing='Logger only'
+                        self.bus.put(('progress',f'{s} foot · device-relative time, no camera alignment'))
+                    counts=r['quality_counts']
+                    self.bus.put(('summary',(s,counts['valid'],counts['missing_or_uncertain'],counts['reacquiring'],counts['off_axis'],timing)))
                 for warning in report['warnings']:self.bus.put(('progress',warning))
                 self.bus.put(('done',out))
             except Exception as e:self.bus.put(('error',str(e)))
@@ -218,10 +395,13 @@ class App:
         while not self.bus.empty():
             action,val=self.bus.get()
             if action=='progress':self.status.set(val);self.line(val);continue
-            self.busy=False;self.btn.configure(state='normal');self.progress.stop()
+            if action=='summary':self.summary.insert('', 'end',values=val);continue
+            self.busy=False;self.btn.configure(state='normal');self.progress.stop();self.progress.pack_forget()
+            for host in self.hosts.values():self.tabs.tab(host,state='normal')
             if action=='audit':self.status.set(val);self.line(val);continue
             if action=='done':
-                self.last_out=val;self.status.set('LVZ ready');self.line('Open this file in LapViz Studio:\n'+str(val/'KartPedal.lvz'))
+                self.last_out=val;self.open_folder.state(['!disabled'])
+                self.status.set('LVZ ready');self.line('Open this file in LapViz Studio:\n'+str(val/'KartPedal.lvz'))
             else:self.status.set('Processing stopped');self.line(str(val))
         self.root.after(80,self.poll)
 if __name__=='__main__':

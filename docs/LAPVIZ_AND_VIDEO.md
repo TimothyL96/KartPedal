@@ -2,6 +2,8 @@
 
 ## Compare the same corner in LapViz Studio
 
+KartPedal’s LVZ contains telemetry. If you want to see the drive alongside it, drop the matching original clip on **Studio’s video panel**. With the full camera-aligned export and the full original clip, start with zero player offset and check a known flash. Studio’s manual offset adjusts playback against the loaded telemetry. KartPedal’s start/end fit aligns each logger clock and corrects its drift before export. Rendering the transparent strip is a separate optional step. [Studio video-panel trial](../software-v18/integration-evidence/RESULTS.md)
+
 1. Choose **Open a file** in [LapViz Studio](https://lapviz.studio/) and select the [demo LVZ](../measurement/artifacts/final/KartPedal.lvz) or your own original KartPedal export. Local analysis needs no session upload.
 2. Select both laps. Add **Left Ankle Excursion** and **Right Ankle Excursion**. Use the distance axis to compare the same corner in the same direction. The demo contains two laps of 37.997 s. On one trace at 152 m the left foot reads −0.02° and the right 14.0°.
 3. Compare movement timing against speed within valid intervals. Add **Valid** or **Quality Code** when a trace disappears. Use **Dashboard** for the local gauges. Keep the original LVZ for later analysis. Studio’s tested re-export reduced the 100 Hz foot traces to 25 Hz.

@@ -19,12 +19,12 @@ Use this checklist after the first leg passes its [bench and stationary fit gate
 ## At the laptop
 
 1. **Copy.** With the pod off and USB unplugged, copy each whole `device-id/boot-uuid/` directory, original DJI clips and original RaceBox export into an outing folder. Retain filenames and separate stints. Work from copies.
-2. **Select.** Launch [KartPedal](../Start%20KartPedal.cmd), choose **New session** and browse to each available side’s folder containing `meta.json`. Select one original clip on **Inputs**. **Check SD integrity before calibration** prints verified records, known losses and clipping per stream.
+2. **Select.** Launch [KartPedal](../Start%20KartPedal.cmd) and choose **New session**. Under **Inputs**, use **Choose left SD…** or **Choose right SD…** to select each available boot folder containing `meta.json`. Select one original clip. **Check SD integrity before calibration** prints verified records, known losses and clipping per stream.
 3. **Calibrate and align.** Enter the observed windows and LED evidence on each foot tab. Enter independently observed GPS crossings if available. Review the units and **Save settings**. [Worked example](CALIBRATION_AND_SYNC.md)
 4. **Process.** Click **Process and export LVZ**. In **Quality**, inspect missing and reacquiring intervals, clock residuals and warnings. Open `quality.json` for per-sensor fits, uncertainty and failure details. A successful export can contain unusable intervals.
 5. **Compare and edit.** Open the original LVZ in Studio. Compare same-direction laps at matched distance within valid windows. Put the transparent strip over the source in Resolve. Link the layers for pit, outlap and inlap cuts. Inspect the exported video at start, middle and end. [Analysis and edit instructions](LAPVIZ_AND_VIDEO.md)
 
-![Quality screen from a completed two-foot demo export](images/desktop-quality.jpg)
+In the demo, the **Quality** table shows 14,157 valid samples for L and 14,078 for R. The **Timing** column shows each side’s estimated uncertainty. In a single-logger session it reads **Logger only**. The detailed log lists the held-out marker residual for camera-aligned sessions.
 
 ## What carries over
 
